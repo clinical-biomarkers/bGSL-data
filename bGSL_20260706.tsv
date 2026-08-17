@@ -1,0 +1,1156 @@
+bgsl_id	term	abbreviations	exact_synonyms	broad_synonyms	narrow_synonyms	related_synonyms	classification	gtc_id	gsd_id	glycomotif_id	sources	eog_sentence	review_notes
+GSD:0264d39d-5c78-4d87-91e1-86e294df4b45	2'FL						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:de926fb1-1f54-47eb-bbd3-33d4629eb5ea	2-6 sialyl i-Lewis x						1A	G93855LZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f58b5b41-951c-418f-81bf-a098d895c9d4	2-6 Sialyl Lewis x						1A	G93855LZ			PUBDICT_GLYCAN_MOTIF		
+GSD:0a5b406f-05a2-4f1a-b6fb-abe589e7013d	2-9,2-6 disialyllactosylceramide						1A	G30187JM			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:39f43575-ae55-4706-9456-72a78938691b	2-fucosyl GD1b						1A	G67383AR; G93694YU	GSD000003	GlycoMotif:GGM.000103; GlycoMotif:GDV.000010; GlycoMotif:CCRC.000103	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:9206a8e4-f606-4bab-b7e6-5c0a17da023e	2-fucosyl GM1			fucosyl GM1			1A	G56526JU; G91532KA	GSD000004	GlycoMotif:GGM.000101; GlycoMotif:GDV.000009; GlycoMotif:CCRC.000101	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:78e57684-932d-4b0e-9111-88c999354c7d	3'-KDN-Lewis c		3'-KDNLec				1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:50bd5cc3-a7af-4947-8611-3338bce8c73a	3'-SiaDi-LN						1A				BIOOLIGO		
+GSD:b0a837cb-af50-48ab-af6e-b7f078dcd176	3'-sialyl-Lewis c	3'SLec	3'-Sialyl-Lewis c				1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:969a1348-7a24-4a66-866b-c87caba8a9e8	3'-sulfo Lewis a	SuLe(a); 3'-Sulfo Lea; 3'-Sulfo Le^a	3'-Sulfo-Lea; 3'-sulpho-Le(a); 3-O-sulfo-Le(A); 3'-Sulfo Le^a; 3'-Sulfo Lea; 3'-Sulfo Lewis a; 3'-sulpho Lewis A				1A	G78706CK; G36845IZ; G14395NH	GSD000006	GlycoMotif:GGM.000030; GlycoMotif:GDV.000047; GlycoMotif:CCRC.000030	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; BIOOLIGO		
+GSD:8f470fe6-edc7-4605-a4ee-d22439fb8c44	3'-sulfo Lewis X	3'-su-Le^x	3'-sulfo-Le(x); 3'-sulfo Le^x; 3'-sulfo Lex; 3'-su-Lewis x; 3-Sulfo-Lewis x				1A	G12295TB; G26555CS; G51907PX	GSD000007	GlycoMotif:GGM.000029; GlycoMotif:GDV.000048; GlycoMotif:CCRC.000029	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:0db7db50-a956-474b-a648-fd6f10e81ebf	3'S-Di-LeA						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:8041b096-e548-4cdb-b4b9-6d3cceddc652	3'S-Di-Lec						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:6adfff6e-740c-4402-bf99-c21fa2515600	3'S-Di-Lex						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:9be42e4a-c8f5-4d47-8644-338ca4b490f5	3'SL (Gc)						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:d7b7c6c6-1de9-426d-b3bb-cd21f1ec3cbf	3'SLeA-LeX						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:fe6bdf13-0c87-4318-aa77-4665d91ccd84	3'SLec (Gc)						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:0504158e-ed2f-4f68-b591-91cacba2d8c1	3'SLecLN						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:f9f92198-c194-4a66-841e-fa31d65cd03d	3'SLex						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:3356b4df-5915-4242-9743-330bc7717821	3'SLN-Lec						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:fd2d398b-bcb6-4b87-a633-070ad22d12a4	3,6-(LacNAc)2Tn						1A				BIOOLIGO		
+GSD:b87f07e6-1235-487b-9c05-26d1da25fe90	3-6-STn						1A				BIOOLIGO		
+GSD:936782ac-285b-4f5d-aef2-c1f18cdeea8a	3-Fucosylated Blood group A tetraose						1A				BIOOLIGO		
+GSD:ba18fda6-78b4-4a7a-8b40-177fa0fa324c	3-Fucosylated Blood group B tetraose						1A				BIOOLIGO		
+GSD:1a74fb04-5e25-4b9f-8320-827ccdd7b936	3-Fucosyllactose						1A				BIOOLIGO		
+GSD:827b6b74-ee96-4475-b655-a8bc960bfc24	3-LacNAc-Tn						1A				BIOOLIGO		
+GSD:7e6283db-984a-44f6-904c-6e9b5794c59f	3-Sulfo-Lewis a		3-Sulfo-Lewis a (3'-Sulfo Lewis a)				1A	G78706CK			PUBDICT_GLYCAN_MOTIF		
+GSD:5e2afc6f-ad8f-44b7-88ba-8804264bd8c0	4' sulfo Lewis X						1A				BIOOLIGO		
+GSD:0d2dd2c6-4887-4c3e-99c5-1c8e91673939	6'-SiaaTF						1A				BIOOLIGO		
+GSD:6e033c8a-f202-509b-8b71-6eef358777b2	6'-sulfo-sialyl Lewis x	6-sulfo SLex; 6-sulfo SLe^x; 6'-sulfo-sLe(x); Su-SaiLex; Su-Slex; Su-SLex; 6'-sulfo SLex; 6'-sulfo SLe^x	sialyl-6'-sulfo-Lex; Sialyl-6'-sulfo-Lewis x; 6'-sulfo-SLex; 6'-sulfated sialyl Lewis x-; 6'-Sulfo-sialyl Lewis x; 6'-sulfo SLex; 6-sulfo SLex; 6'-Sulfo Sialyl Lewis x; 6-Sulfo Sialyl Lewis x; 6'-Sulfo-sialyl Lewis x (6'-sulfo SLex)				1A	G80722US; G00672PE; G77659VW; G23322RK; G06378CG; G53231FE	GSD000011	GlycoMotif:GGM.000027; GlycoMotif:GGM.000025; GlycoMotif:GDV.000088; GlycoMotif:GDV.000104; GlycoMotif:CCRC.000025; GlycoMotif:CCRC.000027	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:5874f282-15c4-4cfe-bb22-d22ac18ec0bc	6'SL						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:fc2650ad-6104-49d3-9ccd-5ce5657418e1	6'STF						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:d2279ba8-4a28-4434-a642-da84c9fc52ac	6,6'- disulfo sialyl Lewis X						1A	G00659GQ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:93783264-bc71-4521-a412-c6b24cbae82c	6,6'-bissulfo-Lewis x	6,6'-bissulfo Lex; 6,6'-bissulfo Le^x	6,6'-bisSulfo-Lewis x (6,6'-bissulfo Lex)); 6,6'-bisSulfo-Lewis x			6,6'-Disulfo Sialyl Lewis x	1A	G00659GQ; G46799JK; G23094GH		GlycoMotif:GGM.000028; GlycoMotif:GDV.000087; GlycoMotif:CCRC.000028	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:1dc6c632-bd63-43c8-a063-56e9450d4969	6,6'-dissulfo sialyl Lewis X		6,6'-bissulfo sialyl Lewis X; 6,6'-disulfo sLex				1A	G00659GQ	GSD000008	GlycoMotif:GGM.000028	GSD_GLYGEN_V0		
+GSD:20038fd4-69d6-475d-a0b9-9fc7083a454a	6-LacNAc-TF						1A				BIOOLIGO		
+GSD:cd763a64-a6dc-4eab-b937-3e33ae1cd3b3	6-LacNAc-Tn						1A				BIOOLIGO		
+GSD:be9bde39-92e3-455d-b92d-cb0ef85b9363	6-Siab-TF						1A				BIOOLIGO		
+GSD:0dc479ed-9999-4e5c-aedd-a5574d3761bf	6-su-Gal-SiaLewis x						1A				BIOOLIGO		
+GSD:180d4ba7-364b-41d2-9011-ddce41e4c1fa	6-su-GalNAc-SiaLewis x						1A				BIOOLIGO		
+GSD:3069194c-d911-4030-8a98-77d45e1eb81d	6-sulfo Lewis x						1A	G89307GT			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:d9342494-0eb5-4552-a675-396561124755	6-sulfo sialyl Lewis c	Su-SaiLec; Su-SLec					1A	G93779QZ			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:f1e694a5-7a2e-46b3-9407-ef5d72230d5f	6SLN-Lec						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:62034e28-8d2d-44a0-8798-c5e7ac0ffbe3	9-O-acetyl GD3	acGD3	9-O-Acetylated GD3; 9-O-Acetyl-GD3; 9-O-Ac-GD3			CD60b	1A	G74121RX; G98544DH; G81928IQ	GSD000012	GlycoMotif:GGM.000093; GlycoMotif:CCRC.000093	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3d4b96f3-a8d3-4e24-9aaf-d78c8dc0b898	9OAc3'Slec						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:0dd4e8e2-283e-4426-8f4b-e509742740ab	A Lewis b	A Leb; A-Leb					1A	G48600JD; G97501MA			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:4d5eee1d-6267-4465-aac4-54e81a3cfb25	A tetra L						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:ed5c0feb-8239-44cb-902b-d76177a1c358	A tetra type 1						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e8039e25-c8ee-4ee6-ac5b-9c8bfedc5692	a-Galactose on Core 2						1A				BIOOLIGO		
+GSD:f93c2ef9-4472-4b87-a2f1-e8237e32833d	a2-3 Neu5Ac on Core 1						1A				BIOOLIGO		
+GSD:4cd2a54e-e648-4edb-a081-1859c0d1e426	acharan sulfate						1A	G25575JK			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:667030ec-2d62-5573-9fa1-f4482afc0782	alkylacylphosphatidylinositol-anchored glycan						1A				EOG_VARKI_4E		
+GSD:82b9cec8-2cf0-4645-84fa-a2f32096f855	alpha-gal antigen	αGal	a-Gal antigen; alpha-Gal antigen; α-Gal epitope; alpha-galactosyl epitope; Galalpha1-3Gal epitope				1A	G24432YB; G00046MO; G27798EJ	GSD000016	GlycoMotif:GGM.000015; GlycoMotif:GDV.000022; GlycoMotif:CCRC.000015	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCOSMOS		
+GSD:4413027a-000c-4d52-b149-7cbdd9eae3f2	alpha-galactosylceramide	alpha-GalCer; α-GalCer					1A		GSD000017		GSD_GLYGEN_V0		
+GSD:0a3ac62a-32cc-436d-92d9-761db7a26546	Antigen H				H1 (tri-)		1A	G88393MK			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5	asialo-GM1	as-GM1; aGM1; AGM1		Glycosphingolipid Ganglio series	Asialo-GM1a	GA1; Gangliotetraosylceramide; GgO4; Gg4; ganglio-N-tetraosylceramide	1A	G21856LC; G00407UJ	GSD000019	GlycoMotif:GGM.000099; GlycoMotif:GDV.000033; GlycoMotif:CCRC.000099	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; GLYCOEPITOPE; PUBDICT_GLYCOSMOS		
+GSD:c5e6b584-e1d9-4517-beaf-b443d1575d86	asialo-GM2	aGM2; AGM2		Glycosphingolipid Ganglio series			1A	G90562PB			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; PUBDICT_GLYCOSMOS		
+GSD:05a9fa0f-72da-4ef3-aa5c-7c3af82e5d6b	asialo-GM3	aGM3; AGM3					1A	G84224TW; G15541SE			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:0d97fc4e-ce56-4a86-b57f-440bf6a5d1bf	B antigen (type 3)						1A	G88313DY		GlycoMotif:GGM.000201	GLYCOMOTIF_GGM		
+GSD:a1b6fffe-0c19-4bcf-8328-391beda92526	B Lewis b	B Leb					1A	G60395SO			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:d036fa70-2ddc-4b0a-ba1d-0c73f125e9e5	B tetra L						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:bd04b28f-e01a-4fed-b552-9603e7b92d4c	B tetra type 1						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:c825910c-ff52-403c-b979-08a09f63b61a	b-galactosylated Core 2						1A				BIOOLIGO		
+GSD:97cbf76d-a704-4f31-8d6d-b6e7cd262d1d	B-GD1b						1A	G72557NR; G29966WK		GlycoMotif:GGM.000104; GlycoMotif:GDV.000019; GlycoMotif:CCRC.000104	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:93378260-2740-4c40-8ebb-ee12c93b020b	B-GM1						1A	G11485ID; G46884IT	GSD000021	GlycoMotif:GGM.000102; GlycoMotif:GDV.000018; GlycoMotif:CCRC.000102	GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:a80870da-7ba1-4942-96d5-e09546fd4388	B2-tri						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:97b52f8a-cb0a-4e24-9402-cfc16e98b8a0	B7 type 1		B Lewis b(7)				1A	G22689CV			SUGARBIND		
+GSD:b91d3bb6-92b2-4960-a3a6-61e3060e5687	blood group A		Blood Group A Like; A antigen; Antigen A; blood group A determinant; A blood group determinant; blood group A trisaccharide; Blood group A antigen triose				1A	G00066MO; G17108EX; G33888AF; G58507AZ; G48600JD; G88356HA; G10902TC; G55958KV; G71832QJ		GlycoMotif:CCRC.000038; GlycoMotif:CCRC.000011	PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; SUGARBIND; EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOEPITOPE; BIOOLIGO	Efforts to generate “universal donor” red blood cells, via enzymatic conversion of blood group A and B antigens to the O state using bacterial enzymes, are underway.	
+GSD:2808ef9b-a5d3-4c9d-b4b5-6509702fe899	Blood group A (type 1)  (A-Lewis b)	A-Leb; A-Le^b	Blood group A (type 1) (A-Leb); Blood group A (type 1) - Lewis b; A type 1 A Lewis b; A type 1 A Leb				1A	G97501MA; G12068BR		GlycoMotif:GDV.000054; GlycoMotif:GGM.000047	GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GGM; SUGARBIND		
+GSD:4ffcb257-b223-412f-9323-901bf7f9a02e	Blood group A (type 2) (A-Lewis y)	A-Ley; A-Le^y	Blood group A (type 2) (A-Ley); Blood group A (type 2) - Lewis y; Blood group A - Lewis Y-associated type 2 chain; Blood group A (type 2)  (A-Lewis Y)				1A	G54826OZ		GlycoMotif:GGM.000039; GlycoMotif:GDV.000059	PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV		
+GSD:ab5651c9-e7de-41ef-a6c9-a0ef49e1ec9a	Blood group A antigen hexaose type 1						1A				BIOOLIGO		
+GSD:204df6fa-0e2a-4541-a11f-9470033d1368	Blood group A antigen hexaose type 2						1A				BIOOLIGO		
+GSD:00a5fc9f-e729-463f-a0a1-26c3bdc57760	Blood group A antigen pentaose type 1						1A				BIOOLIGO		
+GSD:f0603740-55d7-4f99-a298-25e63b7981b7	Blood group A antigen pentaose type 2						1A				BIOOLIGO		
+GSD:340e2b87-7c2a-481b-ae77-d0265d0f17bc	Blood group A antigen pentaose type 4						1A				BIOOLIGO		
+GSD:98ba7955-897d-46fd-869d-f8415c81ba33	Blood group A antigen tetraose type 1						1A				BIOOLIGO		
+GSD:74bc8d30-d393-4c05-b633-75d282f3a16d	Blood group A antigen tetraose type 2						1A				BIOOLIGO		
+GSD:9a4db0b1-195e-4e92-b3ea-b9d3dd20b0ec	Blood group A antigen tetraose type 5						1A				BIOOLIGO		
+GSD:d1bd1752-7ffb-45f2-bdfe-af177bdc000a	Blood group A Lewis B antigen pentaose type1						1A				BIOOLIGO		
+GSD:f5753280-5b0f-4ca8-a037-4b93c47c0c34	Blood group A Lewis Y antigen pentaose type2						1A				BIOOLIGO		
+GSD:82cda56f-fb8a-4ab1-8f18-f9c6f3af0101	blood group A type 1		A type 1; Blood group A(1); blood group A antigen type 1				1A	G66163TI; G03986GH; G44060QH; G97501MA	GSD000030	GlycoMotif:GGM.000044; GlycoMotif:GDV.000058; GlycoMotif:CCRC.000040	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:2343d12e-5dbe-4d4f-b34a-375a4b765132	blood group A type 1 (difucosyl)		Blood Group A Type 1 (difucosyl)				1A	G97501MA			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:472ff3df-4f0f-40ae-94cf-d3e88ad3b8c1	blood group A type 2		A type 2; Blood group A type 2 chain	type 2; Blood group A			1A	G74353FF; G54826OZ	GSD000014	GlycoMotif:GGM.000038; GlycoMotif:GDV.000060	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:ed96acf9-f6ab-4ca5-9f1e-e55096721865	blood group A type 2 (difucosyl)		Blood Group A Type 2 (difucosyl)				1A	G54826OZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:38207d6d-3937-4f05-9e53-1b9a4a74231a	Blood group A type 2 tetrasaccharide						1A	G17108EX			SUGARBIND		
+GSD:207fa7ce-3be1-4238-9f15-898b2619f3eb	blood group A type 3		A type 3 antigen; A antigen type 3	A antigen			1A	G99315PE	GSD000187	GlycoMotif:GGM.000011; GlycoMotif:GDV.000056	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV		
+GSD:0885805e-d52a-4a04-9cca-f75c60a82a62	blood group A type 4		A type 4				1A	G37830TX; G17480GI	GSD000028	GlycoMotif:GGM.000088; GlycoMotif:GDV.000057	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:4bbb81b8-45ca-4cfc-9f42-9bc502ff80ab	Blood group A1 (type 3)		Blood group A1 - type 3 chain	type 3; Blood group A1			1A	G44060QH		GlycoMotif:GGM.000040; GlycoMotif:GDV.000055	GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; CUMMINGS		
+GSD:83245157-ba0e-4e01-88e7-2cddc874293c	Blood group A2						1A	G19804SF; G62735WZ		GlycoMotif:CCRC.000041	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:8563613e-ab0f-49c2-9e7c-a2403c8503ea	Blood group A2 (A-associated H type 3)		Blood group A2 - A-associated H type 3 chain; A-associated H type 3	Blood group A2			1A	G62735WZ		GlycoMotif:GGM.000041; GlycoMotif:GDV.000005	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; CUMMINGS; GLYCOMOTIF_GDV		
+GSD:33c41ef4-5d0d-489b-a130-63c7f9b47626	Blood group B		B antigen; blood group B determinant; B blood group determinant; Blood group B antigen triose				1A	G41865GQ; G26934CO; G60395SO; G65112QB; G00067MO; G58612ZQ		GlycoMotif:CCRC.000037	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; SUGARBIND; EOG_VARKI_4E; BIOOLIGO	Similarly, blood group B individuals show circulating IgM anti-A isoagglutinins, but they do not make isoagglutinins against the blood group B determinant, a “self” antigen.	
+GSD:d0c92ce6-f115-44d7-8387-7c01c92c4e12	Blood group B (type 1) (B-Lewis y)	B-Ley	Blood group B - Lewis Y-associated type 1 chain; Blood group B (type 1)  (B-Lewis Y); Blood group B (type 1) (B-Ley)				1A	G89208KM		GlycoMotif:GDV.000016	PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GDV		
+GSD:a1bfa3b9-241c-4f5d-8078-667444a5ca13	Blood group B (type 1) - Lewis b	B-Leb; B-Le^b	B type 1 B Lewis b; B type 1 B Leb				1A	G89208KM; G94938PL		GlycoMotif:GGM.000046	GLYCOMOTIF_GGM; SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:1a6a9019-47b8-4344-93e1-49963d0fd217	Blood group B - type 2 chain			type 2; Blood group B			1A				CUMMINGS		
+GSD:30a8da01-c6bc-4a2a-b9e5-9e9bb5b14f53	Blood group B - type 4 chain		Blood group B (type 4)				1A	G25216QA		GlycoMotif:GDV.000017	GLYCOMOTIF_GDV		
+GSD:8b10472c-5ae1-4dd9-82b5-42474e3d7006	Blood group B antigen hexaose type 1						1A				BIOOLIGO		
+GSD:49f91d95-20ac-4564-8f7b-67d2f9d26f5c	Blood group B antigen hexaose type 2						1A				BIOOLIGO		
+GSD:56423b81-a3a9-4671-b3c9-d7594f838e46	Blood group B antigen pentaose type 1						1A				BIOOLIGO		
+GSD:699f461e-f38f-4347-aa37-eacf41a0f7e6	Blood group B antigen pentaose type 2						1A				BIOOLIGO		
+GSD:b69d56ae-bd20-4c66-a177-b976e7259123	Blood group B antigen pentaose type 4						1A				BIOOLIGO		
+GSD:4c0b9c20-c99a-4e0c-9bc3-1617be290517	Blood group B antigen tetraose type 1						1A				BIOOLIGO		
+GSD:801c9f6d-85f1-4e6c-955e-52ad0aeabbdd	Blood group B antigen tetraose type 2						1A				BIOOLIGO		
+GSD:9681bd86-61d6-4e1f-ab5e-9378a22a71a4	Blood group B antigen tetraose type 5						1A				BIOOLIGO		
+GSD:667ae06c-682f-4c96-bef2-6b89758f3e38	Blood group B Lewis Y antigen pentaose type1						1A				BIOOLIGO		
+GSD:289eb971-7325-4729-aef5-13b36e8c4809	Blood group B Lewis Y antigen pentaose type2						1A				BIOOLIGO		
+GSD:2cfbb66d-c3bb-4bb7-b9b5-ba9fe800f805	blood group B type 1		B type 1		blood group B type 1 tetrasaccharide		1A	G31734OS; G89208KM	GSD000033	GlycoMotif:GGM.000043; GlycoMotif:GDV.000020	GSD_GLYGEN_V0; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:0de8e83d-136a-4a18-b54b-03bed4dc0ea0	blood group B type 2		B type 2				1A	G34881WK; G94956AW	GSD000034	GlycoMotif:GGM.000037; GlycoMotif:GDV.000021	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:9867f64d-2c40-4a2c-b1ed-7b567a831081	blood group B type 4		B type 4				1A	G25216QA	GSD000035	GlycoMotif:GGM.000087	GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF		
+GSD:89c74519-5663-41d2-ba94-b83ac774c644	blood group H		blood group H determinant; H blood group determinant; blood group H disaccharide; H antigen; Blood Group H Like				1A	G00068MO; G43391VM; G50899UD; G49963IQ; G46868TY; G82749ZI		GlycoMotif:CCRC.000036; GlycoMotif:CCRC.000010	PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; EOG_VARKI_4E; GLYCOEPITOPE		
+GSD:d333d75f-dede-412f-946c-3dc7e8a8060c	Blood group H (type 1) (Lewis b)		H type 1 Leb; H type 1 Lewis b				1A	G14300ZJ			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:dd235a3e-9078-4a96-a0b6-9e84f353451f	Blood group H (type 2) (Lewis y)	H-Ley; H-Le^y	Blood group H - Lewis Y-associated type 2 chain; Blood group H (type 2)  (Lewis Y); Blood group H (type 2) - Lewis y				1A	G00052MO		GlycoMotif:GGM.000045; GlycoMotif:GDV.000012	GLYCOMOTIF_GGM; GLYCOMOTIF_GDV		
+GSD:47976965-5801-46c6-a231-c3df947bd023	Blood group H antigen pentaose type 2						1A				BIOOLIGO		
+GSD:6c156c28-1651-4ca4-afd2-14435c40d69f	Blood group H antigen tetraose type 1						1A				BIOOLIGO		
+GSD:40f5bc45-40d6-45c8-9499-1e154f0371e1	Blood group H antigen tetraose type 2						1A				BIOOLIGO		
+GSD:91252642-e48c-4932-b194-16ec992c09db	Blood group H antigen tetraose type 4					Globo H tetraose	1A				BIOOLIGO		
+GSD:2e01cb56-1c85-4da0-b45a-faa7d99709a8	Blood group H antigen triaose type 2						1A				BIOOLIGO		
+GSD:d1b2db9c-7d8f-4aee-a68c-beed7eee83e3	Blood group H antigen triose type 1						1A				BIOOLIGO		
+GSD:a09d6b11-5a98-4a18-8ed6-d9ca363aeac6	Blood group H antigen triose type 3						1A				BIOOLIGO		
+GSD:8355ca1a-48c4-47ec-8201-d3041c6aa36e	Blood group H antigen triose type 4						1A				BIOOLIGO		
+GSD:6029dc10-955e-4e41-9a2f-f54237e05dfc	Blood group H antigen triose type 5						1A				BIOOLIGO		
+GSD:fa6edfd3-6f93-4dbe-adbb-8166a50040ad	Blood group H antigen triose type 6						1A				BIOOLIGO		
+GSD:0ed5a19c-fcae-4fe7-87d5-c0a5b55f958a	Blood group H type 1		type 1 blood group H core trisaccharide; H type 1; Blood group H (type 1); Blood group H - type 1 chain				1A	G40696TO; G00294TN		GlycoMotif:GGM.000042; GlycoMotif:GDV.000011	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GDV		
+GSD:21b06f4b-72a6-44ef-843b-ee9e7b9f882b	blood group H type 2		H type 2; H type 2 chain; H type 2 antigen; type 2 chain H; blood group H type II; Blood group H - type 2 chain; Blood group H (type 2)	type 2; Blood group H; Blood group type 2			1A	G70519XK; G61459JW; G00052MO	GSD000037	GlycoMotif:GGM.000036; GlycoMotif:GDV.000015	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; CUMMINGS; GLYCOMOTIF_GDV		
+GSD:bcdec788-57db-4059-a9d7-7e41db1cbc36	blood group H type 3		H type 3; H antigen (type 3); Type 3 chain H	blood group H			1A	G94435QH	GSD000105	GlycoMotif:GGM.000010; GlycoMotif:GDV.000006	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:c9e0a269-4ff1-41d3-b7b4-8b37e578051d	blood group H type 4		H type 4				1A	G98465JN; G35778AN	GSD000039	GlycoMotif:GGM.000086; GlycoMotif:GDV.000007	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1ea3fdb2-913c-49d2-8e5b-63f0120eae2b	CA19-9 antigen		CA19-9; carbohydrate antigen 19-9			sialyl Lewis a; Sialyl Lewis a	1A	G00053MO			PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:170fb3c9-a30b-4884-8cc5-2ffe6f8a2e58	CAD						1A	G00063MO			PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:2721b555-911d-4079-a026-e761a752deb8	CD77					Gb3	1A	G00059MO			EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:a8e0b4d7-923f-44ff-b5a9-3a67e88f2152	Chodroitin Sulfate D Unit						1A	G46732TY			PUBDICT_GLYCAN_MOTIF		
+GSD:c0561c11-1067-5e5a-ba4b-43ad894ccf41	chondroitin						1A	G43702JT; G00018MO			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC	Superficially, this would seem to make sense, because primary glycans of cartilage include hyaluronan (see Chapter 15) and chondroitin sulfate, both of which contain hexosamines within their structure (see Chapter 16).	
+GSD:5ee39a73-269a-4186-a7c6-62e5e009ce33	Chondroitin 4S						1A	G00018MO			PUBDICT_GLYCAN_MOTIF		
+GSD:3d250b8c-6c0f-5d52-9fd3-1a58a7660e1d	chondroitin sulfate		chondroitin sulfuric acid; chondroitin sulphate		chondroitin polysulfate		1A	G00018MO	GSD000043		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_MOTIF_GTC	For example, dermatan sulfate is defined as having one or more iduronic acid–containing disaccharide units (chondroitin sulfate B) as well as glucuronic acid–containing disaccharides (chondroitin sulfate A and C).	
+GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6	chondroitin sulfate A					chondroitin-4-sulfate	1A				EOG_VARKI_4E; GSD_GLYGEN_V0	For example, dermatan sulfate is defined as having one or more iduronic acid–containing disaccharide units (chondroitin sulfate B) as well as glucuronic acid–containing disaccharides (chondroitin sulfate A and C).	
+GSD:37210836-4c03-58ec-ae10-befc14eacc9e	chondroitin sulfate B					dermatan sulfate	1A				EOG_VARKI_4E; GSD_GLYGEN_V0	For example, dermatan sulfate is defined as having one or more iduronic acid–containing disaccharide units (chondroitin sulfate B) as well as glucuronic acid–containing disaccharides (chondroitin sulfate A and C).	
+GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4	chondroitin sulfate C						1A				EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:74d80e0e-d8f6-4bc8-ae71-c0e46b361078	chondroitin sulfate D		Chondroitin Sulfate D Unit				1A	G46732TY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:8f6f7c24-3f1b-4db2-ba76-11880d6a7348	chondroitin sulfate/dermatan sulfate	CS/DS	chondroitin/dermatan sulfate				1A		GSD000184		GSD_GLYGEN_V0	Biosynthesis of chondroitin sulfate/dermatan sulfate involves the polymerization of N-acetylgalactosamine and glucuronic acid units and a series of modification reactions including O-sulfation and epimerization of glucuronic acid to iduronic acid.	
+GSD:5c444dc8-d458-53df-88a8-65344b643df1	chondroitin-4-sulfate		4-sulfated chondroitin sulfate			chondroitin sulfate A	1A	G19059PI			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:6328b58f-362d-4ff2-86a7-96e23ce02b29	chondroitin-6-sulfate		6-sulfated chondroitin sulfate				1A	G34992DF			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a87bffd5-8013-40b9-83a5-e3087d62e873	cisGM1		GM1b				1A	G03277YI; G14633CL	GSD000044	GlycoMotif:GGM.000100; GlycoMotif:GDV.000102; GlycoMotif:CCRC.000100	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:c752f08d-02e4-402c-9910-353ec9b7eb69	core 0						1A	G57321FI			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:0fd86f52-404f-45fb-afd7-fa20adcb0fad	core 1	C1G	Core 1 / T antigen; core 1 O-glycan; core 1 O-GalNAc glycan; O-Glycan core 1				1A	G00031MO; G58645HA; G00032MO		GlycoMotif:GGM.001005	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_MOTIF_GTC	A family of core 1 galactosyltransferases (C1GalTs) exists in Drosophila and the loss of certain members disrupts the nervous system and neuromuscular junctions (NMJ).	
+GSD:ca236d51-3a64-4e03-acc2-f15ecaca0569	core 2		core 2 O-glycan; core 2 O-GalNAc glycan; O-Glycan core 2				1A	G00033MO; G00034MO		GlycoMotif:GGM.001007	PUBDICTIONARIES-GLYCAN-IMAGE; BIOOLIGO; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	The enzymes responsible for core 2 synthesis are core 2 β1-6 N-acetylglucosaminyltransferases 1, 2, and 3 (GCNT1, GCNT3 and GCNT4).	
+GSD:bf830cb7-4464-4a6d-bc6e-bde254b86ad3	core 3		core 3 O-glycan; core 3 O-GalNAc glycan; O-Glycan core 3				1A	G00035MO; G00036MO		GlycoMotif:GGM.001009	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Core 3 O-mannose is extended in the ER by an N-acetylglucosaminyltransferase (POMGNT2) that adds a β1-4GlcNAc.	
+GSD:3c4ce89a-46ca-4cbe-a61e-bc6b468df9e7	core 4		core 4 O-glycan; core 4 O-GalNAc glycan; O-Glycan core 4				1A	G00037MO; G00038MO		GlycoMotif:GGM.001011	PUBDICTIONARIES-GLYCAN-IMAGE; BIOOLIGO; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Less common cores are core 3, in which β1-3GlcNAc is added to O-GalNAc, and core 4, in which core 3 is branched by the addition of β1-6GlcNAc (Table 10.1).	
+GSD:00748dfd-e05e-4ba2-bbd6-b63d66565b00	core 5		O-Glycan core 5				1A	G00039MO; G00040MO		GlycoMotif:GGM.001013	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:ffc436ea-284b-4aec-a7e9-14eb6c20de51	core 6		O-Glycan core 6				1A	G00041MO; G00042MO		GlycoMotif:GGM.001015	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:f8f2ebab-fda4-476d-b0ad-03353daf4a73	core 7		O-Glycan core 7				1A	G00043MO; G00044MO		GlycoMotif:GGM.001017	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:d064fac6-1f8a-41ac-984a-fb0079162653	core 8		O-Glycan core 8				1A	G76355TG		GlycoMotif:GGM.001032	PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GLYCOMOTIF_GGM		
+GSD:c4155809-eacd-4d50-b8ee-5f00cf835dfa	core M1	M1	core M1 O-mannose glycan				1A	G85856KC			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; EOG_VARKI_4E	Core M1 glycans can also be converted to Core M2 O-mannose glycans by the addition of a β1-6GlcNAc to the O-mannose, catalyzed by the N-acetylglucosaminyltransferase MGAT5B.	
+GSD:6f9ccdea-5e6d-4481-8ea2-598ea66635d0	core M2	M2	core M2 O-mannose glycan				1A	G56868BH			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; EOG_VARKI_4E	Core M1 glycans can also be converted to Core M2 O-mannose glycans by the addition of a β1-6GlcNAc to the O-mannose, catalyzed by the N-acetylglucosaminyltransferase MGAT5B.	
+GSD:a05e60af-7132-4229-99f9-c994adbc77fa	core M3	M3	core M3 O-mannose glycan				1A	G97041TX			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; EOG_VARKI_4E	The core M3 glycans (Figure 13.5) possess key functional properties and have to date been identified only on the mammalian protein α-dystroglycan.	Not to be confused with M3 (Man3)
+GSD:62a8ffaf-7eaf-4962-a6f4-4baff423fc2d	Core type 1 triose						1A				BIOOLIGO		not referring to O-GalNAc core
+GSD:3e38e938-b0d1-457b-8f06-9889eb85b643	Core type 2 triose						1A				BIOOLIGO		not referring to O-GalNAc core
+GSD:664a9881-a4b2-4768-ad1c-a25d04ac9fe1	Core type 4						1A				BIOOLIGO		not referring to O-GalNAc core
+GSD:3528e0ee-aefb-4baa-ab79-0709aca12118	CT/Sda						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:6344e425-4651-4d92-8a4f-2662dfd4c27a	cyclic sialyl 6-sulfo Lewis x						1A	G11148DZ; G80722US; G23322RK; G53231FE	GSD000052	GlycoMotif:GDV.000001; GlycoMotif:CCRC.000023	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:7140c861-92e4-43c2-bacd-2f7273d3bcc4	Cytolipin R						1A	G57710SU; G19926LY	GSD000053	GlycoMotif:GGM.000083; GlycoMotif:GDV.000063; GlycoMotif:CCRC.000083	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:aca81550-5a7e-4f26-9ac5-cd9f931d464f	delta-heparan sulfate						1A	G25575JK; G17927IW			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000	dermatan sulfate		beta-Heparin			chondroitin sulfate B; Dermatan L-iduronate	1A	G00019MO	GSD000054		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Biosynthesis of chondroitin sulfate/dermatan sulfate involves the polymerization of N-acetylgalactosamine and glucuronic acid units and a series of modification reactions including O-sulfation and epimerization of glucuronic acid to iduronic acid.	
+GSD:e04ce7d2-9900-406c-9441-8420617a7741	dimeric Lewis a	Di-LeA	Dimeric Lea				1A	G21808VY; G82106UN; G06148DR		GlycoMotif:GDV.000025; GlycoMotif:CCRC.000126	PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; CUMMINGS; GLYCOMOTIF_CCRC; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:9a4080d7-eb07-4c92-97ec-c9d7c3bc93f9	dimeric Lewis c	Di-Lec					1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:99bcbb99-d2a4-44c1-83d4-39911cd9392c	dimeric Lewis x	DimLex^x; diLe(x); Di-Lex	dimeric Le(x); di-Lewis x			Lewis X - Lewis X	1A	G79535HZ	GSD000058	GlycoMotif:GGM.000031	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; BIOOLIGO		
+GSD:0cb4639d-8b29-45d0-8cde-27ad85020b35	Disialogangliotetraosylceramide	GD1a		Disialoganglioside	NeuAc-GD1b; GD1b		1A	G37184KW; G46677TE			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:13993f7f-fa8d-4a13-a480-df77999b11f6	Disialosyl galactosyl globoside	DSGG				disialosyl globopentaosylceramide	1A	G97932OH			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:e2a4d7b2-d63d-4a6f-903b-8b8496105935	disialosyl globopentaosylceramide	DSGb5	Disialosyl Gb5			Disialosyl galactosyl globoside	1A	G97932OH; G75814EP	GSD000060	GlycoMotif:GGM.000082; GlycoMotif:GDV.000093; GlycoMotif:CCRC.000082	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:9d04152c-abc9-4677-a8be-5ff38f0300a7	disialyl Core 2						1A				BIOOLIGO		
+GSD:936957cb-4c40-4cc2-8151-be860efc525e	disialyl Core 2 with sLex on Core 2						1A				BIOOLIGO		
+GSD:f58e66b6-a333-454d-a680-cf8046554c05	disialyl Gb5					disialosyl Gn5	1A	G97932OH	GSD000061		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:8e6a621e-97de-4a29-801b-63515b820626	disialyl I antigen		disialyl I				1A	G54937EM	GSD000062		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:2c92929a-4f34-5166-a815-b20e3decb896	disialyl Lewis a		disialyl-Lewis a; disialyl Lea				1A	G93400AK	GSD000063		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:b223ece1-3772-4f21-8ffe-255e575f3860	disialyl Lewis c						1A	G14000ZZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3fc7d3d4-bfff-419b-8439-8bff26bc97e3	disialyl T antigen		di-sialyl T antigen; disialyl-T antigen; disialylated T-antigen				1A	G01614ZM; G65191ST; G84906ML	GSD000064	GlycoMotif:GGM.000014; GlycoMotif:GDV.000092; GlycoMotif:CCRC.000014	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:fc360443-5e52-5286-9023-5a450d05986c	extended core-1 O-glycan						1A				EOG_VARKI_4E		
+GSD:aae1cd9d-2ddc-4e71-8735-0145758e62bc	Extended GM1						1A	G03506YN			SUGARBIND		
+GSD:0d74560b-8390-49a8-a8ac-ebe807a9f3b3	Extended tetrafucosyl-Le						1A	G57142PA		GlycoMotif:GDV.000002	GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:e19eeb60-ae9a-49d2-9a04-28ef03caeae0	Extended tetrafucosyl-Leb						1A				CUMMINGS		
+GSD:e0ebf839-750e-4706-9fb5-5ad4f6f99357	Extended tetrafucosyl-Leb338						1A	G75811PV		GlycoMotif:CCRC.000124	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:1967b04c-e893-4ade-b425-1fd2ed148112	Extended trifucosyl-Leb						1A				CUMMINGS		
+GSD:727fff8e-6962-434a-8623-2779faa46fcd	F1 alpha						1A	G61730RY; G21312EA			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:23de9483-620f-4f09-8254-aadec36ed27e	Forssman antigen		Forssman glycolipid; Globopentosylceramide; Forssman; Forssmann			Globopentosylceramide	1A	G80062GG; G00064MO; G72565QB		GlycoMotif:GGM.000084; GlycoMotif:GDV.000061; GlycoMotif:CCRC.000084	PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_MOTIF_GTC	The Forssman antigen, first discovered in sheep erythrocytes by John Frederick Forssman, is expressed during embryonic and adult stages in many mammals.	
+GSD:5ffac077-d5c1-45b8-ba7a-219b725c7842	Fuc-gangliotetraosylceramide					H-5-ganglio; Fuc-GgO4	1A	G57920AK			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:9cad9894-bd0f-4a44-897d-c2a6e2f81d67	fucosyl asialo-GM1						1A	G57920AK			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f4233b5f-ac92-4c8f-9aa1-87d262bd38bd	fucosyl GM1						1A	G91532KA			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:1a899805-78e7-4c0b-ba92-53131e675270	Fucosylated A antigen type 5						1A				BIOOLIGO		
+GSD:538b482d-cdc0-4f6d-9708-30013dc4f5c6	Fucosylated B antigen type 5						1A				BIOOLIGO		
+GSD:a7868da4-a6c2-4825-97b9-c86700b1c213	GA1		ganglioside GA1	Glycosphingolipid Ganglio series		asialo-GM1	1A	G21856LC			EOG_VARKI_4E; GSD_GLYGEN_V0; BIOOLIGO	SeviL (PDB 6LF2), in mussels, binds to the trisaccharide Galβ1-3GalNAcβ1-4Gal, a component of gangliosides GM1b (Siaα2-3 Galβ1-3GalNAcβ1-4Galβ1-4Glcβ1-1Cer) and GA1 (Galβ1-3GalNAcβ1-4Galβ1-4Glcβ1-1Cer).	
+GSD:950ade62-6782-4b96-90d7-c12b0bd81409	GA2			Glycosphingolipid Ganglio series			1A	G90562PB			PUBDICTIONARIES-GLYCAN-IMAGE; BIOOLIGO; PUBDICT_GLYCOSMOS		
+GSD:216556c5-52c0-4c8e-bf7a-0a3c20df340f	Gal(b1-3) globoside						1A	G99053DY			PUBDICT_GLYCAN_MOTIF		
+GSD:7cdbe7ea-633a-4692-916d-c76cd7e2e8b8	Gala3-type1						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:1e514403-6869-41bd-be3a-897ff09c30c8	Gala3Lex						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:833e18dc-f06a-4873-b90c-b06c2b199b6e	galabiosylceramide		Galabiosylceramide	Glycosphingolipid Gala series		Digalactosylceramide	1A	G67988RO	GSD000078		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1ee85a32-f360-42a0-8406-3fcb4b1a1e22	Galactocerebroside (non-hydroxy fatty acid)						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:7829c0b5-3df6-5e54-baad-fb4c64380426	galactosylceramide	GalCer; Gal-Cer; LC	galactoceramide; Galactocerebroside				1A	G65889KE	GSD000079	GlycoMotif:GGM.000061; GlycoMotif:GDV.000053	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	GSLs, such as GalCer, are built on a ceramide lipid moiety that consists of a long-chain amino alcohol (sphingosine) in amide linkage to a fatty acid.	
+GSD:2f66bcff-9d08-4f4b-9dfd-fd06ef9f5d03	galactosylgloboside						1A	G99053DY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:598bace5-65e5-4099-b69a-8309869023e7	Galili antigen pentaose						1A				BIOOLIGO		
+GSD:2c0a815e-bdba-4872-a6e6-27bc82990548	Galili-tri						1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:3fe213aa-32b2-44a3-a62d-6ebaa51f3259	GalNAc Disialyl Lc4						1A	G33532XU			PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:80b0fdd0-ff35-4158-affe-375c12812fa6	GalNAc disialyl Lc4 hexasaccharide						1A	G33532XU	GSD000080		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE		
+GSD:dbfbe6a9-8b1e-4e1e-af58-7b4df0c2fc63	GalNAc-GD1a						1A	G92175CL			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:97680e65-5cb6-4c5c-9411-a3f884d8ced1	Gangliotetraose						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:c7365bd0-d36d-417e-afbd-f0ea279079a7	Gangliotetraosylceramide	GgO4; Gg4				asialo-GM1; GA1; Asialo-GM1a	1A	G21856LC; G05357CB			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:06280f60-1257-4d4c-8240-f963524ad72a	Gangliotriaosylceramide	Gg3				Asialo-GM2; GA2; Asialo-GM2a	1A	G90562PB			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:088ed8ca-a940-4827-93dd-ffe9a12c4f57	Gangliotriose						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c	Gb3			Glycosphingolipid Globo series		Pk antigen; CD77	1A	G00059MO			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Some glycolipids are highly enriched in specific cancers (e.g., Gb3/CD77 in Burkitt's lymphoma and GM3, GD2, and GD3 in melanomas) (Figure 47.3).	
+GSD:b137039e-0172-5d89-8fa3-68775f8d4016	Gb4		globoside-4	Glycosphingolipid Globo series		P antigen	1A	G00061MO			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:323aec21-c781-4e05-9963-642b8732fdd6	Gb5	Globopentaosylceramide					1A	G99053DY; G19298OA; G88796WA		GlycoMotif:GGM.000076; GlycoMotif:GDV.000029; GlycoMotif:CCRC.000076	GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; CUMMINGS		
+GSD:d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4	GD1		ganglioside GD1	Glycosphingolipid Ganglio series	GD1c		1A	G81983KG; G24638PB	GSD000082	GlycoMotif:GGM.000105; GlycoMotif:GDV.000126; GlycoMotif:CCRC.000105	EOG_VARKI_4E; GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF	Mice engineered to lack MAG have many of the same phenotypic changes as mice lacking GM2/GD2 synthase, and biochemical and cell-biological studies showed that the major brain gangliosides GD1a and GT1b are excellent ligands for MAG.	
+GSD:94cf117d-69e6-4e85-a855-132585c00dff	GD1 (GD1c)						1A	G81983KG			PUBDICT_GLYCAN_MOTIF		
+GSD:137f33fc-98d8-4d5c-939e-d05fb87848a8	GD1 alpha		GD1α				1A	G07394RV			PUBDICTIONARIES-GLYCAN-IMAGE; CUMMINGS; PUBDICT_GLYCOSMOS		
+GSD:68fa9f5d-91fc-40c7-ab09-7b9612b4c961	GD1 alpha pentasaccharide						1A	G45714BQ; G07394RV			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:ce08ddcb-1567-5caa-9ad2-9c2209277bcc	GD1a		ganglioside GD1a; GD1alpha	Glycosphingolipid Ganglio series		GD1alpha	1A	G46677TE; G45714BQ; G13258LA; G69277LC	GSD000083	GlycoMotif:GGM.000106; GlycoMotif:GGM.000107; GlycoMotif:GDV.000096; GlycoMotif:CCRC.000106	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Mice engineered to lack MAG have many of the same phenotypic changes as mice lacking GM2/GD2 synthase, and biochemical and cell-biological studies showed that the major brain gangliosides GD1a and GT1b are excellent ligands for MAG.	
+GSD:e4e3df0d-c881-5a91-97fc-fbe47b595923	GD1b		ganglioside GD1b	Glycosphingolipid Ganglio series			1A	G37184KW; G97612UN	GSD000084	GlycoMotif:GGM.000108; GlycoMotif:GDV.000031; GlycoMotif:CCRC.000108	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:580a2f8b-a7c3-4e54-bdb6-d9becfb6f91a	GD1c			GD1			1A	G81983KG		GlycoMotif:GGM.000105	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF		
+GSD:fceea642-73e8-4ad0-9636-7ce85ab9e6ee	GD2			Glycosphingolipid Ganglio series		NeuAc-GD2	1A	G02657AK; G41759HA	GSD000085	GlycoMotif:GGM.000094; GlycoMotif:GDV.000071; GlycoMotif:CCRC.000094	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Mice engineered to lack MAG have many of the same phenotypic changes as mice lacking GM2/GD2 synthase, and biochemical and cell-biological studies showed that the major brain gangliosides GD1a and GT1b are excellent ligands for MAG.	
+GSD:2a2043ea-58d4-4eb6-9cc7-26aba2edeb34	GD3			Glycosphingolipid Ganglio series			1A	G98544DH; G81928IQ	GSD000086	GlycoMotif:GGM.000091; GlycoMotif:GDV.000127; GlycoMotif:CCRC.000091	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:1d17b844-af78-4258-b83b-7db935d7a1a4	Gg3						1A	G90562PB			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:19d06add-13da-49d3-9c6c-55cec93a8981	Gg4		ganglioside Gg4				1A	G21856LC			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:10682d8a-0e2c-47dc-99e8-14defd552e63	Gg5						1A	G96834JC			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:cd9661e4-a1ce-4cf0-bc98-a941ebb60b58	GH1c-alpha	GH1ca	GH1calpha; GH1ca				1A	G14091MR; G86139YL		GlycoMotif:GGM.000120; GlycoMotif:GDV.000122; GlycoMotif:CCRC.000120	GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC		
+GSD:a373d920-6f79-405b-a234-1fff575a3fa8	GH1cα						1A	G14091MR; G86139YL			CUMMINGS; PUBDICT_GLYCAN_MOTIF		
+GSD:fadbbaa0-e26a-43ce-a9df-5fd1926f9847	GL-7		GL-7 globoseries ganglioside			SSEA-4	1A	G32254QI; G42784QY		GlycoMotif:GGM.000080; GlycoMotif:GDV.000098; GlycoMotif:CCRC.000080	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:c2bf7543-21f5-424c-9226-3884b2a3f6da	GlcNAc b(1-2') TF						1A				BIOOLIGO		
+GSD:2cc4c175-517a-4b6d-9fc9-0331d0956d63	GlcNAc(b1-3)Gal(b1-4)GlcNAc						1A	G48117BL			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:5d055261-38ac-47de-96e8-f59ece979d77	Globo-A						1A	G37830TX			SUGARBIND		
+GSD:e45665f0-4131-4b87-9070-5a899beb203d	Globo-H		globoH; GL-6 fucosylated; GL-6 fucosylated (globoH); fucosylated GL-6			globo H	1A	G98465JN; G83120FP		GlycoMotif:GGM.000078; GlycoMotif:GDV.000008; GlycoMotif:CCRC.000078	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; SUGARBIND		
+GSD:adf49fc3-0a1f-4b18-99de-e79cc11af3ee	globoside			Glycosphingolipid Globo series		P antigen; Gb4	1A	G00061MO	GSD000088	GlycoMotif:GGM.000070; GlycoMotif:GDV.000065	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1a46cfa0-029c-4662-8ee0-458d7046d568	Globotetraose					globotetraosylceramide	1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:dc369560-523e-4f21-8072-6a1cd9e5a552	globotetraosylceramide	Gb4Cer; Gb4		Glycosphingolipid Globo series		Globoside; Globotetraose	1A	G00061MO; G04616ST	GSD000088	GlycoMotif:GGM.000070	GSD_GLYGEN_V0; SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f	globotriaosylceramide	Gb3; GL3; Gb(3); Gb_3; CTH		ceramide trihexoside; Trihexosylceramide; Glycosphingolipid Globo series		Globotriose	1A	G00059MO	GSD000089	GlycoMotif:GGM.000068	GSD_GLYGEN_V0; SUGARBIND; PUBDICT_GLYCAN_MOTIF	Some glycolipids are highly enriched in specific cancers (e.g., Gb3/CD77 in Burkitt's lymphoma and GM3, GD2, and GD3 in melanomas) (Figure 47.3).	
+GSD:b5b819f5-8bea-4357-9e17-9e9fb3865fe8	Globotriose					globotriaosylceramide	1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:2df618a1-db4c-4e8b-a51f-16ff3dd5b867	Glucocerebrosides						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:a56d4adb-2715-4d0a-95de-2f626b009c3b	Glucopsychosine						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:3d06d77f-0323-508b-8678-7e86c86b85c4	glucosylceramide	GlcCer; Glc-Cer	glucoceramide; Glucocerebroside	Ceramide monohexoside; CMH			1A	G71142DF	GSD000090	GlycoMotif:GGM.000060	EOG_VARKI_4E; GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF	Likewise, glucosylceramide (GlcCer) was first isolated from the spleen of a Gaucher disease patient, where it accumulates.	
+GSD:a103e2ec-3b91-522f-8955-3b125da6d21f	glycoinositolphospholipids	GIPLs					1A				EOG_VARKI_4E	These include the so-called glycoinositol phospholipids (GIPLs) and lipophosphoglycans (LPGs) of Leishmania.	
+GSD:4f42f90c-4af2-5926-95b6-d0bfead73c72	glycosylceramide						1A				EOG_VARKI_4E		
+GSD:eb91bceb-53d2-568b-8e05-ea0447fc3a5a	glycosylinositolphosphorylceramide	GIPCs	glycosylinositolphosphorylceramides				1A				EOG_VARKI_4E	The outer leaflet of the plasma membrane is instead dominated by glycosylinositolphosphorylceramides (GIPCs), lipids that are absent in animals.	
+GSD:3aa27544-ba80-5023-b104-e0747c328c0c	GM1		ganglioside GM1; GM1 ganglioside; GM1-ganglioside	Glycosphingolipid Ganglio series			1A	G48558GR; G03277YI; G46613JI	GSD000091	GlycoMotif:GGM.000098; GlycoMotif:GDV.000030; GlycoMotif:CCRC.000098	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	For example, in the widely used nomenclature of Svennerholm, the ganglioside Galβ1-3GalNAcβ1-4(Neu5Acα2-3)Galβ1-4GlcβCer is designated “GM1” (Figure 11.3).	
+GSD:2f24f668-fcdb-401e-a0e7-8f1d3d9e9b85	GM1a			Glycosphingolipid Ganglio series			1A	G48558GR			GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:03eade63-065b-5266-b0d6-2d0feb657606	GM1b		ganglioside GM1b	Glycosphingolipid Ganglio series			1A	G03277YI			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	SeviL (PDB 6LF2), in mussels, binds to the trisaccharide Galβ1-3GalNAcβ1-4Gal, a component of gangliosides GM1b (Siaα2-3 Galβ1-3GalNAcβ1-4Galβ1-4Glcβ1-1Cer) and GA1 (Galβ1-3GalNAcβ1-4Galβ1-4Glcβ1-1Cer).	
+GSD:f05f9823-137e-586e-9ce6-90956a04b6bc	GM2		ganglioside GM2	Glycosphingolipid Ganglio series		NeuAc-GM2	1A	G79389NT; G61168WC	GSD000092	GlycoMotif:GGM.000095; GlycoMotif:GDV.000069; GlycoMotif:CCRC.000095	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Mice engineered to lack MAG have many of the same phenotypic changes as mice lacking GM2/GD2 synthase, and biochemical and cell-biological studies showed that the major brain gangliosides GD1a and GT1b are excellent ligands for MAG.	
+GSD:40982fbc-1026-5333-acdb-aafdf94892be	GM3		ganglioside GM3	Glycosphingolipid Ganglio series			1A	G91237TK; G56516VH	GSD000093	GlycoMotif:GGM.000090; GlycoMotif:GDV.000108; GlycoMotif:CCRC.000090	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	GM3 is also a precursor for some more complex gangliosides.	
+GSD:94a1a0ae-aa30-4394-b86e-4caeafd20bd2	GM3(NeuGc)						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:15331070-8cdb-43d9-a119-dd63f1a73802	GM4			Glycosphingolipid Ganglio series		Sialylated GalCer	1A	G30207PZ; G77824XV	GSD000094	GlycoMotif:GGM.000089; GlycoMotif:GDV.000113; GlycoMotif:CCRC.000089	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:66f89a52-b76d-4714-a2f2-a92114ca054c	GP1c						1A	G93805MV; G26203DP; G04433GV; G77608BK	GSD000095	GlycoMotif:GGM.000118; GlycoMotif:GDV.000095; GlycoMotif:CCRC.000118	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:25ea9545-d230-400a-9ed9-3264ba737bef	GP1c-alpha	GP1ca	GP1calpha; GP1ca; GP1cα				1A	G04433GV; G16999RL; G00552RX		GlycoMotif:GGM.000119; GlycoMotif:CCRC.000119	GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; CUMMINGS; PUBDICT_GLYCAN_MOTIF		
+GSD:97d60327-996a-4148-a72d-adbe95a8d843	GPI anchor core		GPI anchor; GPI glycan				1A	G00045MO; G46392BZ		GlycoMotif:GGM.001030	PUBDICT_GLYCAN_MOTIF; BIOOLIGO; GLYCOMOTIF_GGM; PUBDICT_MOTIF_GTC; EOG_VARKI_4E		
+GSD:5882c5a8-fec1-46c6-b5f9-d3eb0dc6abca	GQ1a-alpha		GQ1aalpha; GQ1aa; GQ1aα				1A	G90598GO; G26199BG		GlycoMotif:GGM.000114; GlycoMotif:GDV.000121; GlycoMotif:CCRC.000114	GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; CUMMINGS		
+GSD:2f4047e2-bc8c-577d-9c8c-ed2e04227c65	GQ1b		ganglioside GQ1b	Glycosphingolipid Ganglio series		NeuAc-GQ1b	1A	G18625KA; G17077FL	GSD000096	GlycoMotif:GGM.000115; GlycoMotif:GDV.000124; GlycoMotif:CCRC.000115	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:a54d603d-774a-475d-b233-2f4722607df0	GQ1b alpha		GQ1balpha; GQ1ba; GQ1bα				1A	G54733XO; G49791FJ	GSD000097	GlycoMotif:GGM.000116; GlycoMotif:GDV.000091; GlycoMotif:CCRC.000116	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; CUMMINGS		
+GSD:3dab600a-ad2a-4f3c-a67f-0d60eb50a913	GQ1c						1A	G99524KA; G54442GQ	GSD000098	GlycoMotif:GGM.000117; GlycoMotif:GDV.000101; GlycoMotif:CCRC.000117	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:46f92e98-3896-4147-a653-1b8161ebcbf8	GQ2						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e5e9762a-3708-4f4d-a675-4a469995e3ca	GT1a			Glycosphingolipid Ganglio series			1A	G68110IF; G93468NI	GSD000099	GlycoMotif:GGM.000110; GlycoMotif:GDV.000123; GlycoMotif:CCRC.000110	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:cda84801-eca6-4e11-bd98-80867a9e6212	GT1a alpha		GT1aa; GT1aalpha				1A	G02149VR; G17486WU	GSD000100	GlycoMotif:GGM.000111; GlycoMotif:GDV.000094; GlycoMotif:CCRC.000111	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:926d7349-2069-5615-b469-3b6c845ce149	GT1b		ganglioside GT1b	Glycosphingolipid Ganglio series			1A	G40183QN; G05952XV	GSD000101	GlycoMotif:GGM.000112; GlycoMotif:GDV.000100; GlycoMotif:CCRC.000112	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:3b3e1c65-614e-57dc-aa07-85a170fcf39a	GT1c		ganglioside GT1c	Glycosphingolipid Ganglio series			1A	G78818SP; G50762GU	GSD000102	GlycoMotif:GGM.000113; GlycoMotif:GDV.000032; GlycoMotif:CCRC.000113	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1e1a61c1-7758-46f5-b5b7-ff3b534a79ea	GT2						1A	G36476BA; G35228ZS	GSD000103	GlycoMotif:GGM.000109; GlycoMotif:GDV.000072; GlycoMotif:CCRC.000109	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:0faf2439-6ae7-4f74-84c4-9008692b7086	GT3			Glycosphingolipid Ganglio series			1A	G93899SO; G33570YF	GSD000104	GlycoMotif:GGM.000092; GlycoMotif:GDV.000128; GlycoMotif:CCRC.000092	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:047b452e-badb-4c80-9187-62fed4a27b26	H type 1						1A	G50899UD			SUGARBIND; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e0a2c159-4b4b-4f20-85a5-0db1828f834e	H2						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	For any D sugar, the conversion of a Fischer projection into a Haworth projection proceeds as follows: (1) any groups (atoms) that are directed to the right in the Fischer structure are given a downward orientation in the Haworth structure, (2) any groups (atoms) that are directed to the left in the Fischer structure are given an upward orientation in the Haworth structure, and (3) the terminal —C...	
+GSD:bce10ca5-6d50-43fe-9aa4-e9a8016d5ab4	H5 type 1						1A	G00050MO			SUGARBIND		
+GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720	heparan sulfate	HS	Heparan sulphate; Heparatan sulfate; Heparitin sulfate		N-Acetylheparan sulfate	Heparan N-sulfate; Heparin monosulfate; Heparin sulfate; Heparitin monosulfate	1A	G17927IW	GSD000106		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE	Heparan sulfate also can contain anticoagulant activity, but typical preparations from cells or tissues are much less active than heparin.	
+GSD:6048df8d-01b1-53ec-93b6-3b712d0b5eeb	heparan sulfate backbone				heparan sulfate		1A				EOG_VARKI_4E		
+GSD:1b759e1d-9070-5800-9001-ee81290ddc26	heparin				bemiparin; certoparin; Cy 222; enoxaparin; fluxum; parnaparin; reviparin; sandoparin	Heparinic acid	1A	G00021MO; G54161DR	GSD000107		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Heparin (a highly sulfated form of HS; Chapter 17) is a therapeutic agent extracted from porcine intestines or bovine lungs.	
+GSD:059af24a-04af-4571-bece-fedf9e4e3976	Heparin decasaccharide						1A				BIOOLIGO		
+GSD:54c295a9-b652-4ac2-984f-0e82e1bd162c	Heparin heptasaccharide						1A				BIOOLIGO		
+GSD:c48178c5-17f0-4fd4-bd34-5ad6eae65ad3	Heparin hexasaccharide						1A				BIOOLIGO		
+GSD:56de2988-f0d7-4e2c-ac18-1c1953978a94	Heparin nonasaccharide						1A				BIOOLIGO		
+GSD:1513e789-622d-4ab0-9ce5-36270f962ceb	Heparin octasaccharide						1A				BIOOLIGO		
+GSD:da8b2e0c-0aa4-45f3-9e32-7b46bb1a3ba7	Heparin pentasaccharide						1A				BIOOLIGO	Arixtra, a synthetic heparin pentasaccharide that binds antithrombin exactly as isolated heparin is used to prevent deep-vein thrombosis and pulmonary embolism and has gained market share in recent years even though it is more costly.	
+GSD:c1fa446f-e0b7-44d6-a0fb-32345cc51446	Heparin tetrasaccharide						1A				BIOOLIGO		
+GSD:2c667052-86a8-42d0-be98-ee21c9c1f4c7	HNK-1 antigen		HNK-1; Human Natural Killer-1 carbohydrate; HNK-1 carbohydrate epitope				1A	G53277CD; G54406UD; G89591DK		GlycoMotif:GGM.000058; GlycoMotif:GDV.000081; GlycoMotif:CCRC.000058	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCOSMOS	The HNK-1 antigen is a terminally sulfated glycan that was first described on human natural killer cells, and is also called CD57.	
+GSD:ab54f042-6804-40f2-a3d7-3537cd13565e	HNK-1 on O-mannose						1A	G06898ZN; G60606QD; G82061CN		GlycoMotif:GGM.000059; GlycoMotif:GDV.000079; GlycoMotif:CCRC.000059	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:e64024ca-b41d-4a98-be92-61596bf025a3	HNK-expressing SGLPG						1A	G10503MP; G43040ZY		GlycoMotif:GDV.000080; GlycoMotif:CCRC.000129	CUMMINGS; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:6811049f-c1fb-5111-bcf3-360ba4f8e672	hyaluronan	HA					1A	G29086KO; G00017MO	GSD000183		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_GLYCAN_MOTIF	Hyaluronan chains occupy a large hydrodynamic volume such that in a solution containing 3–5 mg/mL hyaluronan, individual molecules occupy essentially all of the solvent.	
+GSD:8b66416a-ee49-4b36-a2cd-b5ebc1451fd6	Hyluronan						1A	G00017MO			PUBDICT_MOTIF_GTC		
+GSD:d09ee5db-281c-40b1-95c3-53f11f4aef41	I antigen		I Antigen Like				1A	G56045WU; G46055MA; G26929DQ; G96238FJ	GSD000112	GlycoMotif:GGM.000003; GlycoMotif:CCRC.000004	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GDV	The development of antibodies against the I antigen is often associated with a Mycoplasma pneumoniae infection, whereas anti-i antibodies occur most commonly in the setting of infectious mononucleosis.	
+GSD:4fc55ea7-72c4-4dd2-80f8-5501b1c81743	i antigen				Type 2 LN2		1A	G46055MA; G56045WU; G00058MO; G26929DQ		GlycoMotif:GGM.000004; GlycoMotif:GGM.000002; GlycoMotif:GDV.000040	PUBDICT_GLYCOSMOS; PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE		
+GSD:b587c37f-6e48-40a3-9ffc-b125d1a289b6	II3Neu5GcGg4Cer, GM1						1A	G24034CH			SUGARBIND		
+GSD:44b4754d-f421-42a9-a833-92db0ff00ea0	II3Neu5GcGg4Cer, GM1(Gc)						1A	G24034CH			PUBDICT_GLYCAN_MOTIF		
+GSD:717c84df-b90a-49b8-91d3-2c3aba72c881	Internal Blood Group H						1A	G82749ZI			PUBDICT_GLYCAN_MOTIF		
+GSD:2dfb4ba3-af6c-41f5-9792-9789ba8f60ba	internal Lewis x						1A	G64227KZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:633ac980-2249-4dcb-925b-d2d5342ac673	Isoglobopentaose	iGB5	Isoglobopentaose (iGB5)	Glycosphingolipid Isoglobo series			1A				BIOOLIGO		
+GSD:e0c82481-c093-4c49-a100-015f5f128086	Isoglobotetraose	iGb4	isoglobotetraosylceramide	Glycosphingolipid Isoglobo series			1A	G57710SU; G19926LY; G32862WC		GlycoMotif:GGM.000071; GlycoMotif:GDV.000064; GlycoMotif:CCRC.000071	BIOOLIGO; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:d9aa7fb1-12b1-4a92-8e9a-38382ba774de	Isoglobotriaosylceramide	IGb3		Glycosphingolipid Isoglobo series		Isoglobotri	1A	G78074HX			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:7b856b41-1677-461c-99d7-e25aeddf8ecf	Isoglobotriose	iGb3		Glycosphingolipid Isoglobo series			1A	G78074HX			BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:55518b88-605c-5d07-a328-555ccbea84d0	keratan sulfate	KS	Kerato sulphate; Kerato sulfate; Keratan sulphate	keratan	kerato 6'-sulfate; keratan 6'-sulfate; Kerato 6'-sulphate; Keratan 6'-sulphate		1A	G82109MW; G00020MO	GSD000114		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC	Keratan sulfate is a sulfated poly-N-acetyllactosamine chain present on a limited number of proteins as an N-linked or O-linked chain.	
+GSD:3fda8660-e983-5497-aba6-bb4d277e8486	keratan sulfate type I	KS-I	N-linked KS; corneal-type KS				1A				EOG_VARKI_4E	The N-glycan corneal-type KS (type I) is probably degraded by the same set of enzymes used for N-glycan degradation.	
+GSD:cfd82c73-ecd9-5aed-afd2-2a8504110238	keratan sulfate type II	KS-II	skeletal-type KS				1A				EOG_VARKI_4E		
+GSD:8b378e99-6047-495c-b1a4-ce5f5644df88	Lacto-N-fucopentaose I						1A				BIOOLIGO		
+GSD:7aae12f4-6597-4309-a3e9-7546e9c0cabd	Lacto-N-fucopentose						1A	G98173LG			SUGARBIND		
+GSD:db1c3c2e-a27d-45db-832d-0c6e090f978a	Lacto-N-neofucopentaose						1A				BIOOLIGO		
+GSD:29049212-2b78-47d3-b702-13a21d1803ad	Lacto-N-neooctaose						1A				BIOOLIGO		
+GSD:16e5ac8a-4f1f-4df9-b860-936e9c5e27d0	lacto-N-neotetraose						1A	G48059CD; G45827GY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f1d5a449-e17b-4677-8e2f-2c9dd531e3b2	lacto-N-tetraose						1A	G45827GY; G48059CD			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:ae48a74d-d1b8-4a14-8471-2ea40adfc2d4	Lacto-N-triose						1A				BIOOLIGO		
+GSD:e203d26f-4e87-4faf-9e18-8a1c7d59da9d	lactogangliotetraosylceramide						1A	G62554JH; G85237WB			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:0a063c08-7f72-5da7-9397-33bdcbc5315c	lactosylceramide	LacCer; Lc2; CDH		CDH			1A	G84224TW; G20420WT; G74621DY	GSD000116	GlycoMotif:GGM.000064; GlycoMotif:GDV.000039; GlycoMotif:CCRC.000064	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Specific exceptions occur, such as the high concentration of lactosylceramide in neutrophil granules.	
+GSD:42e76ba0-441a-4b80-b4b3-d4ee48728446	lactotetraosylceramide	Lc4		Glycosphingolipid Lacto series		Lewis C	1A	G00049MO			PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:42d15d6c-3af7-48d4-b3c9-54405ebc70d3	lactotriaosylceramide	Lc3; Lc(3)Cer; Lc_3		Glycosphingolipid Lacto series		Glucosylceramide	1A	G06239NA; G71142DF; G87727XV	GSD000117	GlycoMotif:GGM.000067; GlycoMotif:GDV.000082; GlycoMotif:GDV.000083; GlycoMotif:CCRC.000067	GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:bc4cbbeb-af02-4261-9be3-3801c0b6373e	Lc3			Glycosphingolipid Lacto series			1A	G06239NA			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:be204c7c-6af2-4316-a743-c4c6cf9b987d	Lc4			Glycosphingolipid Lacto series			1A	G00049MO			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:c076a6cd-d503-4c4f-8f25-2adfdf739708	LcGg4						1A	G62554JH; G85237WB	GSD000118	GlycoMotif:GGM.000075; GlycoMotif:GDV.000068; GlycoMotif:CCRC.000075	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:662184b8-4ef9-426d-8391-7c163250ce9d	Lewis a	Lea; LeA; Le^a; Le(a)			Lea-5; Lea-3		1A	G00047MO; G39023AU; G26123AX	GSD000119	GlycoMotif:GGM.000020; GlycoMotif:GDV.000026; GlycoMotif:CCRC.000020	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; EOG_VARKI_4E; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	The Lewis a antigen (Lea) is synthesized by an α1-3/α1-4FucT (FUT3) encoded by the Lewis (LE or FUT3) blood group locus.	
+GSD:d7d55c70-54dc-45e8-9aba-246647b1ff7f	Lewis a (b1-3)Gal						1A	G28420BK			GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:b60bfa39-945f-4c1a-9276-fd74ff0eed98	Lewis a LN						1A				BIOOLIGO		
+GSD:7dc509b1-7249-4c61-933b-0d43d0607564	Lewis a triose						1A				BIOOLIGO		
+GSD:358eb411-dce4-41a1-aa1f-e74795397c00	Lewis a- Lewis X hybrid antigen	LeALex	Lewis a Lewis x				1A	G07357YR; G74578MX			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e8de9957-868f-4ebd-af17-cc308640315b	Lewis a/x Like structure						1A	G24566OP			PUBDICT_GLYCAN_MOTIF		
+GSD:4327ef94-5fff-5d27-8f23-207afe82a8d1	Lewis b	Leb; Le(b); Le^b	Lewis(b)		Leb-6; Leb-4		1A	G39211DH; G00048MO; G09552LA; G00052MO; G49963IQ	GSD000120	GlycoMotif:GGM.000021; GlycoMotif:GDV.000004; GlycoMotif:GDV.000013; GlycoMotif:CCRC.000021	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC	The Lewis b antigen (Leb) is synthesized by the concerted actions of FUT3 and FUT2.	
+GSD:30b03c07-f79c-425b-b5ff-6d6089c048d1	Lewis b pentaose						1A				BIOOLIGO		
+GSD:164b1326-ab43-4c6d-896f-432170b59a63	Lewis b tetraose						1A				BIOOLIGO		
+GSD:0f5447e8-b606-4b06-b693-bd8e36b1f113	Lewis b/y Like						1A	G20009SF			PUBDICT_GLYCAN_MOTIF		
+GSD:7d2482e9-3b02-405f-bba6-9c215db9fbd6	Lewis c	Lec					1A	G00049MO			BIOOLIGO; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e3fd663f-6d87-4f25-bd01-70b689bcb65f	Lewis c - Lewis x	Lec-LeX					1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:8ab86e9f-ff25-4a50-a728-1f280412d929	Lewis d	LeD	Lewis D				1A	G00050MO			PUBDICT_MOTIF_GTC; PUBDICT_GLYCAN_MOTIF		
+GSD:b869db3a-43f8-4298-a71e-a4654597d31a	Lewis x	Lex; LeX; Le^x; Le(X)			Lewis x trisaccharide; Lex-3; Lex-5	SSEA-1	1A	G00051MO; G01187XC; G81516LH		GlycoMotif:GGM.000018; GlycoMotif:GDV.000036; GlycoMotif:CCRC.000018	PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_GLYCONAVI_ABBREV; PUBDICT_GLYCONAVI_NAME	Most strongly implicated are the sialylated and/or sulfated determinants represented by sialyl Lex and its sulfated variants (Figure 14.6), which function as selectin ligands on glycoproteins and glycolipids of leukocytes and tumor cells (Chapters 34 and 47).	
+GSD:142af41f-6c67-467f-aa3e-d23ebad850e6	Lewis X - Lewis X	Lex-Lex; Le^x-Le^x; Lex–Lex; Lex_Lex	Lewis X_Lewis X; Lewis X–Lewis X			dimeric Lewis x	1A	G79535HZ; G45673KX		GlycoMotif:GDV.000037; GlycoMotif:CCRC.000031	GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; CUMMINGS; GLYCOMOTIF_CCRC		
+GSD:e3e28980-b27f-4e23-8583-dcfc336094fc	Lewis X hexaose						1A				BIOOLIGO		
+GSD:feb39059-c793-4824-9b59-817b382ea413	Lewis x on Core 2						1A				BIOOLIGO		
+GSD:9c1c273e-5f38-49e7-bf5e-ae0bab8f5011	Lewis X tetraose						1A				BIOOLIGO		
+GSD:a57ec013-3fba-4597-9ad0-639e41d73f0f	Lewis x triaose					SSEA-1	1A				BIOOLIGO		
+GSD:b5f7962d-29e4-4374-8406-683e491676d9	Lewis y	Ley	Le(y); Le^y; LeY; Ley		Ley-4; Ley-6		1A	G00052MO; G89659QV; G49963IQ		GlycoMotif:GDV.000014; GlycoMotif:CCRC.000019; GlycoMotif:GGM.000019	PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GDV; SUGARBIND; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; GLYCOMOTIF_CCRC; GLYCOEPITOPE; GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; PUBDICT_MOTIF_GTC; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Because of structural similarities, the term “Lewis antigen” was applied to other glycan sequences and includes the Lewis x (Lex) and Lewis y (Ley) determinants and forms of the Lea and Lex determinants that are sialylated and/or sulfated (Figure 14.6).	
+GSD:eacd39fe-a980-4ca1-a70a-c178a1051a00	Lewis y (extended)						1A	G69030AU			PUBDICT_GLYCAN_MOTIF		
+GSD:2f226dce-d895-43fd-8940-bf42aa514867	Lewis y (extended) / hexasaccharide						1A	G69030AU			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:9ced2c9c-f8d2-484b-9359-d258e4caad16	Lewis y Lewis x	Ley -Lex					1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:c6824960-4812-41cd-a84b-91c1929c7f21	Lewis y pentaose						1A				BIOOLIGO		
+GSD:333e5932-8f42-49e1-9ebe-68750ab11dd8	Lewis y tetraose					Blood group H type 2	1A				BIOOLIGO		
+GSD:3d151c25-a2dd-40fa-835b-2e22a8b4589e	Lex on O-Mannose		O-Mannose Lex; O-Mannose Le^x				1A	G81516LH; G72060BE		GlycoMotif:GGM.000057; GlycoMotif:CCRC.000057	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:e95d84b4-8bf0-41ce-8ec8-3f513f48549b	Lex-LeA						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:fdabe95b-5888-4470-835f-726ccf3e685f	Ley-Di-Lex						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:7878f196-5c52-451d-baf3-1befe39cf759	LN3 Type 2						1A				BIOOLIGO		
+GSD:d31e9aa3-79ef-4ba8-a50c-ea26bee06af7	LNFP II						1A	G98173LG			SUGARBIND		
+GSD:dbe354d3-8867-451f-8adb-be217841209d	LNnT						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:42f9cd16-c674-4b0e-87e9-3fc6c950b48d	LNT						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:fe489914-8a27-4022-b2d1-0ea53e867cf6	LNT-2						1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:03c46ab5-8868-4474-a3c9-794489fb014c	LSTa						1A	G21066IE			SUGARBIND		
+GSD:ab859950-7db8-4352-956d-91147f5ad60b	LSTc						1A	G21938SG			SUGARBIND		
+GSD:607727e2-834e-4321-996e-0988b7f5c6f8	Monosialogangliotetraosylceramide	GM1		Monosialoganglioside	GM1a	NeuAc-GM1	1A	G48558GR			SUGARBIND; PUBDICT_GLYCAN_MOTIF	For example, in the widely used nomenclature of Svennerholm, the ganglioside Galβ1-3GalNAcβ1-4(Neu5Acα2-3)Galβ1-4GlcβCer is designated “GM1” (Figure 11.3).	
+GSD:593531d5-b025-49cc-9e8e-bde0db60be92	monosialyl Gb5					Sialosyl galactosyl globoside; GL-7 globoseries ganglioside; SSEA-4	1A	G32254QI	GSD000125	GlycoMotif:GGM.000080	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:24ed10a7-e521-4240-8ca4-ea748c493ef9	Monosulfated gangliotetraosylceramide						1A	G96596OC; G59736KH; G57796RK		GlycoMotif:GGM.000066; GlycoMotif:GDV.000052; GlycoMotif:CCRC.000066	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:c0ad2422-5391-4241-a96b-98ae8e55eb8b	monosulfated globopentaosylceramide						1A	G80193TN; G30925QW; G57710SU	GSD000126	GlycoMotif:GGM.000072; GlycoMotif:GDV.000075	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:bd45bada-5e44-471c-a569-8c32b3351756	monosulfated globotetraosylceramide						1A	G05297EK; G50866KI; G44854SQ; G87212TR	GSD000127	GlycoMotif:GGM.000073; GlycoMotif:GDV.000077; GlycoMotif:CCRC.000073	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:8d4e1b65-522e-4fab-a15e-ac1ab8822f59	N-acetyl GD3						1A	G98544DH			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:28681753-41cf-493d-b715-15ca3ecb7795	N-acetyl GM2						1A	G79389NT	GSD000128		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:03d8b55f-4f2d-4aa6-bda2-7f12e93ad9b3	N-acetyl GM3						1A	G91237TK			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a3c5bbf0-9bfd-4710-aa1c-4551d05c0d65	N-glycolyl GD3						1A	G84891DZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:afd1e48b-3bef-499a-a5cb-5ca1ce262a0a	N-glycolyl GM2						1A	G56478LD; G18221CF	GSD000130	GlycoMotif:GGM.000096; GlycoMotif:GDV.000073; GlycoMotif:CCRC.000096	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f64451b5-069f-4ba8-8407-f872eab65c7c	N-glycolyl GM3						1A	G75789AR			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:d357ac13-df30-4206-b9ad-399750f3adb2	Neolactotetraose			Glycosphingolipid Neo-lacto series			1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e413291c-5c2e-4ad5-9b62-20b158e633ce	Neolactotetraosylceramide	NLc4		Glycosphingolipid Neo-lacto series		Paragloboside	1A	G58896AZ			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:63c7fd98-78ee-4d7b-9930-1df43cc45902	NeuGc-GM2	GM2gc					1A	G56478LD			SUGARBIND		
+GSD:4fa785dd-0d6d-433a-8567-8e21efa8df8e	NeuGc-GM3	GM3gc					1A	G75789AR			SUGARBIND		
+GSD:39ce5ee5-3f7f-4d8d-8e28-64c928b7fcf0	nLc4			Glycosphingolipid Neo-lacto series			1A	G58896AZ			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:943e6166-a2c1-44cd-b071-1ce69e335a13	nLc6		neolacto-hexaosylceramide	Glycosphingolipid Neo-lacto series			1A	G84034JH			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:e2d46448-7a1d-4688-88fa-9837fe9e68de	O-acetyl-GD3						1A	G74121RX			PUBDICT_GLYCOSMOS		
+GSD:831262e4-f719-5510-a84a-ee900c77b375	O-antigen	O-PS	O-polysaccharides; lipopolysaccharide O antigen; LPS O antigen				1A				EOG_VARKI_4E	LPS consists of a base lipid (lipid A) linked to a core oligosaccharide followed by highly diverse O-polysaccharides (O-antigens).	
+GSD:25de50a7-6453-4dad-8c48-790d7e246ef5	O-GalNAc Core		O-Glycan O-GalNAc Core				1A	G39738WL		GlycoMotif:GGM.001034	GLYCOMOTIF_GGM		
+GSD:9eaf75e2-1441-45ed-9beb-5731b3963e7b	O-Mannose Core		O-Glycan O-Mannose Core				1A	G76001GO		GlycoMotif:GGM.001036	GLYCOMOTIF_GGM		
+GSD:cf106ff8-f5cf-494a-a7bd-47029cde0d2b	P antigen		GLOB P antigen			Gb4	1A	G00061MO	GSD000088	GlycoMotif:GGM.000070; GlycoMotif:CCRC.000070	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	The A1 and A2 subgroup antigens are distinct (Figure 14.5) reflecting the different A transferases encoded by the A1 versus A2 allele at the ABO locus.	
+GSD:d64e0922-936d-54e7-9182-bf7f2ccdba85	P1 antigen		P1 determinant				1A	G12460DL; G55205ZV; G00060MO; G00076PK	GSD000141	GlycoMotif:GGM.000069; GlycoMotif:GDV.000024; GlycoMotif:CCRC.000069	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC	In the second pathway, P1-antigen biosynthesis begins with two reactions leading to paragloboside, which is acted on by A4GALT to form the P1 antigen, the most common P blood group.	
+GSD:98dea694-2b59-4631-889d-96e6c7a465ba	P1 penta						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:c0915417-f0b1-4d6e-bde3-f463b61d88b5	P1 tetra						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:4e53d1fb-1c15-4af6-bcc2-f6ad97bf0f60	P1 tri						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:8842a371-cbbf-4cbb-a590-d3257df4f2d2	Para-Forssman glycolipid						1A	G51699SI; G98848EU	GSD000142	GlycoMotif:GGM.000085; GlycoMotif:GDV.000066; GlycoMotif:CCRC.000085	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:16f61166-6588-4bf9-bc25-fc42fdcb58ef	Para-Lacto-N-neohexaose						1A				BIOOLIGO		
+GSD:59303526-22bb-44e3-bdb0-5786c559a2d9	paragloboside			Glycosphingolipid Neo-lacto series			1A	G58896AZ; G48059CD; G40585SO	GSD000143	GlycoMotif:GGM.000077; GlycoMotif:GDV.000043; GlycoMotif:CCRC.000077	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1598c8f2-eb77-492b-a861-b96611637033	Peptidoglycan						1A	G00023MO			PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Variations in peptidoglycan structure may occur within the same organism at different stages of the cell cycle, during developmental processes, or at different sites in the same cell.	
+GSD:94c78688-31d6-41ea-b885-c811f945864d	Pk antigen		P^k antigen; Pk			Gb3; globotriaosylceramide; Gb_3	1A	G00059MO; G06000DZ		GlycoMotif:GGM.000068; GlycoMotif:GDV.000023; GlycoMotif:CCRC.000068	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; PUBDICT_GLYCONAVI_ABBREV; PUBDICT_GLYCONAVI_NAME	The P1PK blood group includes the P1 and Pk antigens.	
+GSD:68aeaab4-aaf3-5255-adab-08c0a0d5453d	polysaccharide A						1A				EOG_VARKI_4E		
+GSD:94ebb421-8203-442a-a0c5-2c0606ecd050	Precusor Lewis a		Precusor Lea				1A	G23041XK			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:a1fead82-924b-409e-b440-30d4a9ed5279	SD1a						1A	G63813EJ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:487f8c1e-be65-41cf-b5b8-a3c01d80fb05	SDA						1A	G00062MO			PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	A related structure to the Sda antigen GalNAcβ1-4(Neu5Acα2-3)Galβ1-3(Neu5Acα2-6)GalNAc is found in O-glycans and glycolipids.	
+GSD:9bca4dac-0b6f-50fb-9ef6-a9ac73ee810f	Sda antigen	Sda; Sd(A)					1A	G41052GC	GSD000145	GlycoMotif:GGM.000051	EOG_VARKI_4E; GSD_GLYGEN_V0	A related structure to the Sda antigen GalNAcβ1-4(Neu5Acα2-3)Galβ1-3(Neu5Acα2-6)GalNAc is found in O-glycans and glycolipids.	
+GSD:6ced8323-c110-405c-b415-1229d3ddb057	Sda/CT antigen		Sd^a/CT antigen				1A	G41052GC; G00062MO		GlycoMotif:GGM.000051; GlycoMotif:GDV.000086; GlycoMotif:CCRC.000051	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:797400ac-ff3b-4fe0-b7b7-cf33b036c13c	SDLex		SDLe^x				1A	G19619KS; G69360KJ		GlycoMotif:GGM.000032; GlycoMotif:GDV.000103; GlycoMotif:CCRC.000032	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:6b8eae12-0090-407e-899d-ce52a3463a60	Sia2TF						1A				BIOOLIGO		
+GSD:afbe055f-3a4d-4852-ae72-a74e7b5b6ffc	Sialosyl galactosyl globoside	SGG	Sialosyl gal-globoside			monosialyl Gb5	1A	G32254QI			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:89e36335-2fea-5ef3-a3a8-559985883dad	sialyl Lewis a	sLea; sLeA; SLea; SLe^a; Slea	sialyl-Lea; Sialyl Lewis a (SLea)  (CA19-9 antigen)			CA19-9 antigen; NeuAca3-Lea	1A	G00053MO; G50321QR; G91326YS; G81971FM; G16258KS	GSD000150	GlycoMotif:GGM.000024; GlycoMotif:CCRC.000024; GlycoMotif:GDV.000090	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC; GLYCOMOTIF_GDV	SLex and SLea epitopes (Chapter 14) were first identified as tumor antigens on glycosphingolipids.	
+GSD:f687e441-544f-4d61-a6f1-32e758cdefea	Sialyl Lewis a glycolipid		Sialyl Leaglycolipid				1A	G50321QR; G91326YS		GlycoMotif:GDV.000089; GlycoMotif:CCRC.000127	GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; CUMMINGS; GLYCOMOTIF_CCRC		
+GSD:6e6cbe2a-931c-4de2-9248-a2b713d018d1	Sialyl Lewis a tetroase						1A				BIOOLIGO		
+GSD:7424ea4c-e44f-46dd-9342-e69e239fa9fd	Sialyl Lewis a/x Like						1A	G25705KO			PUBDICT_GLYCAN_MOTIF		
+GSD:c0546f8a-7b74-4c73-803f-6a3a435f91bb	sialyl Lewis c	SLec; SaiLec					1A	G46776WR			PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:32e928fb-1550-5e0a-945f-2218ac79b83c	sialyl Lewis x	sLex; sLeX; SLe(x); SLe^x; SLex; Slex; SaiLex	sialyl-Lex			NeuAca3-Lex	1A	G00054MO; G96401FK	GSD000151	GlycoMotif:GGM.000022; GlycoMotif:GDV.000105; GlycoMotif:CCRC.000022	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_MOTIF_GTC	Sulfated forms of the sialyl Lewis x determinant are also thought to contribute to Siglec recognition, as mentioned in Chapter 35.	
+GSD:168bb902-d69d-4a2f-9739-1cf434d46db0	Sialyl Lewis x Lewis x	SDLex; Slex-Lex				NeuAca3-dimer-Lex	1A	G45215IJ			SUGARBIND; BIOOLIGO		
+GSD:2b2d7fad-fac6-4081-8b1a-36e9b1bd612c	sialyl Lewis X pentaose		Sialyl Lewis X (sLeX) pentaose				1A				BIOOLIGO		
+GSD:ebbd7ee3-06ee-45d7-89c6-f1b7cb9e019b	sialyl Lewis x-i antigen		Sialyl Lewis x-i				1A	G06597DS	GSD000152		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:9de93554-2339-4f06-9b60-2993618a4610	sialyl T antigen						1A	G65562ZE; G56299XO	GSD000153	GlycoMotif:GGM.000013; GlycoMotif:GDV.000097; GlycoMotif:CCRC.000013	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:56c1c4e3-2f6b-59db-b7c5-46e6567feea0	sialyl-Tn antigen	sTn; sTn antigen; STn	sialyl-Tn				1A	G36123IU; G08371CD; G38301SX	GSD000157	GlycoMotif:GGM.000012; GlycoMotif:GDV.000117; GlycoMotif:CCRC.000012	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME	In other instances, STn accumulation results from overexpression of the sialyltransferase ST6GALNAC1 (Figure 47.2).	
+GSD:724fcd1c-5990-4d25-9355-19f9ac11d0a5	Sialyllactotetraosylceramide						1A	G72692DY; G79536OW			SUGARBIND; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:89808c8c-929e-427b-884d-d1199e5d63ab	SLex on Core 2 O-glycan		SLex Core 2 O-glycan glycan; SLex Core 2 O-glycan; SLe^x Core 2 O-glycan; SLex on Core 2				1A	G97345NY; G71121NN		GlycoMotif:GDV.000106; GlycoMotif:CCRC.000053; GlycoMotif:GGM.000053	CUMMINGS; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; GLYCOMOTIF_GGM; BIOOLIGO		
+GSD:2d4e4f96-f318-44fe-acac-465b64678612	SLex-Lex-Lex						1A				BIOOLIGO		
+GSD:445f0532-56ac-4933-9344-e3e9386eaf12	SM3						1A	G20044TD			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:e82f6eb3-42a2-4cca-bf4f-1ec9e9e904ef	SM4s						1A	G72548RZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:cc352622-e501-4189-98f3-ef1e958b98c2	SSEA-1		stage-specific embryonic antigen-1				1A	G85497PI; G01187XC	GSD000159	GlycoMotif:GDV.000038	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	For example, stage-specific embryonic antigen-1 (SSEA-1), otherwise known as Lewis x (Lex) or CD15, is a principal marker of mouse ESCs but is not present on human ESCs.	
+GSD:51344d15-206a-41ea-8ad1-a8e30f00b1a5	SSEA-3		stage-specific embryonic antigen-3				1A	G25129BT; G99053DY; G19298OA	GSD000160	GlycoMotif:GGM.000079; GlycoMotif:CCRC.000079	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Instead, human ESCs and induced pluripotent stem cells express globosides SSEA-3 and SSEA-4, and MAbs also react with TRA-1-60 and TRA-1-81, which detect keratan sulfate–related antigens and, also, the tetrasaccharide motif Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc.	
+GSD:eb14b505-7275-5888-9bc7-4b07107af0b3	SSEA-4		stage-specific embryonic antigen-4; Stage specific embryonic antigen-4				1A	G84263XI; G32254QI	GSD000161		EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Instead, human ESCs and induced pluripotent stem cells express globosides SSEA-3 and SSEA-4, and MAbs also react with TRA-1-60 and TRA-1-81, which detect keratan sulfate–related antigens and, also, the tetrasaccharide motif Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc.	
+GSD:1ad134a3-1127-43b9-a8f7-b3c83b4c8798	Sulf-lactosylceramide						1A	G20044TD			SUGARBIND		
+GSD:f9726a72-e7bc-5b9f-bd06-b85ea099456d	sulfatide						1A	G72548RZ; G07169WN; G60011XD; G40843KY; G95090DW	GSD000162	GlycoMotif:GGM.000063; GlycoMotif:GDV.000051; GlycoMotif:CCRC.000063	EOG_VARKI_4E; GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME	This deficit affects GAG degradation and any other sulfated glycan such as sulfatides.	
+GSD:b1cca1fb-226b-4c26-85d1-8f83186163de	Sulfo Lewis X						1A				BIOOLIGO		
+GSD:fc74ecf8-c12e-4ae7-bdc0-9ce2b47a267f	Sulfo-isogloboside					Mono-sulfated isoglobotetraosylceramide	1A	G56133NW; G30925QW; G10057XH; G57036MA		GlycoMotif:GGM.000074; GlycoMotif:GDV.000076; GlycoMotif:CCRC.000074	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:5b6ede6e-9829-5690-a1a3-d1883b62d46d	T antigen		Thomsen-Friedenreich antigen; TF antigen; T (also TF)  antigen; T or TF antigen; TF				1A	G00031MO; G78436BB	GSD000163	GlycoMotif:GGM.000009; GlycoMotif:GDV.000027; GlycoMotif:CCRC.000009	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME	Amaranthin specifically recognizes Thomsen–Fredenreich (TF or T antigen) (Galβ1-3GalNAcα1-) and sialyl-T (Siaα2-3Galβ1-3GalNAcα1-) antigens.	
+GSD:54312b0e-10d5-48f2-a9fd-e0cba9e062ba	Tetraosylceramide						1A	G95034OI			SUGARBIND		
+GSD:25e2c658-4349-5dc1-ba23-f9dbe366f1e7	Tn antigen		Thomsen-Nouveau antigen				1A	G57321FI; G61406KC	GSD000167	GlycoMotif:GGM.000008; GlycoMotif:GDV.000062	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	In this condition a subset of bone marrow–derived blood cells express the Tn antigen (O-linked N-acetylgalactosamine, GalNAcα-O-Ser/Thr) and sialyl-Tn (NeuAcα2-6GalNAcα-O-Ser/Thr), thus becoming susceptible to hemagglutination by naturally occurring anti-Tn antibodies that exist in most normal humans.	
+GSD:280335d7-446e-47e8-a383-bff3af60e7eb	tri-Lewis x	Tri-Lex					1A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:08cb7e56-946e-444f-a104-e44c3351d646	trifucosyl Lewis b		trifucosyl-Leb antigen; Trifucosyl-Lewis b Antigen				1A	G74578MX	GSD000173		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3bd312ee-26f6-48a6-ac60-1a62d1369a96	trifucosyl lewis y		trifucosyl Ley; Trifucosyl-Lewis y Antigen				1A	G74917JX	GSD000174		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3bf6559b-91bf-4ff7-8af7-7c3d3a6a0dcb	Trisialogangliotetraosylceramide	GT1b			NeuAc-GT1b		1A	G40183QN			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:65bba6d7-e07f-577c-b95a-b2c2a4b87b0b	truncated core 1 O-glycan		truncated core 1 structure				1A				EOG_VARKI_4E		
+GSD:4d270073-29bf-4dbc-9b9d-e216b9f732d5	Umbelliferose						1A				PUBDICT_GLYCONAVI_NAME		
+GSD:f14c1a5d-74f6-4142-9657-703ca46fe6f6	VIM						1A	G00065MO			PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:0f3a2ef2-0eb7-4907-a8df-58934e89da01	VIM-2						1A	G22418PV; G01296LJ; G00065MO	GSD000180	GlycoMotif:GGM.000033; GlycoMotif:GDV.000111; GlycoMotif:CCRC.000033	GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; GLYCOEPITOPE; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:08fe30da-c16f-408b-b653-0a483772e05e	Xeno antigen type 1						1A				BIOOLIGO		
+GSD:1be0d162-e7a8-4569-a3f8-e5328599c6bd	Xeno antigen type 2						1A				BIOOLIGO		
+GSD:2e78d899-84d1-46cc-881d-b95a972a7be2	Xeno lewis a						1A				BIOOLIGO		
+GSD:54919b62-c173-476a-a8c7-76e71093a3ba	Xeno lewis X						1A				BIOOLIGO		
+GSD:3011b3f6-7698-4446-8f7b-cb9376be9fa5	2'-F-Di-LN						1B				BIOOLIGO		
+GSD:fee38f8d-d943-44d1-bc49-3f3110ca67e8	2,6-sialyl-Sulfo-LN		6-sialyl-6-sulfo LN				1B	G43191LZ; G41145LF		GlycoMotif:GGM.000026; GlycoMotif:GDV.000115; GlycoMotif:CCRC.000026	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:3b67a794-e241-56bb-b993-661b1a47f3ef	2-6-branch of complex N-glycans						1B	G56868BH			EOG_VARKI_4E; TERMS_GLYGEN_CURATORS		
+GSD:54d21c55-49fc-4294-b532-9da639847a22	3-sialyl LacdiNAc	3-SLDN; 3'SLDN					1B				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:d95c86dc-5486-4223-95b7-8161bf28b412	3-sialyl LN (type 2)		3-Sialyl-LN (type 2)	type 2; 3-Sialyl-LN			1B	G10203DW	GSD000005	GlycoMotif:GGM.000034; GlycoMotif:GDV.000112	GSD_GLYGEN_V0; BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV		
+GSD:600f1680-c139-4ea0-9013-037a270128e6	3-Sialyl-LN						1B	G10203DW		GlycoMotif:CCRC.000034	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:62f8c8a8-b807-4bd0-99a3-1f648b699539	4'-sulfated LDN						1B	G18464VS; G31301MT		GlycoMotif:GGM.000049; GlycoMotif:GDV.000078; GlycoMotif:CCRC.000049	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:7386e122-9d3d-4c97-95ec-266e88248dc7	6'-Sia-6-su-LacNAc						1B				BIOOLIGO		
+GSD:5241433c-1e8b-4a4f-9092-7ffa701dd222	6'-SiaDi-LN						1B				BIOOLIGO		
+GSD:96faf97c-e84b-4d49-be6d-4c5985c818e3	6,6'-sulfo LacNAc						1B	G24270KX			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:5d18f8a7-9cb0-4db5-8718-466bb625a05e	6,6,6'-Sulfo LacNAc						1B	G41392LY			GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:8a301b6e-a72a-4c97-8bbc-193ce073e88d	6-Sialyl LN (type 1)					6-sialyl GalNAc	1B	G73708UL			PUBDICT_GLYCAN_MOTIF		
+GSD:98f042b0-bc53-42e9-83b9-c8f8193b8954	6-Sialyl LN (type 2)					6-sialyl GalNAc	1B	G73708UL			PUBDICT_GLYCAN_MOTIF		
+GSD:2fcd187a-07d1-4f8a-8e73-e4be32278219	6-sulfo LacNAc						1B	G13157WZ	GSD000010		GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f6b66d2a-b2dc-4040-991c-4f4bd1493ca6	Bi-LDN						1B				BIOOLIGO		
+GSD:abc37e9a-7363-5440-87f1-1e620ed70a9a	biantennary N-glycan		diantennary; N-Glycan biantennary				1B	G98414DB	GSD000022	GlycoMotif:GGM.001037	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM		
+GSD:69988744-7296-5f26-8c2b-7a2cf6cd3ad3	bisecting GlcNAc		bisecting N-acetylglucosamine; bisecting β1-4GlcNAc				1B		GSD000024		EOG_VARKI_4E; GSD_GLYGEN_V0	A bisecting GlcNAc on a biantennary N-glycan is shown in Figure 9.5, and it may be present in all of the more highly branched N-glycans.	
+GSD:404bf970-2534-5f2f-86e1-746f0302e08a	bisecting α1-4GlcNAc		bisecting α1-4GlcNAc		bisecting GlcNAc		1B				EOG_VARKI_4E		
+GSD:6d57724b-f3a2-4282-b826-5ccb405044e0	C-Series Gangliosides Oligosaccharide / Gangliotetraosyl Core Structure						1B	G78818SP			GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:87a0c025-e9b3-401e-8533-3823e6ad024c	C-Series gangliosides oligosaccharide / hemato- or ganglio-type						1B	G45770AV			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:720fab0f-04fc-4f4b-80ff-608d90085d7c	ceramide dihexosyl sulfate						1B	G04416BG; G50926NK; G98482BC	GSD000041	GlycoMotif:GGM.000065; GlycoMotif:GDV.000049; GlycoMotif:CCRC.000065	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:8898cfbc-b227-5381-aa3b-2d6e8f5c855c	complex-type N-glycan		complex N-glycan; complex N-linked glycan; N-Glycan complex				1B	G35698AZ; G00030MO	GSD000045	GlycoMotif:GGM.001004	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	Complex N-glycans can have up to five branches initiated (more...) N-Glycans are added to secreted and membrane-bound glycoproteins at Asn-X-Ser/Thr sequons.	
+GSD:50d1be21-660a-5e10-a72d-f832009f71db	core fucose	Core Fuc	core fucosylation	6-linked Fuc; a6-linked Fuc; a1-6 Fuc		Fuca6 to chitobiose core; Fuc a1-6 to chitobiose core; Fuca6 to internal GlcNAc; Fuc a1-6 to internal GlcNAc	1B	G78059CC	GSD000049		EOG_VARKI_4E; GSD_GLYGEN_V0	Drosophila does not extend its core fucose residues with additional capping monosaccharides nor modify its N-linked glycans by O-methylation, both of which occur extensively in Caenorhabditis elegans (Chapter 25).	
+GSD:d6f0f656-0124-4bd2-9f20-0bff6858faa7	Di-LN						1B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:61dc21e8-42eb-4a40-969c-6477ad556280	Disialyl-branched Type 2						1B	G54937EM		GlycoMotif:GDV.000107	CUMMINGS; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:a557b5bb-702d-400a-9f8e-facc3c84acf3	Disialylated pentaose type 1						1B				BIOOLIGO		
+GSD:d9681674-b81c-403f-86f9-d5ea2cb30289	Disialylated tetraose type 1						1B				BIOOLIGO		
+GSD:2a70fb34-e061-4074-bf1d-d106f81594bc	Disialylated tetraose type 2						1B				BIOOLIGO		
+GSD:8dbc5b79-f425-49fd-a776-3f88ce2dc373	fucosylated lacdiNAc	LDNF; LDN-F	Fucosylated lacdiNAc				1B	G02240AO	GSD000075	GlycoMotif:GGM.000017	GSD_GLYGEN_V0		
+GSD:ddacfbac-b848-45dd-9472-d6a0bf963de8	Fucosylated LDN	LDNF; LDN-F	fucosylated LacdiNAc	LacdiNAc			1B	G02240AO		GlycoMotif:GGM.000017; GlycoMotif:GDV.000067; GlycoMotif:CCRC.000017	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCOSMOS		
+GSD:2c2e42c2-91ad-4ce8-bdb5-7b0320785e8a	Gal a(1-3') LacNAc						1B				BIOOLIGO		
+GSD:233afbbe-ab1d-4e22-8e49-c625cb4ddff7	Gal-CTH						1B	G91649BT			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:9af6cba3-6f82-4f9a-bbe4-45da0a165589	GNLN						1B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:bd55e967-56fc-57a8-a669-0f45c0eb9a21	high-mannose N-glycan		oligomannose N-glycan; high mannose; high-mannose-type N-glycan; oligomannose-type N-glycan; oligomannosyl N-glycan; N-Glycan high mannose				1B	G55220VL; G00028MO	GSD000108	GlycoMotif:GGM.001002	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICT_MOTIF_GTC; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF	Small oligomannose N-glycans have been found in relatively large amounts in invertebrates and plants.	
+GSD:d4bdcdc4-b702-5263-b380-9175249b1ed6	hybrid N-glycan		hybrid-type N-glycan; hybrid-type; N-Glycan hybrid				1B	G16828VN; G19610CW; G00029MO	GSD000110	GlycoMotif:GGM.001003	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:cea1d668-1fe6-50d0-9982-477ee729a810	LacdiNAc	LDN					1B	G31736BK; G00057MO	GSD000115	GlycoMotif:GGM.000016; GlycoMotif:GDV.000074; GlycoMotif:CCRC.000016	EOG_VARKI_4E; GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	Less commonly, the LacdiNAc motif can also be repeated (termed polyLacdiNAc).	
+GSD:7897d5a2-f609-4c1b-a706-01b68993beea	LacNAc-Gal						1B	G06580KR			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:29cf4976-eff8-5c90-b2ce-05ee2f1e908a	lipid A core oligosaccharide						1B				EOG_VARKI_4E	Genetically interrupting biosynthesis of the lipid A core oligosaccharide prevents coupling of the O-antigen, thereby allowing engineering of novel glycans on lipid A for display on the cell surface.	
+GSD:b0b9ec2f-d80a-495f-b797-7db77a5c3083	LN2			i antigen			1B	G45207BM; G11259JT		GlycoMotif:CCRC.000002; GlycoMotif:CCRC.000006	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:c13ccc2a-ce48-4808-aae7-a04b0ff82422	LN3						1B	G85779MY		GlycoMotif:CCRC.000007	GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:85309765-c034-4fde-8bc6-f09b19220fd1	LPS core						1B	G00022MO			PUBDICT_GLYCAN_MOTIF		
+GSD:a6aeb5f5-03fc-415b-98ca-dff96392c4d3	LS tetrasaccharide b						1B				BIOOLIGO		
+GSD:0d51eb33-4a29-41da-8382-23b3860aa89d	LS-hexasaccharide d						1B				BIOOLIGO		
+GSD:e8293a34-a43c-45b3-8eaf-f062522639a1	LS-tetrasaccharide a						1B				BIOOLIGO		
+GSD:4ceea015-4eae-4d9b-837e-2613765b0376	LS-tetrasaccharide d						1B				BIOOLIGO		
+GSD:7a480935-95c0-4edc-b991-fa37750562f5	LSTc pentasaccharide						1B	G72506RN			SUGARBIND		
+GSD:61a69afa-e4c2-4874-a7c1-cc4660c3d0f6	Mono-fucosyl LN						1B	G64227KZ; G65223RT		GlycoMotif:GDV.000041	GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:5372d0be-d390-45a4-9f2a-1db7b15956f2	Mono-fucosyl LN3		Mono-fucosyl LN_3				1B	G65223RT; G80291PD		GlycoMotif:GGM.000122; GlycoMotif:CCRC.000122	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:7a051bb0-34c0-4230-a9c2-a1c88742f8d8	Mono-fucosyl LN5		Mono-fucosyl LN_5				1B	G64227KZ; G93536PN		GlycoMotif:GGM.000121; GlycoMotif:CCRC.000121	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:63ac422c-f4c4-4e8d-8015-b33b72f73f97	Monosialylganglioside LSTb						1B	G83513YI; G72506RN		GlycoMotif:GDV.000116; GlycoMotif:CCRC.000128	CUMMINGS; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:04d45d70-b2b3-5f73-bbe0-cf1fd8a53b5d	N-acetyllactosamine	LN; LacNAc	Lactosamine				1B	G66213AR; G00055MO; G04616ST		GlycoMotif:CCRC.000001; GlycoMotif:CCRC.000005	EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV; PUBDICT_MOTIF_GTC; GLYCOMOTIF_CCRC	The LacNAc units can sometimes be repeated, giving extended poly-N-acetyllactosamines (sometimes incorrectly called “polylactosamines”) (Chapter 14).	
+GSD:92dcd6b9-f368-4d91-90b7-04877d3248a9	N-acetyllactosamine (type 2)		Type 2 LN; N-acetyllactosamine; N-acetyllactosamine type 2; Lactosamine Type 2	LacNAc; N-acetyllactosamine	N-acetyllactosamine		1B	G00055MO	GSD000129	GlycoMotif:GGM.000001	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF	These reactions may recur to form poly-N-acetyllactosamine [-3Galβ1-4GlcNAcβ1-]n (poly-LacNAc).	
+GSD:24d335a2-51a3-5232-96e6-2d60815f8e55	N-glycan core				N-Glycan core basic		1B	G00026MO		GlycoMotif:GGM.001001	EOG_VARKI_4E; GLYCOMOTIF_GGM; PUBDICT_MOTIF_GTC		
+GSD:cc105310-a225-4627-a651-9fffa19f2c86	N-Glycan core basic						1B	G00026MO			PUBDICT_GLYCAN_MOTIF		
+GSD:db6f22b8-9289-4bda-884e-991baf7145f3	N-Glycan core, arm-fucosylated						1B	G05006NI		GlycoMotif:GGM.001025	GLYCOMOTIF_GGM		
+GSD:8ef73bdf-03e5-4c5e-9b39-39ad8ca4dae4	N-glycan core, bisected						1B	G68395LV		GlycoMotif:GGM.001023	GLYCOMOTIF_GGM		
+GSD:009e4888-3996-4ba5-927d-7aa56f9a3f2d	N-Glycan core, core-fucosylated						1B	G68504BA		GlycoMotif:GGM.001024	GLYCOMOTIF_GGM		
+GSD:0002fe16-91a5-45c2-8c82-a92efe4485e5	N-glycan core, truncated		N-Glycan truncated motif. First GlcpNAC cut off				1B	G63560NE; G59883YF; G00027MO		GlycoMotif:GGM.001022	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF		
+GSD:bda69acb-2606-4db3-81d9-aea2790669c1	Neo Lactosamine						1B	G00056MO			PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:50702cc6-699e-4d6e-98f4-9f26f8e8b109	O-Fucose		O-linked fucose; O-fucose glycan				1B	G82576YO; G39294YF			PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; GSD_GLYGEN_V0	O-Fucose can be elongated to a tetrasaccharide (Siaα2–3/6Galβ1-4GlcNAcβ1-3Fucα-O-Ser/Thr) in certain contexts (e.g., EGF1 from human clotting factor IX and EGF12 from mouse NOTCH1) (Table 13.1), but not in others (e.g., EGF1 from human clotting factor VII and EGF5 from mouse NOTCH1).	
+GSD:80574fea-f943-4f6e-8800-375be189203d	O-Fucose / Thrombospondin Type 1 Repeat		O-fucose glycan / thrombospondin type 1 repeat				1B	G36855WW			PUBDICT_GLYCAN_MOTIF; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE		
+GSD:283d4f22-39c7-4f9a-b451-7a5b58440677	O-Fucose Core		O-Glycan O-Fucose Core				1B	G49112ZN		GlycoMotif:GGM.001035	GLYCOMOTIF_GGM		
+GSD:17d4b1f6-7f34-5221-9454-43f9e00c5f98	oligomannose		oligomannosyl structure				1B				EOG_VARKI_4E		
+GSD:8fbb3cd6-990c-57ec-bf3c-e6826c0b93ec	Outer arm fucose						1B				EOG_VARKI_4E		
+GSD:146aba34-600b-5250-8eaa-78b19e76b286	paucimannose N-glycan		paucimannosidic N-glycan				1B		GSD000144		EOG_VARKI_4E; GSD_GLYGEN_V0	These Man3–4GlcNAc2 N-glycans (paucimannose N-glycans) are formed from GlcNAcMan3–4GlcNAc2 following removal of the peripheral GlcNAc by a Golgi hexosaminidase that acts after α-mannosidase II (Chapters 24 and 26).	
+GSD:3b5bcc26-f0a7-40b5-a3e0-34444e9f5053	poly-KDN						1B	G42911NE			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3414ff02-7a95-507c-b1c0-efdc59904ea2	poly-lacto-N-biose						1B				EOG_VARKI_4E		
+GSD:2cd03630-ad1c-52c7-b888-7c495783fe10	poly-N-acetylglucosamine	PNAG	poly-GlcNAc				1B				EOG_VARKI_4E		
+GSD:6b4d591f-cc04-56e8-a565-f8198ae070e4	poly-N-acetyllactosamine		poly-LacNAc; poly-LN; Polylactosamine				1B	G00058MO			EOG_VARKI_4E; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	The LacNAc units can sometimes be repeated, giving extended poly-N-acetyllactosamines (sometimes incorrectly called “polylactosamines”) (Chapter 14).	
+GSD:2c944fe9-8bea-46f5-9ab0-1ccc8b05c6f0	poly-N-acetylneuraminic acid						1B	G80631ZD			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:fb783caa-e149-43f1-8b95-9587832c198d	poly-N-glycolylneuraminic acid						1B	G95717TY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:197964ba-03d7-5f0a-ae09-b7a7e1fd478c	polyfucose branch						1B				EOG_VARKI_4E		
+GSD:32f8e4bf-4bce-5880-822c-2bbe9e194237	polyglycosylceramide						1B				EOG_VARKI_4E		
+GSD:99e7e9ac-4324-5ba3-bc57-1c68b48aba2a	polymannose						1B				EOG_VARKI_4E		
+GSD:b3b96d8e-5d7b-5cd5-adce-1c284a2a8086	polymannosyl N-glycan						1B				EOG_VARKI_4E		
+GSD:bbaf1170-1d3f-55a0-946d-268cf8f7fa4d	polysialic acid	polySia; PSA					1B	G77612ZC	GSD000182	GlycoMotif:GGM.000252	EOG_VARKI_4E; GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM	ST8SIA2 (also called STX) and ST8SIA4 (also called PST) catalyze the synthesis of linear polymers of up to 400 α2-8 sialic acid residues to give polysialic acid (PolySia or PSA) on NCAM.	
+GSD:85de55d3-c7bc-5196-9eb1-80795c555e3e	sialoglycan		Sia-containing glycan; sialic acid-containing glycan				1B				EOG_VARKI_4E	Overall, it appears that we do not yet know the full extent of sialoglycan diversity in nature.	
+GSD:b157895c-4432-56f2-b984-d30820a25a33	sialoglycolipid						1B				EOG_VARKI_4E		
+GSD:2e0bfe1a-5256-4725-83a4-bb8c240ace11	sialopentaosylceramide						1B	G13224CR; G96400MT	GSD000148	GlycoMotif:GGM.000097; GlycoMotif:GDV.000070; GlycoMotif:CCRC.000097	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:12a546d0-44fa-43b9-bc21-3e1f0ac840c3	sialyl 6-sulfo LacNAc						1B	G99745QX			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:ab6751e8-61e4-4688-bf9e-e3dfa8b3d6a3	Sialylated LDN					sialylated LacdiNAc	1B	G55583HW		GlycoMotif:GGM.000050; GlycoMotif:GDV.000118; GlycoMotif:CCRC.000050	BIOOLIGO; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:d6d5d9b1-e690-541d-b5fb-6b58d336553a	sialylated N-acetyllactosamine						1B				EOG_VARKI_4E		
+GSD:19c1831c-18e7-4f32-be04-bfcec56eda91	Sialylated tetraose type						1B				BIOOLIGO		
+GSD:234e26ab-852e-4ea4-abd2-06d2d5117cd1	Sialylated tetraose type 1						1B				BIOOLIGO		
+GSD:091efd4c-aa6e-4b9a-872b-764499430f27	Sialylated tetraose type 2						1B				BIOOLIGO		
+GSD:0abc3c13-5074-412f-8159-bcbd8120ae0c	Sialylated triose type 1						1B				BIOOLIGO		
+GSD:aee918cb-25f8-50b7-8174-0b8aee6bfdb1	tetraantennary N-glycan		N-Glycan tetraantennary				1B	G33451SJ	GSD000164	GlycoMotif:GGM.001039	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM		
+GSD:69594bfb-99de-46fb-a398-ba43d032a62a	Tri-LN						1B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e42c7aa4-8b95-5f1c-8fe3-c263093d7b5a	tri-mannose / O-linked		tri-Man-Ser/Thr				1B				EOG_VARKI_4E		
+GSD:1471df12-b367-5f77-b47f-f8e31ae9707f	triantennary N-glycan		tri-antennary N-glycan; N-Glycan triantennary				1B	G59096WE	GSD000170	GlycoMotif:GGM.001038	EOG_VARKI_4E; GSD_GLYGEN_V0; GLYCOMOTIF_GGM		
+GSD:0efdf83c-def5-4353-bee1-e251faca6648	trimannosyl core					Man3	1B		GSD000175		GSD_GLYGEN_V0		
+GSD:ee43a491-8db9-472a-a883-ecc02a2ded21	Trisialylated pentaose type 1						1B				BIOOLIGO		
+GSD:3d7cd09c-d97b-47c4-9c76-0136cab74fa2	Trisialylated pentaose type 2						1B				BIOOLIGO		
+GSD:6f6e40d8-ff18-4f4d-b1d5-43c5dd730fec	Type 1 LN		type-1 unit; type-1 chain repeating unit	N-acetyllactosamine			1B	G00056MO; G43784HS		GlycoMotif:GGM.000005; GlycoMotif:GDV.000035	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E		
+GSD:74e3545d-6d77-44c3-8433-8c26f434e72a	Type 1 LN2			N-acetyllactosamine type 1			1B	G43784HS		GlycoMotif:GGM.000006	CUMMINGS; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF		
+GSD:0c4406ec-9b99-4cd0-8a6d-f2b4d1aad1ca	Type 1 LN3			N-acetyllactosamine type 1			1B	G17961XM		GlycoMotif:GGM.000007; GlycoMotif:GDV.000034	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:63a68751-7ea5-4ce0-92fc-4b0fefe73252	Type 2 LN		type-2 unit; type-2 chain repeating unit				1B	G00055MO		GlycoMotif:GDV.000046	GLYCOMOTIF_GDV; EOG_VARKI_4E		
+GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c	Type 2 LN2			i" antigen; i antigen; N-acetyllactosamine type 2			1B	G00058MO		GlycoMotif:GGM.000002; GlycoMotif:GDV.000045	CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:8a16aa22-c6c7-504a-b0a9-c4e7a92d84ea	type-4 chain						1B				EOG_VARKI_4E		
+GSD:62c19a81-2859-5cac-8aae-c9a9d6da5eb4	amylopectin						1C				EOG_VARKI_4E	Starch consists entirely of glucose and exists as amylopectin and amylose.	
+GSD:e86221c1-46b4-424d-be26-2a159c08c9f8	amylose						1C	G05740LL			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME	Starch consists entirely of glucose and exists as amylopectin and amylose.	
+GSD:d742c56c-350f-5f5e-bf18-d4ed7d085155	apiogalacturonan						1C				EOG_VARKI_4E	For example, xylogalacturonans contain single β-D-Xylp residues linked to O-3 of some of the backbone residues (Figure 24.2), whereas apiogalacturonans have β-D-apiose (Apif) and apiobiose linked to O-2 of some of the backbone residues.	
+GSD:cac26532-3963-48ec-8344-9f7a4f710307	arabinan						1C	G22535ZZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	As is the case for AG, periplasmic extension of LMs is catalyzed by specific type C GTs that further elaborate into lipoarabinomannans (LAMs) using decaprenyl-P-Araf, creating a covalently linked arabinan resembling the structure in AG, in a LAM molecule containing more than 100 sugars (Figure 21.3).	
+GSD:c2935744-0bf0-488a-ae10-eccef3800dbe	arabinogalactan type I						1C	G98272RS			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:cb7b0497-535f-46e7-b908-6a39377c3ae7	arabinogalactan type II		Arabinogalactan Type ll				1C	G12828SG			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:687c2e68-ec7d-54ca-a4ee-2996b7df7ebb	arabinoglucuronoxylan						1C				EOG_VARKI_4E	Gymnosperm secondary walls contain arabinoglucuronoxylans (AGXs), which in addition to MeGlcpA substituents, have Araf residues attached to O-3 of some of the backbone residues.	
+GSD:41f65e5a-b339-4a8e-b145-2cdc3bb6216e	beta 1-4 galactan						1C	G77076MY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a2e4e04e-182c-4890-8b37-de47dd47876a	beta 1-6 galactan		1-6 beta Galactan				1C	G69386QK			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:1083d84a-bf43-50ba-a94d-bf349b194916	callose						1C				EOG_VARKI_4E	Callose, a polysaccharide composed of 1-3-linked β glucosyl residues, is another β-glucan produced by plants (Figure 24.1G).	
+GSD:c7381b2b-a6b8-53b0-9ccd-02d2e5f775f7	cellulose						1C	G00025MO			EOG_VARKI_4E; PUBDICT_MOTIF_GTC	Many of these enzymes have a catalytic domain connected to a cellulose-binding module.	
+GSD:de911f78-53d3-478e-ba0f-167446bceb3d	Cellulose like Glc(1-4)n						1C	G00025MO			PUBDICT_GLYCAN_MOTIF		
+GSD:87cba7f2-dfd0-5338-a6bb-0100197ad8ad	chitin						1C	G97099AY			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS	Chitin, a polymer of (GlcNAcβ4)n, is one of the most abundant biopolymers on Earth, second only to cellulose (which is interestingly a (Glcβ4)n polymer synthesized in a similar manner by extrusion at the cell surface).	
+GSD:812d8fe6-24aa-5c10-afab-b0f3523c1d49	cyclic β1-2 glucan						1C				EOG_VARKI_4E		
+GSD:1fb3e01a-50ec-56fb-ab50-f6f757d82d96	dextran						1C				EOG_VARKI_4E	Glyco-QDs functionalized with carboxymethyldextran and polylysine were used to study carbohydrate–protein interactions.	
+GSD:d5eb4aa0-0881-5a7f-8b55-4027c9e0d7df	fructan						1C				EOG_VARKI_4E	Plants also produce fructose-containing polysaccharides termed fructans.	
+GSD:d437d34e-537b-57ce-8704-433177d46d46	fucoidan						1C				EOG_VARKI_4E	Fucoidans are a group of sulfated polysaccharides isolated from several brown algae that have been reported to have anticoagulant, antitumor, antithrombosis, antiinflammatory, and antiviral properties.	
+GSD:672c9b68-8cc9-5b73-a41f-4f1912dbe84b	galactan						1C				EOG_VARKI_4E	The second polymer, GXMGal, is based on α1-6 galactan, with side chains of galactose, glucuronic acid, mannose, and xylose (Figure 23.7); the backbone is also modified with small amounts of β1-2-linked galactofuranose (not shown).	
+GSD:1d4660e2-b1f4-5dfd-8daa-7b23494e4747	galactomannan						1C	G93424OB			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f103e2fb-58a5-5b16-80c5-8e27ca3c0536	glucan		glucose polymers				1C				EOG_VARKI_4E	A. fumigatus also produces an extracellular matrix composed of monosaccharides, α1-3-glucan, galactomannan, and a galactosaminogalactan composed of variable galactopyranose repeats linked to N-acetylgalactosamine, which are partially de-acetylated.	
+GSD:2312c43c-2cd4-563f-b74c-b95ee7b58642	glucomannan						1C	G88924MD			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Mixtures of plant polysaccharides such as larch bark arabinogalactan and glucomannan are often termed “glyconutrients” that are claimed to contain “essential monosaccharides” needed for “cell communication.” Because all monosaccharides can be made in vivo from glucose (except in patients with rare genetic deficiencies; see Chapter 42), none of the other monosaccharides are actually known to be “es...	
+GSD:77ceee42-d16d-590b-ae3e-94e617326342	glucuronoarabinoxylan		Glucronoarabinoxylan				1C	G54315VV			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	The glucuronoarabinoxylans in the secondary walls of grasses typically contain fewer Araf residues than their primary wall counterpart (Figure 24.1D).	
+GSD:68812b8d-f8a2-5064-86e7-b8389b0069d5	glucuronoxylan		Glucronoxylan				1C	G94091AV			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Glucuronoxylans, which are major components in the secondary walls of woody and herbaceous eudicots, have an α-D-GlcpA or MeGlcpA substituent at O-2 (Figure 24.1C).	
+GSD:159b23d6-4463-518c-b6d0-edc0916ae57e	glycogen						1C				EOG_VARKI_4E	A second well-studied example is glycogen, a large branched homopolysaccharide used as a short-term storage form of glucose in bacteria, yeast, and animals.	
+GSD:76dafbf0-bbad-51c3-a5ff-fcd0648bef27	hemicellulose		Hemicellulosic polysaccharides				1C				EOG_VARKI_4E	Xyloglucan, glucurono/arabinoxylan, and glucomannan (Figure 24.1B–E) are included under this chemical definition of hemicelluloses.	
+GSD:017402ef-2612-5929-912c-b2b5634f6ebd	heteroxylan						1C				EOG_VARKI_4E	Heteroxylans are the major hemicellulosic polysaccharide present in the secondary (lignified) cell walls of seed-producing plants.	
+GSD:12a886f2-8d40-554c-93dd-cc2f8894e46c	homogalacturonan						1C	G25318VQ			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	The degree of methylesterification affects the ability of homogalacturonan-containing glycans to form ionic calcium cross-links with themselves and with other pectic polymers.	
+GSD:ea85fb40-de20-4986-8e3a-fe2538d023d4	Inulin						1C				PUBDICT_GLYCONAVI_NAME	The simplest fructan is inulin, a linear glycan of sucrose with 1-2-linked β-D-Fruf.	
+GSD:232bb3ce-533d-555d-a9f4-ed9809d4ad1d	levan-type fructan						1C				EOG_VARKI_4E		
+GSD:97780e7f-7a97-52e0-bcef-62e033517882	lipo-chitooligosaccharide	LCO	lipochitooligosaccharide				1C				EOG_VARKI_4E		
+GSD:755bd8b9-fb88-5107-b53c-4a9fa6a0f664	lipopeptidophosphoglycan	LPPG					1C				EOG_VARKI_4E		
+GSD:ce35d9a0-c346-5335-8128-5430003359c9	lipopolysaccharide	LPS					1C				EOG_VARKI_4E	Each chain can contain one to hundreds of repeats, although there is a preferred (modal) cluster of chain lengths in LPS isolated from an individual strain.	
+GSD:e44b5779-9508-562c-9490-a76618c6623a	lipoteichoic acid	LTA					1C				EOG_VARKI_4E	Cell wall lipoteichoic acids and teichoic acids are unique components of Gram-positive bacteria, which are often surrounded by a CPS or a less dense EPS layer.	
+GSD:038734aa-0f88-58d2-9ee6-d2f72d775a65	mannan						1C				EOG_VARKI_4E		
+GSD:08ea19f8-5687-56dc-9812-ce892691fca0	mannosylated lipoarabinomannan	ManLAM					1C				EOG_VARKI_4E	The terminal Araf residues can be further capped by Man residues in ManLAM.	
+GSD:1cd04026-2429-5e21-a7ab-c21c2150a456	matriglycan						1C				EOG_VARKI_4E	In the Golgi, a polymer glycan (matriglycan) is generated, recognized by several diagnostic monoclonal antibodies and necessary for the binding of laminin and other molecules to α-DG.	
+GSD:96cf2a55-237d-5a94-8c48-ea3a5399fcc2	methanochondroitin						1C				EOG_VARKI_4E	A pathway of methanochondroitin biosynthesis has been proposed based on activated precursors in Methanosarcina barkeri cell extracts.	
+GSD:b467b6e9-26e7-467b-b9be-e4f1d6b20e35	mixed-linkage beta glucan		1-3/1-4 beta glucan		β-glucan		1C	G46558JB			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:995a508c-70c2-50eb-b141-863139196fe1	pectin						1C				EOG_VARKI_4E	Pectins are structurally complex polysaccharides that contain 1-4-linked α-D-GalpA.	
+GSD:d51dc931-a3ca-5b24-a263-ae807bf9cb6e	phosphomannan						1C				EOG_VARKI_4E		
+GSD:f2f7171a-ce36-5d80-b7f6-0ae02cc92d57	phosphopeptidomannan						1C				EOG_VARKI_4E		
+GSD:78ce0d7e-50a2-5e7b-aba2-98aa9bb1ef3d	pseudomurein		pseudopeptidoglycan				1C				EOG_VARKI_4E	Pseudomurein shares structural similarities with bacterial murein yet presents significant differences (Figure 22.2).	
+GSD:311d11b4-4abe-5b2e-942a-596c17524017	raffinose						1C				EOG_VARKI_4E; PUBDICT_GLYCONAVI_NAME		
+GSD:ff4ec627-d237-5bcb-a389-251ba334d130	rhamnogalacturonan						1C				EOG_VARKI_4E	Rhamnogalacturonan-I (RG-I) is a family of polysaccharides with a backbone composed of a repeating disaccharide 4-α-D-GalpA-1-2-α-L-Rhap-1.	
+GSD:7fc01df9-8288-52ae-934e-2e65dfab5a1d	Rhamnogalacturonan-I	RG-I			rhamnogalacturonan		1C				EOG_VARKI_4E	Rhamnogalacturonan-I (RG-I) is a family of polysaccharides with a backbone composed of a repeating disaccharide 4-α-D-GalpA-1-2-α-L-Rhap-1.	
+GSD:32bec96f-bd7c-5876-85ff-5a7ef6c01be7	Rhamnogalacturonan-II	RG-II			rhamnogalacturonan		1C				EOG_VARKI_4E	Several of the monosaccharides in RG-II are O-methylated and/or O-acetylated.	
+GSD:97e3ae1b-7f96-5148-8f6f-02eea317eef6	rhamnomannan						1C				EOG_VARKI_4E		
+GSD:ad85463a-3111-5186-94b3-b074cddaead4	starch						1C				EOG_VARKI_4E	Starch consists entirely of glucose and exists as amylopectin and amylose.	
+GSD:2ecd47eb-1349-5683-b84c-d6986496c78d	sulfated galactan				galactan		1C				EOG_VARKI_4E	These polysaccharides include agarose (agar) and carrageenan, which are sulfated galactans obtained from red seaweeds.	
+GSD:9a4adb24-5192-5017-8286-14828329a8e1	teichoic acid		teichoic acid polymer				1C				EOG_VARKI_4E	Furthermore, teichoic acid polymers, built from glycerol or ribitol residues joined by phosphodiester linkages, are located within the cell wall.	
+GSD:a99ba2f3-c21f-5d4f-b958-3576be9c9188	xylan						1C				EOG_VARKI_4E	Ferulic or coumaric acids are often esterified to the Araf residues of xylan in grass primary and secondary cells walls.	
+GSD:db5ed7f2-45f9-5e86-9eb1-bc412c33afc7	xylogalacturonan						1C	G00367NK			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	For example, xylogalacturonans contain single β-D-Xylp residues linked to O-3 of some of the backbone residues (Figure 24.2), whereas apiogalacturonans have β-D-apiose (Apif) and apiobiose linked to O-2 of some of the backbone residues.	
+GSD:6e9249d9-1b1b-5dbf-8561-76de16821a00	xyloglucan						1C	G25326UC			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Xyloglucan, glucurono/arabinoxylan, and glucomannan (Figure 24.1B–E) are included under this chemical definition of hemicelluloses.	
+GSD:32bfa27a-d28a-584a-9a53-7b24e852853f	α-mannan				mannan		1C				EOG_VARKI_4E		
+GSD:602bc4bf-da9f-505c-8a5d-d3de8020b72d	β-(1,3)-glucan		β-1,3-glucan		β-glucan		1C				EOG_VARKI_4E	Xyloglucan oligosaccharides effectively protected grapevine and Arabidopsis against the fungal/oomycete pathogens, whereas β-1,3-glucans improved, among others, tobacco, and grapevine protection against bacterial, fungal, and oomycete pathogens.	
+GSD:3f1f513f-f9df-5475-8bb2-ca5235e3de00	β-(1,4)-glucan		β-1,4-glucans		β-glucan		1C				EOG_VARKI_4E		
+GSD:6c978e40-5b00-580b-b7c6-94bc0e970ccc	β-glucan		Beta-glucan				1C	G00024MO			EOG_VARKI_4E; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC	The presence of 1-3, 1-4-linked β-glucans (also referred to as mixed-linkage glucans) (Figure 24.1F) in the walls of grasses was once considered to be a unique feature of these plants.	
+GSD:b115b40e-fdf0-573a-9549-0ec68f296584	1-4-linked α-L-guluronic acid		1-4-linked α-L-GulpA				2A				EOG_VARKI_4E		
+GSD:28b652e2-5923-5c29-96f1-988d8d23c5e6	1-4-linked β-D-mannuronic acid		1-4-linked β-D-ManpA				2A				EOG_VARKI_4E		
+GSD:b4252c0c-bc81-4ea0-b928-404997acbb09	2-3 sialyl-lacto-N-tetraose						2A	G21066IE			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:e44890e8-530b-4926-9b3e-f877b16a5e66	2-3 sialylparagloboside						2A	G01767JJ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:0c04a38c-bca0-4828-81a3-db514bbcb89b	2-6 sialyl-LacNAc-Gal						2A	G03509EL			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:98506914-d5b3-4a67-b3d3-e411b64b1891	2-6 sialylparagloboside						2A	G83513YI			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3ce28714-a523-447e-adf4-a064570364d1	3'-KDNLN						2A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:e335814b-5d3a-4a42-8ba4-8a83b208723e	3'-sialyl-N-acetyllactosamine	3'SLN				3'SiaLacNAc(1-4); 3'SiaLacNAc(1-3)	2A	G10203DW; G00065MO; G59168YE			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:9a4fac8f-b6c2-43c2-8de0-13c25eb616f0	3'-sialyl-N-acetyllactosamine(1-3)						2A	G59168YE			PUBDICT_GLYCAN_MOTIF		
+GSD:cf6df3a3-b689-4d88-992a-52b2e2fb98ba	3'SLN						2A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:ad477b49-fa65-45e5-a775-e79ef08e82c7	3S-Gal-4(Fuc)-GlcNAc						2A				BIOOLIGO		
+GSD:1f3ca278-ac37-468c-9498-5916f9536eb8	6'-sialyl-N-acetyllactosamine	6'SLN				6'SiaLacNAc(1-4)	2A	G09376MR			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:0e21f522-17aa-403f-bc62-8799f0b4b0c9	6-Sialyl-GalNAc or 6-Sialyl LN (type 1 or 2)						2A	G73708UL			PUBDICT_GLYCAN_MOTIF		
+GSD:0341ec9b-8fa7-4d7a-8530-54416a16af62	6P-Man3						2A				BIOOLIGO		
+GSD:1f40eca7-483b-45dd-9f20-74e461b4841d	a-3Galactosyl-3Fucosyllactose						2A				BIOOLIGO		
+GSD:38f42809-8acc-459c-9a7e-09b571e40763	a-4Galactosyl-3Fucosyllactose						2A				BIOOLIGO		
+GSD:4b6d94b3-6245-4fd6-9860-767c58db5822	A-tetra Lactose						2A				BIOOLIGO		
+GSD:11f069a8-f66a-444d-976b-34cc3f770fe4	A-tetra type 2						2A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:852dd841-58ba-46c8-870a-02ae424b423b	alpha(2-6)sialyl lactotetraosylceramide						2A				PUBDICT_GLYCONAVI_ABBREV		
+GSD:d5734174-4170-495c-8c1b-5e2fa84744c7	B-tetra Lactose						2A				BIOOLIGO		
+GSD:d2e257ae-5aa4-4e90-9119-b65bb0ae3df5	B-tetra type 2						2A				BIOOLIGO; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:f9dcda2c-3164-439c-aeed-48539b6f9fb4	Bata Galactose						2A	G65889KE			PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:3a58e154-202e-4db6-97c3-d82017c96999	beta galactose		Bata Galactose				2A	G65889KE			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE		
+GSD:9eea6970-5fd2-4028-ad0e-69e53ce5b977	Chitohexaose						2A				BIOOLIGO		
+GSD:8819f540-2b81-4ecf-a7d1-954288ea66b0	Chitohexose						2A				BIOOLIGO		
+GSD:25e88358-b3a4-45d3-87bd-9b2db024b964	Chitopentaose						2A				BIOOLIGO		
+GSD:a24044c2-5561-4611-b040-908196b86ec5	Chitopentose						2A				BIOOLIGO		
+GSD:721f9a33-e7d5-4030-8aa6-843fe555a2cf	Chitotetraose						2A				BIOOLIGO		
+GSD:fd773dee-7300-4ce2-8eef-c7565adc735a	Chitotriose						2A				BIOOLIGO		
+GSD:0c098724-4ce1-43ad-af27-11ed5885aa5d	Chondroitin tetrasaccharide						2A				BIOOLIGO		
+GSD:7acb83cf-3b57-42a5-b515-923983c2f9f6	deoxy Chitotetraose						2A				BIOOLIGO		
+GSD:cbf548b9-c573-4b53-a512-365640822c2c	deoxy Chitotriose						2A				BIOOLIGO		
+GSD:84e1a985-e75d-4914-8834-4e5ec6c1307e	Difucosyllactose						2A				BIOOLIGO		
+GSD:2e136781-dbab-43f5-8d55-f9050c469095	Disialosylpentaose						2A				BIOOLIGO		
+GSD:b50e54e4-22ba-49a2-ac78-b4f964ee787e	Fuc a(1-3) Lac-di-Nac						2A				BIOOLIGO		
+GSD:9fe1b10e-a804-47d6-b0ba-e1eaf289481f	Fuc(a1-3)GalNAc(b1)						2A	G57709BH			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:385aa671-5315-47ac-a1e3-121d7bb80e7c	Fuc-(GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc)-GlcNAc						2A				BIOOLIGO		
+GSD:db16e317-e2e9-45ad-b336-82f25a59de23	Fuc-Gal-Xyl						2A				BIOOLIGO		
+GSD:04968aef-3b4e-5f07-8352-79ac445ab345	Fucα1-2Gal						2A				EOG_VARKI_4E		
+GSD:b1d25623-17c2-4020-b038-fa24a69eda9f	Gal b1-4 GalNAc b1-4 Gal b1-4 Glc						2A				BIOOLIGO		
+GSD:995a1dec-e470-4583-bda2-17dd8778c981	Gal b1-4 GalNAc b1-4 Gal b1-4 Glc b						2A				BIOOLIGO		
+GSD:3099482e-e7ab-4fa5-9c0e-8094db143cdb	Gal(b1-3)GalNAc						2A	G78436BB; G58645HA			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:e3b3cee3-b8fa-4c42-8016-393b8e15cf7c	Gal(b1-4)[Fuc(a1-3)]Glc(b1)						2A	G57548NB; G41323BT			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:cf3288aa-7957-4cb4-8a48-046c90f82bf7	Gal-GalNAc-(Neu5Ac)-Gal-Glc						2A				BIOOLIGO		
+GSD:4eae2528-1e09-411e-b5b8-8ef917653095	Gal-GlcNAc-(Gal-GlcNAc)-Gal						2A				BIOOLIGO		
+GSD:3023b2bd-9c24-456f-ac60-a4c12e1d30b6	Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc						2A				BIOOLIGO		
+GSD:cfbe4447-afe7-4d5e-a278-1ac312995536	Galalpha1-3Gal						2A	G00046MO			PUBDICT_MOTIF_GTC		
+GSD:817ad1a7-7d2c-4d3a-a661-b43a5204bc38	GalNAc(b1-3)Gal(b1-4)GlcNAc						2A	G61149BD			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a5ab2950-a3cb-40c7-98f7-6721ff2514a4	GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)						2A	G45058HZ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:61f940e2-721b-4fe4-b717-4bff8efe6b1e	GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)						2A	G29406SZ; G23581GL			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:b7d586de-297e-432a-a94a-72078fa5604f	GalNAc(b1-4)Gal						2A	G60859DF			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:d1ba6dce-d1db-4230-8db8-119a82287b08	GalNAc-(Fuc)-Gal-Glc						2A				BIOOLIGO		
+GSD:4dfd069b-a6b4-53af-96b3-b6464421b392	GalNAcα1-3Gal						2A				EOG_VARKI_4E		
+GSD:f38bd421-3733-5f59-a1e6-c07ff71a9298	GalNAcα1-4GalNAcα1-3-diNAcBac						2A				EOG_VARKI_4E		
+GSD:dc576e33-db61-5a15-beff-20d06f37e944	GalNAcα1-4GalNAcα1-4						2A				EOG_VARKI_4E		
+GSD:e20326f3-93ec-5b08-83c8-4b0fbc04ef9c	Galα1-3GalNAc						2A				EOG_VARKI_4E		
+GSD:395a4112-0689-5bb3-92fc-a60b2e0cb3a3	Galα1-3Galα						2A				EOG_VARKI_4E		
+GSD:b9bc662d-a00d-52c9-8b01-e6483eb298f2	Galα1-3Galβ1-4GlcNAc						2A				EOG_VARKI_4E		
+GSD:69fbdafc-9293-50a2-8401-c788fa54b2fd	Galα1-3Glcα		Galα1-3Glcα1- disaccharide				2A				EOG_VARKI_4E		
+GSD:e1fbb8c1-c50d-59a7-97f0-870d83b0601c	Galβ1-3GalNAcβ1-4Gal						2A				EOG_VARKI_4E		
+GSD:5363637f-5a19-5108-ae9d-02b3e1d7003e	Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc						2A				EOG_VARKI_4E		
+GSD:297e2bb5-a492-5cd7-bda2-0b6e10d91868	GlcA-GlcNAc repeating unit		GlcA-GlcNAc RUs				2A				EOG_VARKI_4E		
+GSD:a5eb4dff-4b85-50db-bbd6-af4b55393241	GlcAβ1-3GalNAc repeating unit						2A				EOG_VARKI_4E		
+GSD:a2d09e61-b751-50c2-be00-9be4c20148f3	GlcAβ1-3Galβ						2A				EOG_VARKI_4E		
+GSD:76843f54-6102-406a-99ea-283cdac31a50	GlcNAc b(1-3') LacNAc						2A				BIOOLIGO		
+GSD:ba5cc989-0f95-4b86-acc6-57eac381e308	GlcNAc b(1-4,6) GalNAc						2A				BIOOLIGO		
+GSD:c5829655-97c8-4fbb-a2e7-baf38a5d5b66	GlcNAc(b1-3)Gal						2A	G02880JU			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:ce8b5104-60e0-4c87-8d54-b8ddb941f4db	GlcNAc-(Fuc)-GlcNAc						2A				BIOOLIGO		
+GSD:eef316f7-dd64-44ba-8029-257821947c8a	GlcNAc-Gal-Glc						2A				BIOOLIGO		
+GSD:f198ae37-5851-4818-bb41-672f8d81affd	GlcNAc-Man-(GlcNAc-Man)-Man						2A				BIOOLIGO		
+GSD:6c9a6faf-fad0-566d-ad32-8d6d1bd04f1f	GlcNAc-P-Man phosphodiester						2A				EOG_VARKI_4E		
+GSD:909439ef-1f1a-5c74-9e36-56cca3f8b024	GlcNAcβ1-2Manα1-3						2A				EOG_VARKI_4E		
+GSD:333cf741-734c-5f79-929e-7aba2473fd6d	GlcNAcβ1-2Manα1-6						2A				EOG_VARKI_4E		
+GSD:05a85523-3746-5e27-b26c-b6be92baa9ce	GlcNAcβ1-4Gal						2A				EOG_VARKI_4E		
+GSD:5534ac2a-997a-55ae-a2ac-0ecef58af642	GlcNAcβ1-4Glc-Cer						2A				EOG_VARKI_4E		
+GSD:a4024824-8ebd-52bb-bd77-3d2bfc7428bb	GlcNAcβ1-4GlcNAc						2A				EOG_VARKI_4E		
+GSD:b6520151-5833-5a29-8b9e-5366ad982946	GlcNAcβ1-4Man						2A				EOG_VARKI_4E		
+GSD:6348b8f8-fc3a-5bf8-a237-9e1c4b573f2d	Glcα1-4Glc repeating unit						2A				EOG_VARKI_4E		
+GSD:4f0d6449-4ecc-5890-be80-3712fd55caad	Glcα1-phosphate-Man		Glcα1-PO4-Man				2A				EOG_VARKI_4E		
+GSD:51a57210-2ae6-5077-808c-5b752b914b6b	Glcβ1-3Fucα-O-						2A				EOG_VARKI_4E		
+GSD:e76b7010-a089-42e3-8bff-14661528be9f	Hyalonuric acid hexasaccharide						2A				BIOOLIGO		
+GSD:c4d827c7-d23b-4380-aa8c-06f3f6320d84	Hyalonuric acid tetrasaccharide						2A				BIOOLIGO		
+GSD:e54c7fd2-9153-4ea2-ad24-bdcb1eebb13b	Hyaluronic acid hexasaccharide						2A				BIOOLIGO		
+GSD:c7e0a3bf-3c8d-469c-8882-4690af15faf9	I-active ganglioside					NeuAca3-nLc6; NeuAca2-3i; NeuAc-G-10; NeuAca2-3I	2A	G03067VG; G28566CQ; G16194TN			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:6aa0e009-637d-4f8d-a196-4393b71a1b85	KDN-Gal						2A	G82612XX; G82625KX			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:acb6fa1f-9ffa-4722-b38b-6db59a8e5cb4	Man a1-2 Man a1-6 Man a1-6 (Man a1-2 Man a1-3) Man b1-4 GlcNAc b1-4 GlcNAc b						2A				BIOOLIGO		
+GSD:30b5e6f6-24c2-4c15-982d-2acb659a473b	Man a1-3 (Man a1-6) Man						2A				BIOOLIGO		
+GSD:7480c595-8fc8-5ffa-b750-26ae3fb65f8a	Manβ1-4Glc-ceramide		Manβ1-4Glc-Cer				2A				EOG_VARKI_4E		
+GSD:d8fd1cf3-9f83-446c-b157-c0877660e89a	N-Acetyl-D-Lactosamine						2A				BIOOLIGO		
+GSD:2f335a9a-d1b7-425b-b8e9-febb8a3d149d	Neu5Ac a2-3 Gal b1-4 Glc b						2A				BIOOLIGO		
+GSD:a68c69d5-42ae-422c-8026-80544c7362ae	Neu5Ac a2-6 Gal b1-4 GlcNAc b1-4 Gal b1-4 GlcNAc						2A				BIOOLIGO		
+GSD:6091d6c4-b373-42b6-993f-16a4c0ef5c1a	Neu5Ac(a2-3)Gal / monosialoganglioside						2A	G77824XV			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:af2ee6a2-de00-40fa-9f66-4ce83635c84a	Neu5Ac(a2-3)Gal(b1)						2A	G30207PZ			GLYCOEPITOPE; PUBDICT_GLYCOSMOS		
+GSD:9ab8eddd-a433-4e31-9fe8-362e8dad2866	Neu5Ac(a2-3)Gal(b1-3)GalNAc						2A	G56299XO			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:2b866f56-b66d-4f25-a4a8-f2070ac73993	Neu5Ac(a2-3)Gal(b1-4)Glc						2A	G56516VH			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:c1c18924-390e-479a-b035-83c5cf1637d3	Neu5Ac(a2-3)Gal(b1-4)GlcNAc						2A	G10203DW			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a1e1998f-4faf-4dcf-88ef-ff0bac79b07b	Neu5Ac(a2-6)Gal						2A	G44345UH; G63069TR			GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE		
+GSD:85c522ed-d938-4fd4-be4a-ac6013251f2b	Neu5Ac(a2-6)GalNAc						2A	G08371CD			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:e3bb8793-cfce-421d-af27-6072ba1fa45a	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal						2A	G82775QT; G43195TR			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:688b8bbf-77c9-4e70-97a9-03ccc930568b	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc						2A	G93910CU			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:7bc8c2d4-60ec-458d-ac8f-f5c54da8475d	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc						2A	G81928IQ			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:05a59d4a-d2ac-4332-ba03-79d3a8a36a0f	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal						2A	G82974JM			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:0202b22a-81f2-4ed3-bed4-f8e2054d4e4d	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc						2A	G95233MF			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:a8f63969-319d-488e-9d6d-b32935d37303	Neu5Ac-Gal-(Fuc)-GlcNAc						2A				BIOOLIGO		
+GSD:c0274743-a6e7-4d6e-b879-3ee4e80440d1	Neu5Ac-Gal-(Fuc)-GlcNAc-OMe						2A				BIOOLIGO		
+GSD:74e6254f-22cd-420b-9ede-328ee335a133	Neu5Ac-Gal-(Neu5Ac)-deoxy-GalNAc						2A				BIOOLIGO		
+GSD:37efc8b5-77e4-4d0d-9d1b-424997c0544d	Neu5Ac-Gal-(Neu5Ac)-GlcNAc						2A				BIOOLIGO		
+GSD:473ec64b-303a-53b4-842b-2f8156bc19d1	Neu5Acα2-3Gal		Neu5Acα2–3Gal-				2A				EOG_VARKI_4E		
+GSD:82b45b8a-b1d3-4c69-b617-5a2d7efb0b10	Neu5Gc(a2-3)Gal						2A	G53517XC			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS; GLYCOEPITOPE		
+GSD:acfc23b8-7b4e-4849-b06a-60617b58de81	Neu5Gc(a2-3)Gal / monosialoganglioside						2A	G53517XC			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:c98ca99f-9584-4c8a-af2e-721e5e35cf1d	Neu5Gc(a2-3)Gal(b1-4)Glc		Neu5Gcα2–3Galβ1–4Glc				2A	G32969VW			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCAN_MOTIF; GLYCOEPITOPE; PUBDICT_GLYCOSMOS; EOG_VARKI_4E		
+GSD:5289175c-69ab-4ea4-992b-e8e46fdd36ff	Neu5Gc(a2-3)Gal(b1-4)GlcNAc						2A	G48236KP			PUBDICT_GLYCOSMOS; PUBDICT_GLYCAN_MOTIF; GLYCOEPITOPE; PUBDICTIONARIES-GLYCAN-IMAGE		
+GSD:350db0df-1c83-4f3e-91c8-acc6718b7b01	Neu5Gc(a2-8)Neu5Ac(a2-3)Gal						2A	G61424BA; G55286YY			GLYCOEPITOPE; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCAN_MOTIF		
+GSD:b914861a-c866-4af8-8289-f59c5df14919	Neu5Gc(a2-8)Neu5Gc(a2-3)Gal						2A	G16142UJ; G16775IT			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:352d7779-710f-403d-8d3d-b30eba33539a	NeuAca2-6I						2A	G37563FN			SUGARBIND		
+GSD:51762dc7-587b-4ff8-b77f-5e0680055146	NeuAca3-nLc8						2A	G26036PN			SUGARBIND		
+GSD:6570d5b9-de57-4054-a8a2-7480d0e44229	sialosyl paragloboside	S3P; Sial pg; S-3-PG				NeuAca3SPG; IV3(NeuAc)nLc4Cer; NeuAca2-3PG	2A	G50123ZO; G01767JJ; G00065MO; G98750DB	GSD000149	GlycoMotif:GGM.000081; GlycoMotif:GDV.000114; GlycoMotif:CCRC.000081	GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:638c0dc7-a91a-4527-8655-1d090af5b400	Sialyl-3-lactose	3'SL	Alpha 2-3 sialyllactose				2A	G91237TK; G56516VH			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:617e2f3f-8304-4d9a-a5f4-12ac942ce840	Sialylparagloboside					NeuAca2-6PG; IV6(NeuAc)nLc4Cer	2A	G83513YI			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:96329dbf-4f65-50bc-899b-539e25568d12	Siaα2-3Galβ1-4GlcNAc						2A				EOG_VARKI_4E		
+GSD:e04fcc39-8f52-5bae-8af2-bd7eafdf3b15	Siaα2-6Galβ1-4GlcNAc						2A				EOG_VARKI_4E		
+GSD:693f7482-73a3-4f83-ac58-0ad8d25b2c74	Tk						2A				BIOOLIGO		
+GSD:341d1909-eedf-5265-b3ee-cc78924c8a00	trehalose-6,6-dimycolate						2A				EOG_VARKI_4E		
+GSD:88ff1b8f-bd93-5eb3-b4ae-8ba697b28122	α(1-3)-linked N-acetylgalactosamine		α(1-3)GalNAc				2A				EOG_VARKI_4E		
+GSD:10dc47f9-89f6-59b5-aa58-22fd27d80b6e	α(1-6)-linked glucose branch						2A				EOG_VARKI_4E		
+GSD:4f04d2b2-5470-477c-8d7c-f6c713aaa150	α(2-6)sialyl  lactotetraosylceramide						2A				PUBDICT_GLYCONAVI_NAME		
+GSD:7a5bd3ed-8cf1-590b-a0d0-361864a820eb	α-linked polyglucose						2A				EOG_VARKI_4E		
+GSD:7cf55d9d-bacd-51cb-8500-ef798d5c7e9b	α2-3 sialic acid branch		α2-3Sia branch				2A				EOG_VARKI_4E		
+GSD:5bb8d8c8-c3d1-5fce-b193-1c59dd7fa899	α2-3 sialyllactosamine		α2-3sialyllactosamines				2A				EOG_VARKI_4E		
+GSD:21c1d325-ee1a-45f2-8d78-2a695c39599a	α2-6-sialylated 6-sulfo-LacNAc		6-sialyl-6-sulfo LN				2A	G41145LF	GSD000002	GlycoMotif:GGM.000026	GSD_GLYGEN_V0		
+GSD:e8b1df23-5a49-5fd5-ba6a-9e4701e140d1	β-(1,4)-mannuronate						2A				EOG_VARKI_4E		
+GSD:ad1e80a4-92ce-5bc2-b892-ffbbfaff2a25	β-linked galactose		β-linked Gal				2A				EOG_VARKI_4E		
+GSD:09f4cd98-a90c-5754-a796-8af8fcfd5b82	β-linked Kdo						2A				EOG_VARKI_4E		
+GSD:a682ef18-7c67-5471-bd36-7a689b7f6114	β2-linked mannose polymer						2A				EOG_VARKI_4E		
+GSD:444a9542-bd90-5bca-a8ea-78fc7b905dc4	β2-linked N-acetylglucosamine		β1-2GlcNAc				2A				EOG_VARKI_4E		
+GSD:864352e3-4959-5d32-b9e3-b0973c89c4a1	β3-linked glucose		1-3-linked β-Glc				2A				EOG_VARKI_4E		
+GSD:2f37ec04-7fb3-58c1-8f7b-4995e61eda24	β4-linked N-acetylgalactosamine		β1-4GalNAc				2A				EOG_VARKI_4E	An alternative is a chain composed of LacdiNAc glycan units [-3GalNAcβ1-4GlcNAcβ1-]n generated by the action of a β1-4GalNAc-transferase.	
+GSD:be8acfd3-8241-5bb3-8e7f-21348d2fbb17	β4-linked N-acetylglucosamine		β1-4GlcNAc				2A				EOG_VARKI_4E	This reaction is catalyzed by β1-4 galactosyltransferases (B4GALT1 to B4GALT6) and yields the Galβ1-4GlcNAc (N-acetyllactosamine) (more...) Terminal GlcNAc residues in N-glycans, O-glycans, and glycolipids may alternatively be modified by β1-3Gal (Figure 14.2) to generate a Type-1 unit composed of Galβ1-3GlcNAc.	
+GSD:165697ec-4d3c-5222-b659-a519d5f852b1	β6-linked galactose		1-6-linked β-Galp				2A				EOG_VARKI_4E		
+GSD:59ad35d6-72e6-5621-84da-36ff79658b40	β6-linked glucose		1-6-linked β-Glc				2A				EOG_VARKI_4E		
+GSD:787243fc-eea6-5ac3-b76f-ff0e45698791	β6-linked N-acetylglucosamine		β1-6GlcNAc				2A				EOG_VARKI_4E		
+GSD:84015745-2413-4e06-a674-647911e52a22	3'GN type1						2B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:57a0ffc9-934e-4d95-9c82-299136253c88	3'SLN (Gc)						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:4c17a241-7246-403e-b11a-ad3133d67fae	3'STri-LN						2B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:372f09b0-ed13-4b3f-b9f8-68e2658942fb	6'S-Di-LN						2B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:7be36f14-0ba5-4075-b663-5f23550b601c	6'SLDN						2B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:a69f37c3-b004-42f7-a10f-0c83d60eea39	6'SLN						2B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:74af6ab3-7905-4314-b292-d301ea117e90	6'SLN (Gc)						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:aff73964-5aa3-4872-8fa1-e60732a50db1	9OAc3'SLN						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:095b3b63-f4e0-43d9-88b6-04efbfacb5d1	A-galactosylparagloboside		A-Galactosylparagloboside				2B	G60645OK			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:df3c0164-2cf1-43f0-ba5e-c7859d233dc2	alpha-oligomannoside				dimannoside		2B	G29313LW; G07490EK; G51379UR			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:0cc89d74-c0e0-4b39-b8c0-5ed616df7131	B6 type 1						2B	G63238VS			SUGARBIND		
+GSD:5e28351b-8816-5e00-8aeb-cdc7a43e3eb9	branched N-glycan						2B				EOG_VARKI_4E		
+GSD:12a331e1-df46-5810-a2c0-83a4675298ce	C-mannose		C-linked mannose				2B				EOG_VARKI_4E		
+GSD:48427888-e55f-4eff-b5bb-8802704629ad	desialylated glycan						2B		GSD000055		GSD_GLYGEN_V0		
+GSD:48b33e4c-bedf-5af1-ba2a-8730ba59a999	fucosylated glycan						2B				EOG_VARKI_4E		
+GSD:513ef5dc-3e7b-5d21-9757-fd24642c2e46	fucosylated N-glycan						2B		GSD000076		EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:7851137b-b430-4937-9aa9-92db893cb499	Isomaltotriose						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:432b1525-f938-4df2-8bec-1beec025b19d	Lactosamine Like Structure						2B	G47428UI			PUBDICT_GLYCAN_MOTIF		
+GSD:df536945-623e-4868-811d-b83f8afe5b06	Lactosediamine						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:dc08638c-1152-5e27-adb4-2e805b91dffc	Man-6-P-containing N-glycan						2B				EOG_VARKI_4E		
+GSD:02ab6801-8a2e-476f-bd6e-c717aa215616	Manninotriose						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:19877723-8cc4-55e5-80fb-b478f3358924	mannose-terminated N-glycan						2B				EOG_VARKI_4E		
+GSD:22503e9c-0090-4332-933c-185638f9f2b9	Melezitose						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:6d8d4be9-d746-5d48-9da6-ca1f0eb3b919	monoantennary N-glycan						2B				EOG_VARKI_4E		
+GSD:9dbd00b1-daa1-5dd7-8643-cfc47dc7f67e	monoglucosylated N-glycan						2B				EOG_VARKI_4E		
+GSD:c2c341af-933d-5fc8-9481-74150676c0bb	monosialylated ganglioside						2B				EOG_VARKI_4E		
+GSD:23d26af4-50e5-471b-9fc8-64abacea97d5	monosialylated N-glycan						2B		GSD000123		GSD_GLYGEN_V0		
+GSD:b334431b-f3b0-400e-b6ef-3030b7a384de	Neolactotetrose	LNnT	Lacto-N-neotetraose				2B	G48059CD			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:ef121878-ca41-4a09-a259-e14225b9eaee	nonfucosylated N-glycan						2B		GSD000132		GSD_GLYGEN_V0		
+GSD:03a31ec3-32e0-4b58-aece-3666cc2358cb	nonsialylated N-glycan						2B		GSD000136		GSD_GLYGEN_V0		
+GSD:a2d3e702-a399-4d6f-a6e4-fbbfb22ed548	O-Glucosylation						2B	G71142DF		GlycoMotif:GGM.001031	GLYCOMOTIF_GGM		
+GSD:2492d774-7ee5-590a-abf8-920a662f7221	O-linked glucose		O-glucose glycan; O-Glc glycan				2B				EOG_VARKI_4E		
+GSD:b0d84bd5-9ed4-50a8-bd4f-4c25eea96d25	O-linked mannose						2B	G59126YU		GlycoMotif:GGM.000055; GlycoMotif:GDV.000110	EOG_VARKI_4E; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:627dd562-b899-5fd3-8bb3-c5ad42f31300	O-linked N-acetylglucosamine	O-GlcNAc	O-linked GlcNAc; O-β-GlcNAc				2B	G49108TO; G89565QL	GSD000138	GlycoMotif:GGM.001028	EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	Contrary to expectations, product analyses, including release from protein by alkali-induced β-elimination and resistance to cleavage by peptide-N-glycosidase F (PNGase F; Chapter 50), demonstrated most of the labeled galactosylated glycans existed as single O-linked GlcNAc moieties (Figure 19.1).	
+GSD:7f2b0e5a-45b8-5366-9e6d-892f75c98d6a	O-mannose glycan		O-Man glycan; O-mannose-based glycan; O-mannosyl glycan; O-mannose initiated glycans				2B	G59126YU	GSD000140	GlycoMotif:GGM.000055	EOG_VARKI_4E; GSD_GLYGEN_V0	O-Mannose glycans account for up to one-third of all O-glycans in some mammalian tissues, including brain.	
+GSD:7dfddd82-e3ae-57a6-a604-155faf7ca2a8	S-linked glucose		S-linked Glcp				2B				EOG_VARKI_4E		
+GSD:35ef481e-71f9-5f52-8643-a36b9c465ab7	sialylated glycolipid						2B				EOG_VARKI_4E		
+GSD:66cd1dd7-b3bf-5df6-b3c3-69e6354149e1	sialylated N-glycan						2B				EOG_VARKI_4E		
+GSD:2f79f606-6a5c-5ac0-ae1f-b931f02464ef	sialylated O-GalNAc glycan						2B				EOG_VARKI_4E		
+GSD:846e7a18-60cf-5ee0-bc8a-337519077430	sialylated O-glycan						2B				EOG_VARKI_4E		
+GSD:72314f0e-0721-4452-9396-9b8ab18fd9fd	Stachyose						2B				PUBDICT_GLYCONAVI_NAME		
+GSD:a2613919-1e6d-5428-aba4-5997bad45f8b	sulfated glycan						2B				EOG_VARKI_4E	The internally sulfated glycans in heparin, heparan sulfate (HS), and chondroitin sulfate (CS) proteoglycans and the sulfated N-glycans on KS are discussed in Chapter 17.	
+GSD:037ed9e9-fe72-5b57-9710-13e1e02b20c4	sulfated glycosaminoglycan	sulfated GAG	sulfated glycosaminoglycan chains				2B				EOG_VARKI_4E		
+GSD:a79de7c9-d26d-401a-a575-0342fcf41dae	sulfated LacdiNAc				4'-O-sulfated LacdiNAc; 4'-sulfated LDN	sulfated LDN	2B	G18464VS	GSD000191	GlycoMotif:GGM.000049	GSD_GLYGEN_V0		
+GSD:b8143bd5-05c6-5619-b1c1-33b000af2e7c	sulfated N-glycan						2B				EOG_VARKI_4E	The internally sulfated glycans in heparin, heparan sulfate (HS), and chondroitin sulfate (CS) proteoglycans and the sulfated N-glycans on KS are discussed in Chapter 17.	
+GSD:98efacdd-c1d7-5dc7-8d0b-06c6d5967cef	sulfated O-GalNAc glycan		sulfated mucin-type glycan				2B				EOG_VARKI_4E		
+GSD:e0e0fe41-e988-5381-a1a6-932e18899850	sulfated terminal β-linked GalNAc						2B				EOG_VARKI_4E		
+GSD:cd5c19d8-26c9-5540-b4b5-005c0b9f735c	truncated N-glycan						2B				EOG_VARKI_4E		
+GSD:76a59293-d803-5115-8d91-bfe83bf96e4d	truncated O-GalNAc glycan						2B				EOG_VARKI_4E		
+GSD:1a0dea3e-99dc-509f-b1e7-72f22adabe1d	truncated O-glycan		incomplete O-glycan				2B				EOG_VARKI_4E		
+GSD:9f46e63f-395f-55cb-9230-c011b593b822	xylosylated glycans						2B				EOG_VARKI_4E		
+GSD:f4f8ff22-b9e8-5e3e-a230-680056063e4b	α-linked mannose						2B				EOG_VARKI_4E		
+GSD:c8753ce2-90c7-5f6d-8408-8771b0fbcdd3	α-linked O-fucose modification						2B				EOG_VARKI_4E		
+GSD:a2975b50-96f1-55c1-9723-87fb404221fb	α-mannose-containing glycan						2B				EOG_VARKI_4E		
+GSD:3dea8810-9a5a-4e56-ac13-be12a66db9e1	2,6-branched O-mannose		2,6-branched O-mannosyl glycan				2B	G56868BH; G06953DR	GSD000001	GlycoMotif:GGM.000056; GlycoMotif:GDV.000109	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:9aad757b-88e3-4bc3-a146-11fa57c05de1	2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)						1B	G92341SR			PUBDICT_GLYCAN_MOTIF		
+GSD:87219c2e-bcc7-470b-b306-e5cd8926bd51	3'GN-Di-LN						1B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:35889d35-05a4-424c-b097-9d4603aabfcd	3'S-Di-LN						1B				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:da46ad44-aa13-4721-9f88-3cc1653846c0	A6 type 1						1A	G82858KU			SUGARBIND		
+GSD:324dba7d-8f31-4c19-8b96-d1e4c3789aa6	A7 type 1						1A	G71485PH			SUGARBIND		
+GSD:e38531b1-27c9-4c6f-90f4-1fae8cb14ed6	A7 type 4						1A	G37830TX			SUGARBIND		
+GSD:cedc6bdb-308e-465c-8c7c-0b6310214531	A8 type 1						1A	G04715SK			SUGARBIND		
+GSD:da373448-e169-485a-af34-b0c9b1dc1f54	A9 type 1						1A				SUGARBIND		
+GSD:e3714d91-2bac-4534-973d-4b133840c744	asialylated biantennary N-glycan		asialo diantennary				2C		GSD000018		GSD_GLYGEN_V0		
+GSD:7548e42d-e075-5fef-a148-a06913542f40	biantennary complex-type N-glycan		diantennary complex type				2C		GSD000023		EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:c453bc0a-a177-5fa0-b20d-23636ce0200e	bisected complex-type N-glycan						2C				EOG_VARKI_4E		
+GSD:c2860c4e-665b-4cdb-836e-6de5c4736f0a	core-fucosylated biantennary complex-type N-glycan		core fucosylated diantennary complex-type				2C	G78059CC	GSD000051		GSD_GLYGEN_V0		
+GSD:5f294313-bf3e-4534-ab2c-0ba48f9080f0	core-fucosylated biantennary N-glycan		core-fucosylated diantennary				2C	G78059CC	GSD000050		GSD_GLYGEN_V0		
+GSD:64cf17ab-91de-4d2e-8960-30777be8a563	difucosylated tetraantennary N-glycan						2C		GSD000057		GSD_GLYGEN_V0		
+GSD:e3f9c6db-d4ed-42b0-a8fa-62711dccdd65	diphosphorylated Man6		Diphosphorylated Man_6				2C	G54792LL; G10907PF	GSD000059	GlycoMotif:GGM.000054	GSD_GLYGEN_V0; CUMMINGS; GLYCOMOTIF_GGM		
+GSD:ae7edf02-9951-4110-9932-a68d1721d7ba	disialylated biantennary complex-type N-glycan						2C		GSD000066		GSD_GLYGEN_V0		
+GSD:03707cbe-e7ab-48a0-81f8-d15046bfab3f	disialylated biantennary N-glycan						2C		GSD000065		GSD_GLYGEN_V0		
+GSD:04ab99af-f21f-4c5a-82d7-1f1c0491f681	disialylated fucosylated glycan						2C		GSD000067		GSD_GLYGEN_V0		
+GSD:66a18163-ab2e-41c1-ab59-66f084b32074	fucosylated asialo-biantennary N-glycan		fucosylated asialo-diantennary				2C		GSD000072		GSD_GLYGEN_V0		
+GSD:a47dfc91-828d-439e-bc70-b72c8acea46a	fucosylated biantennary N-glycan				fucosylated bisialo-diantennary		2C		GSD000073		GSD_GLYGEN_V0		
+GSD:c2ff1832-e1db-4219-ab3a-29577304f83d	fucosylated disialylated biantennary N-glycan		fucosylated disialo-biantennary				2C		GSD000074		GSD_GLYGEN_V0		
+GSD:342db817-3a0f-4608-88db-c774f6cb9525	fucosylated tetraantennary N-glycan						2C		GSD000070		GSD_GLYGEN_V0		
+GSD:e8ae9e19-4f4f-41c1-b74d-348bc89d633c	fucosylated triantennary N-glycan						2C		GSD000077		GSD_GLYGEN_V0		
+GSD:94a6260b-6125-40ef-845f-e6b41e2ae13d	fucosylated trisialylated triantennary N-glycan						2C		GSD000172		GSD_GLYGEN_V0		
+GSD:0a1fb874-2e4b-58f7-8fd4-4bb308613cb0	galactose-terminated N-glycan branch						2C				EOG_VARKI_4E		
+GSD:bae38c9e-4501-5161-bf22-a17698ab4153	highly branched complex-type N-glycan		highly branched complex-type N-glycans				2C				EOG_VARKI_4E		
+GSD:991b2b28-786c-4c9f-9f96-be45dcd6a5d3	Lactosylsulfatide						2C	G20044TD			SUGARBIND		
+GSD:e62cbcaf-d685-4d21-a04a-85e288b3e6eb	Man-3 chitobiose core Fuc						2C				BIOOLIGO		
+GSD:185f10ba-89ae-4527-a8d7-5e4f0daa4565	monosialylated biantennary N-glycan		monosialyl biantennary	sialylated diantennary; sialylated biantennary			2C		GSD000124		GSD_GLYGEN_V0		
+GSD:9be48202-88cd-40b6-ab89-a0a4d4aebbdd	N-acetyllactosamine (type 1)		LacNAc type 1; Type 1 LN; Type-1 lactosamine; Lactosamine Type 1		N-acetyllactosamine		1B	G00056MO	GSD000181	GlycoMotif:GGM.000005	GSD_GLYGEN_V0; PUBDICT_GLYCAN_MOTIF		
+GSD:c8af37cc-f74c-4674-9d04-342c4fc95dc4	nonfucosylated biantennary N-glycan						2C		GSD000133		GSD_GLYGEN_V0		
+GSD:7248b6bb-13a3-4a30-ad02-e4072d9dbf3c	nonfucosylated triantennary N-glycan						2C		GSD000135		GSD_GLYGEN_V0		
+GSD:5229def0-f0cf-462e-8dbb-eb7d03d88e36	O-Fucose / EGF repeat		O-fucose glycan / EGF repeat; O-Fucose Core EGF Type; O-Fucose Core 1	O-Fucose		O-Fucose Core Thrombospondin Type 1; O-Fucose Core 2	2C	G17931GP; G39294YF; G08324ZK; G85661BQ		GlycoMotif:GGM.001020	PUBDICT_GLYCAN_MOTIF; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; GLYCOMOTIF_GGM		
+GSD:eede026a-633a-577e-9f11-044f45476b06	O-linked sialoglycan						2C				EOG_VARKI_4E		
+GSD:e3ef0583-e447-564b-8ece-c17fb722d0c7	R-linked α-N-acetylglucosamine		arginine-linked α-GlcNAc				2B				EOG_VARKI_4E		
+GSD:e0a61699-5665-4b16-b01b-ab39701107a1	Sia(a2-8)Sia(a2-3)Gal						2B	G82775QT			PUBDICT_GLYCAN_MOTIF		
+GSD:b149418a-ba3f-56cb-aaef-e93051829234	sialofucosylated glycolipid						2C				EOG_VARKI_4E		
+GSD:2af27ed8-674b-5471-adb0-e8456d8f0ea1	sialylated biantennary N-glycan		sialyl biantennary				2C		GSD000154		EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:13c3b217-f4d2-5e5f-9349-c2754539e341	sialylated complex-type N-glycan		complex sialylated N-glycan; sialo-complex type				2C		GSD000155		EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:801711dd-7758-4216-a3fd-1cb7365b46f8	sialylated LacdiNAc		sialylated-LacdiNAc			Sialylated LDN	2C	G55583HW	GSD000192	GlycoMotif:GGM.000050	GSD_GLYGEN_V0		
+GSD:d4e20de5-5097-44c5-962e-3223ceccf423	sialylated tetraantennary N-glycan						2C		GSD000156		GSD_GLYGEN_V0		
+GSD:d7f0789b-b978-488f-a490-b4836f89dda8	Sialyllacto-N-neotetraose	Sai-LNnT					2C				SUGARBIND		
+GSD:aff170d3-be1f-437b-977c-0679dbb5cc53	Sialyllacto-N-tetraose b	LSTb					2C	G32417JV			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:bf54b03e-d24b-5886-997b-2a52ede11173	sulfated glucuronosyl glycan						2C				EOG_VARKI_4E		
+GSD:d97e02e9-3b72-4008-85e6-5a23a682ec3b	Sulfated sialyl-3-N-acetyllactosamine	Su-3'SLN		Sulfated trisaccharide			2C	G99745QX			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:caf303a2-143f-51b8-887a-9fdc7e34a48c	terminal fucose		terminal Fuc residue				2C				EOG_VARKI_4E		
+GSD:0c32fd16-6ba8-5f21-aacc-e67e0b71acc1	terminal galactose		terminal Gal residue				2C				EOG_VARKI_4E		
+GSD:9555ca61-aba2-5e44-947a-a6faeb0ccf73	terminal glucuronic acid						2C				EOG_VARKI_4E		
+GSD:9b46c1bc-c89c-51be-a6bd-cb98e416888c	terminal mannose		terminal Man				2C				EOG_VARKI_4E		
+GSD:cd483672-3ab7-5734-a40a-b489a133c301	terminal N-acetylgalactosamine		terminal GalNAc residue				2C				EOG_VARKI_4E		
+GSD:7562f115-e4a2-5461-8cea-be68033775d0	terminal N-acetylglucosamine		terminal GlcNAc residue				2C				EOG_VARKI_4E	The GlcNAc linked (more...) Terminal GlcNAc residues are usually galactosylated.	
+GSD:7e50b61a-ea7e-5c9c-860e-a5296d3b2339	terminal sialic acid		Terminal Sia residue				2C				EOG_VARKI_4E		
+GSD:57fe1544-36ee-52f8-9802-d4ffc1867028	terminal α-linked fucose				terminal fucose		2C				EOG_VARKI_4E		
+GSD:a7da3922-7453-5cc0-897b-4bb463ece798	terminal α-linked mannose				terminal mannose		2C				EOG_VARKI_4E		
+GSD:ddda1d65-b417-51b2-8b8a-d5e9e86509b5	terminal α-linked-galactose		terminal α-galactose residue		terminal galactose		2C				EOG_VARKI_4E	For example, CHO cells and the African green monkey kidney cell line COS lack glycans with terminal α-galactose residues.	
+GSD:8759d2e6-5d43-508d-bec0-a9cdf395b049	terminal α1-6 mannose		terminal α1–6Man		terminal α-linked mannose		2C				EOG_VARKI_4E		
+GSD:2d13a3a8-39c6-5ce0-ba08-9ea5582c6ff4	terminal β-linked galactose			terminal galactose			2C				EOG_VARKI_4E		
+GSD:e16fd11e-688e-51f7-b405-dd0bb8b17879	terminal β-linked N-acetylgalactosamine			terminal N-acetylgalactosamine			2C				EOG_VARKI_4E		
+GSD:02e92b82-a0a2-4d1a-a1f6-7cb0dd328fe2	tetraantennary complex-type N-glycan						2C		GSD000165		GSD_GLYGEN_V0		
+GSD:975fddad-f0e8-4474-a9b2-42f6de2219c2	tetrasialylated biantennary N-glycan						2C		GSD000166		GSD_GLYGEN_V0		
+GSD:509aa3f3-d759-48ff-a4a4-e815b95e709c	triantennary complex-type N-glycan		Triantennary complex-type				2C		GSD000169		GSD_GLYGEN_V0		
+GSD:f1b29b21-dd80-4087-8619-200dc424f014	trisialylated biantennary N-glycan						2C		GSD000178		GSD_GLYGEN_V0		
+GSD:dae10330-cb00-4758-a0a4-062bb71f827e	trisialylated triantennary N-glycan						2C		GSD000179		GSD_GLYGEN_V0		
+GSD:709ec08c-7730-4d2b-bdd3-37e18002054a	(Man)2-GlcNAc						2D				BIOOLIGO		
+GSD:5b1b3271-118b-41d7-b8a7-2fc2970d8e4a	(Man)3a						2D				BIOOLIGO		
+GSD:dcf167a2-1224-42e7-b68d-59a07b0afe56	(Man)3b						2D				BIOOLIGO		
+GSD:535af70e-54e7-4928-99b4-09d111e22eca	(Man)4-(Fuc)-GlcNAc						2D				BIOOLIGO		
+GSD:bfc302a4-e00e-4599-b7b9-b284c8a80d65	A1						2D	G61751GZ			GLYGEN_CURATORS_NCOMPO	The few individuals with AB type are “universal acceptors.” In addition to accurately typing AB blood types, A1 and A2 blood group distinctions are important clinically as A2 individuals can generate anti-A1 antibodies, although these antibodies are often not clinically meaningful.	
+GSD:d40aef87-b0a6-43c5-a9b6-ab3d2bf5fec1	A1G1						2D	G69411IG			GLYGEN_CURATORS_NCOMPO		
+GSD:f02cc66d-18b6-49b8-9939-0ea7fd616ee2	A2						2D	G36191CD			GLYGEN_CURATORS_NCOMPO	The few individuals with AB type are “universal acceptors.” In addition to accurately typing AB blood types, A1 and A2 blood group distinctions are important clinically as A2 individuals can generate anti-A1 antibodies, although these antibodies are often not clinically meaningful.	
+GSD:4a6593d8-e327-44af-af08-e8b06954df88	A2[3]G1						2D	G66937TJ			GLYGEN_CURATORS_NCOMPO		
+GSD:e0ae10aa-0136-4989-a4ca-7ba9ace2308b	A2[6]G1						2D	G89993FE			GLYGEN_CURATORS_NCOMPO		
+GSD:dcc80fd1-d059-4fc4-91a1-da95e26f5a05	A2B						2D	G59471TH			GLYGEN_CURATORS_NCOMPO		
+GSD:39f78458-3d12-4df4-b72f-041d4e71bf7b	A2BG0						2D	G59471TH			GLYGEN_CURATORS_NCOMPO		
+GSD:5c08aef6-f186-491b-81b0-dc7c4f4c7ced	A2BG1						2D	G72718TT			GLYGEN_CURATORS_NCOMPO		
+GSD:c8c2ba5b-efc6-43a3-a275-2085ec060ff5	A2BG2						2D	G52934AK			GLYGEN_CURATORS_NCOMPO		
+GSD:a111b088-d71f-4593-879a-db4ee60fccc2	A2BG2S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:ec5bc446-f965-49b7-96b1-12b590fa776d	A2BG2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:29bed233-9d2f-4b00-b6d1-af66d0f1ad4a	A2F1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:30f8f6be-d46c-4aa2-86e1-b332a2b0f4f7	A2F1G2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:c9f868cb-fac5-49ae-8c3c-383aeede3923	A2G1						2D	G66937TJ			GLYGEN_CURATORS_NCOMPO		
+GSD:06c7e6db-6faa-4711-b08f-b4492f3b03e4	A2G2						2D	G36191CD			GLYGEN_CURATORS_NCOMPO		
+GSD:630d6de6-d549-41af-8c5d-02e12fed79fd	A2G2S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:04145041-b133-496d-b2e3-d24cde2a7280	A2G2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:8d1bf9cc-7988-4514-826e-a20f9439a398	A3						2D	G29011JC			GLYGEN_CURATORS_NCOMPO	The A allele encodes the α1-3GalNAcT (A3GALNT) that generates the A glycan epitope forming the A blood group (Figure 14.5).	
+GSD:5190ec70-2c1b-4d7d-9580-6e9d401ebbcf	A3F1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:0321e938-9c0e-413d-8d96-13ef69e99220	A3F1G3S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:b2c1dc47-5cd7-4334-a33e-10aebe51c7dc	A3F1G3S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:3723aa2e-1790-427d-8307-7500a410f36c	A3F2G3S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:722479e7-c9a0-40a4-bcda-0e789d88074a	A3G3						2D	G29857RC			GLYGEN_CURATORS_NCOMPO		
+GSD:a40db782-19fe-44db-bd82-2495cf6d482f	A3G3S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:184dd92e-f0e4-48b1-90db-d973516caa9c	A3G3S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:d2f114ff-d1cb-463e-a161-dd7faf97f4b4	A4						2D	G20030CU			GLYGEN_CURATORS_NCOMPO		
+GSD:79251fc6-b37b-4409-98d2-f0489e4397e0	A4F1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:8cf727af-11b9-4cae-aa63-55474d4be3fe	A4F1G4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:2673ae25-e1f9-40bc-9262-7fb7582de459	A4F1G4S4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:66fe3ab8-64ef-48f3-9118-7b5f5470ed8d	A4G4						2D	G18938DW			GLYGEN_CURATORS_NCOMPO		
+GSD:2614c503-0026-4dee-aa73-9076e7d97f75	A4G4S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:8cd340a7-3489-4632-a45c-ae8f34e35a3d	A4G4S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:11932c5a-9a14-43d6-b0ad-58f4e5df62ee	A4G4S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:aec2274a-c362-47e2-a324-a8c43ee58adb	A4G4S4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:2c6608d8-7cc4-4a6c-8e9e-8cbf8f4aed3a	FA1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:47cfdd3c-160e-403b-80dc-d8d1582fa8bb	FA1G1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:6a4dee3f-1151-4a95-8e21-7256f60b61b8	FA2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:92627d20-c569-41c1-bcc9-ad9d0b172496	FA2[3]BG1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:2417b372-a45f-4507-865a-1a084158e225	FA2[3]G1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:a0af63f5-288a-45dc-b63f-349091649746	FA2[3]G1S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:3d27094e-0b90-4890-b1f5-8c62d12603fb	FA2[6]BG1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:b21bdf12-4702-40cb-9d3b-79c08b925749	FA2[6]G1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:63c39c56-6856-48c8-b21c-7077ad7cdd48	FA2B						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:b501ac00-cfbd-4cc3-9382-984fae4ff714	FA2BG2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:0572d113-cbed-42e7-8242-618aad4a21b1	FA2BG2S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:cd1193e4-c689-44bb-a6a6-1720ac7f35d0	FA2BG2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:dd9fc577-a681-45ab-9b3f-23798e89b46f	FA2F1G2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:88720e12-1139-4829-917b-dbc0c4746a65	FA2G1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:82e48ded-5109-48eb-b619-6be15008068f	FA2G1S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:07c275b9-fb5b-49ce-80d1-ef02ad901b43	FA2G2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:17ac6666-18f3-4158-870f-70c4bc848187	FA2G2S1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:bbe90bca-4394-41ac-81aa-1abcc7293f2b	FA2G2S2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:845ebdbe-1ef7-4be9-86b1-c01781cd3a41	FA3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:7c78a401-bb4e-4774-bdfc-3c882c0aa294	FA3B						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:70d288cb-9ae4-49b4-b975-aeddf4e4d723	FA3F1G3S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:56adc89d-bb33-47db-85c5-d180cdf85c5c	FA3G3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:deddc552-6be1-4c82-bb17-cb216b15868f	FA3G3S3						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:836fcadb-481f-4aa9-a69f-b1f841b94c5d	FA4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:8a84c7da-6fc4-42ab-a1ed-0a214d7fc344	FA4F1G4S4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:9357eb9b-992f-4bb7-8b2d-515c18a50251	FA4G4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:625e721a-5bae-4520-80d4-d36f7d6a53bc	FA4G4S4						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe	G0						2D	G36191CD			EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO		
+GSD:f1dd750e-9e41-44ad-84e6-9c93143c93c7	G0-N						2D	G61751GZ			GLYGEN_CURATORS_NCOMPO		
+GSD:185d947d-25ac-487f-a8cd-1f40fda90902	G0B						2D	G59471TH			GLYGEN_CURATORS_NCOMPO		
+GSD:141f8373-6d7e-4ab5-998c-4cdb07494912	G0F						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:d7978edc-a840-4dd1-93ad-aba587f95936	G0FB						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:587d6ca7-9216-42f6-9ee9-7959c200ac2a	G1						2D	G66937TJ			GLYGEN_CURATORS_NCOMPO		
+GSD:58e7d780-da44-4b52-9687-cbccd2275b39	G1F						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:36ff0cc9-caf8-4cfc-b8f8-ae42e25ba544	G1M9						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:be84bc46-f54e-4622-8163-c101eea0f8d0	G2						2D	G36191CD			GLYGEN_CURATORS_NCOMPO		
+GSD:7f36e3c7-560f-4b7e-8743-e3b0460684f9	G2F						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:95c54ba3-42e7-4abf-b417-b721b28154ec	G2FS1						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:bedae64a-2b9f-4409-98f2-7b85dac1966b	G2FS2						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:261d03ad-992a-49b3-8451-77e873bc58f7	G2M9						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:4ae11534-53f7-4194-bf74-00c70d4d8a81	G9-B						2D	G08855PJ			SUGARBIND		
+GSD:987dd6cc-a5f7-4846-8aa8-57d163e7549a	GL-II						2D	G62971NJ			SUGARBIND		
+GSD:74f9655a-3bfb-4e82-b535-4d68b8d9f88e	GL-III						2D	G19336PT			SUGARBIND		
+GSD:27410417-a355-498f-af73-55f6fbb6c26d	LPS						2D	G00022MO			PUBDICT_MOTIF_GTC	LPS is usually essential for outer membrane integrity in producing organisms.	
+GSD:050826fd-a784-433e-a9ba-34b9b95fcee9	M3FX						2D	G47379VH; G26295XE			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:f53a8841-69ae-424a-9707-ef50a8f84acb	M7AB						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:4b1ebf65-553c-491f-9dc3-c0972d504b26	M7AC						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:649ec44c-8ca8-51fc-ab09-791ddb37fde2	M7BC		Man7GlcNAc2 isomer BC				2D				EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO	On the other hand, conversion of M8B to M7 lacking residues i and k (M7BC; Figure 39.1) was performed by EDEMs 1 and 3.	
+GSD:45b9775b-cfc1-4a8e-b872-c36948dfef72	M8A						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:3b8d8834-2436-5048-9e58-0a0c4ed97585	M8B		Man8GlcNAc2 isomer B				2D				EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO	On the other hand, conversion of M8B to M7 lacking residues i and k (M7BC; Figure 39.1) was performed by EDEMs 1 and 3.	
+GSD:41948cb9-4e7f-46c7-a4af-2687d94bd70b	M8C						2D				GLYGEN_CURATORS_NCOMPO		
+GSD:162cbd87-3efc-432a-bc99-ace94feb3200	Man3		M3 (N-glycan)	(Man)3a; (Man)3b	(Man)3 chitobiose	chitobiose; trimannosyl core	2D	G22768VO			GLYGEN_CURATORS_NCOMPO; EOG_VARKI_4E; BIOOLIGO		
+GSD:f33eeb8f-d2e9-4832-8cfc-0758b19411a8	Man4		(Man)4				2D				BIOOLIGO		
+GSD:d7aaf087-4381-5ac9-889c-e4793293c978	Man5		M5				2D	G32104JU			EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO; BIOOLIGO		
+GSD:ac85d43d-be44-59fa-a524-580fbff1c6e3	Man6		(Man)6 (GlcNAc)2; M6				2D	G56038AR			EOG_VARKI_4E; BIOOLIGO; GLYGEN_CURATORS_NCOMPO		
+GSD:76f55f17-29ee-5938-bef1-bee233b36669	Man7		M7	M7AB; M7BC; M7AC			2D	G04216GB			EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO; BIOOLIGO		
+GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7	Man8		M8	M8A; M8B; M8C			2D	G91704UR			EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO		
+GSD:171cbaf9-e31b-5be4-ab4c-b9a60cf10330	Man9		Man9GlcNAc2; (Man)9-GlcNAc-GlcNAc; M9				2D	G26508HK			EOG_VARKI_4E; GLYGEN_CURATORS_NCOMPO; BIOOLIGO	Wild-type endohexosaminidase, Endo-A, recognizes this high-mannose N-glycan and hydrolyses the GlcNAc-GlcNAc glycosidic linkage, to yield Man9GlcNAc 25.	
+GSD:bcafb14a-4f09-4acd-9c6f-46431c77b052	N-Man5 GlcNAc 1-4						2D				BIOOLIGO		
+GSD:5cec9cca-54c1-4c73-b1a0-9369022a6772	NA2F						2D	G00998NI			SUGARBIND		
+GSD:cc06bb89-924b-5d6d-a843-baca062dd6a4	Glc3Man9GlcNAc2						2E				EOG_VARKI_4E	Processing of Glc3Man9GlcNAc2Asn begins with the sequential removal of Glc residues by α-glucosidases I (MOGS) and II (GANAB) (Figure 9.4).	
+GSD:70869a6d-1921-5736-8f3a-af3e124c381a	a-series gangliosides						3A				EOG_VARKI_4E	Each branch is a committed pathway, because sialyltransferases cannot directly convert a-series gangliosides (beyond GM3) to their corresponding b-series gangliosides.	
+GSD:f054a590-0d24-5438-b871-64b001b53954	ABO blood group antigens						3A				EOG_VARKI_4E		
+GSD:44424bf0-a3e2-524d-9b57-0879a7c56c2b	arthroseries glycosphingolipids						3A				EOG_VARKI_4E	The arthroseries glycosphingolipids (GSLs) are built by extension from a mactosylceramide core (Manβ1-4Glcβ-ceramide).	
+GSD:e21a336f-6519-5fe7-9429-bcfa0d13f084	b-series gangliosides						3A				EOG_VARKI_4E	Each branch is a committed pathway, because sialyltransferases cannot directly convert a-series gangliosides (beyond GM3) to their corresponding b-series gangliosides.	
+GSD:b584b143-e0c4-5b8f-8523-f8b53ea2cfbe	blood group antigens						3A				EOG_VARKI_4E	The A, B, and H blood group antigens are glycans presented on Type-1 or Type-2 structures (Figure 14.2), on O-GalNAc glycans (Type-3), or on glycolipids (Type-4) (Figure 14.4).	
+GSD:ad4eef06-adc3-5576-ab88-d97ecabba171	c-series gangliosides		c-series				3A				EOG_VARKI_4E	The transfer of N-acetylgalactosamine to a-, b-, and c-series gangliosides, transforming GM3 into GM2, GD3 into GD2, or GT3 into GT2, is catalyzed by the same N-acetylgalactosaminyltransferase.	
+GSD:6a1a3377-b74b-4a11-ab32-14e4cc532c9e	C-Series Gangliosides / Gangliotetraosyl Core						3A	G78818SP			PUBDICT_GLYCAN_MOTIF		
+GSD:7a777e49-82dd-455f-937b-b6441b783a51	C-Series Gangliosides / Hemato- or Ganglio-Type						3A	G45770AV			PUBDICT_GLYCAN_MOTIF		
+GSD:28553836-b76d-470e-b5fb-a993a83e8fb3	Ceramide trihexosides(CTH)						3A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:83407b75-f351-5941-a80f-f5f3e662a358	complex ganglioside						3A				EOG_VARKI_4E	When the N-acetylgalactosaminyltransferase responsible for ganglioside elongation (GM2/GD2 synthase) was inactivated in mice, none of the major complex gangliosides (GM1, GD1a, GD1b, or GT1b) were expressed, and a comparable concentration of the simple gangliosides GM3 and GD3 were found in the adult brain.	
+GSD:01252e39-1f93-59e0-a64c-0655bfa4d620	complex glycolipid						3A				EOG_VARKI_4E		
+GSD:ebb26565-ed41-5f38-b9a5-a436515b2e86	complex O-glycan						3A				EOG_VARKI_4E		
+GSD:5e1bc8ef-57a1-4552-ad0a-aee82781318f	Galactocerebroside (2-hydoxy fatty acid)						3A				PUBDICT_GLYCONAVI_NAME		
+GSD:a92a3278-eedb-5329-b627-fe354524b4f1	galactolipid						3A				EOG_VARKI_4E	The most abundant plant galactolipids.	
+GSD:80ce47e7-4e1a-4c24-8b0a-2e4b1ff7973a	Ganglio						3A	G00071MO			PUBDICT_MOTIF_GTC	Several types of tumors (particularly melanoma and neuroblastoma) are characterized by the synthesis of very high levels of gangliosides (Chapter 11).	
+GSD:7a810b44-8bb6-56ba-b76c-339d66b301d7	ganglioside						3A				EOG_VARKI_4E	Several types of tumors (particularly melanoma and neuroblastoma) are characterized by the synthesis of very high levels of gangliosides (Chapter 11).	
+GSD:be7d1884-cd32-4ed9-ac87-3a8f851da8e8	Gg4Cer II3-sulfate					SM1a	3A	G59508TM			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:482a990b-0ac7-4cc1-ab24-ee7f58dd8bc6	Globo						3A	G00072MO			PUBDICT_MOTIF_GTC	GSLs sharing the same neutral core sequence are said to be of that “series”; the quantitatively major series in vertebrates are ganglio-, globo-, and neolacto-series, whereas in invertebrates the mollu- and arthro-series predominate.	
+GSD:98d075fe-32ec-4d87-a3d3-aade96f0fdfb	globopentaosylceramide	Gb5		Glycosphingolipid Globo series			3A	G99053DY	GSD000081	GlycoMotif:GGM.000076	GSD_GLYGEN_V0		
+GSD:469b06b7-a851-419a-b825-3bd7a1c44d9e	globoside I						3A	G00061MO	GSD000088	GlycoMotif:GGM.000070	GSD_GLYGEN_V0		
+GSD:770da5c6-79a7-467e-bd8a-bcc296a53de0	globosides						3A	G00061MO	GSD000087	GlycoMotif:GGM.000070	GSD_GLYGEN_V0		
+GSD:e96d30e8-eb7c-52f4-9b67-9a92a86513c7	glycoglycerolipid						3A				EOG_VARKI_4E	Glycoglycerolipids are distinguished from GSLs by their lipid, having glycans linked to the C-3 hydroxyl of diacylglycerol or alkyl(acyl)glycerol (Figure 11.1).	
+GSD:045f4287-6314-539a-bc4b-5bbdad4b4b7f	glycolipids						3A				EOG_VARKI_4E	Glycolipids of fungi, plants, and invertebrates are covered in Chapters 20 and 23–26.	
+GSD:b2e9740e-1fe6-5a6b-97f2-5a4d864900a0	glycosaminoglycans	GAGs					3A				EOG_VARKI_4E	Another class of glycans traditionally thought to reside at the cell surface and the extracellular matrix are the glycosaminoglycans (or GAGs) (Chapter 17).	
+GSD:d1a9cc2f-3b95-4aee-bf09-9e69c112d204	Glycosphingolipid Arthro series		Glycosphingolipid Arthro				3A	G00014MO		GlycoMotif:GGM.001103	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:49e6d8b0-43a6-4415-94f3-997d32c8ce36	Glycosphingolipid Gala series		Glycosphingolipid Gala				3A	G00016MO		GlycoMotif:GGM.001105	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:5ae2babc-746b-4b06-af90-f971716a5a10	Glycosphingolipid Ganglio series		Glycosphingolipid Ganglio; ganglio-series glycosphingolipid				3A	G00071MO		GlycoMotif:GGM.001108	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; EOG_VARKI_4E		
+GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94	Glycosphingolipid Globo series		Glycosphingolipid Globo; globo-series glycospingolipids				3A	G99312NX; G00072MO		GlycoMotif:GGM.001109	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; EOG_VARKI_4E		
+GSD:b30012e8-9390-459f-b894-b0c85043892b	Glycosphingolipid Isoglobo series		Glycosphingolipid Isoglobo				3A	G00012MO		GlycoMotif:GGM.001101	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:ed8a7cbb-b3c1-40fc-8240-0768284cd0c0	Glycosphingolipid Lacto series		Glycosphingolipid Lacto; lacto-series glycosphingolipids				3A	G00069MO		GlycoMotif:GGM.001106	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC; EOG_VARKI_4E		
+GSD:e37144bb-3fe1-415d-8d0c-4fe8b50cab95	Glycosphingolipid Mollu series		Glycosphingolipid Mollu				3A	G00015MO		GlycoMotif:GGM.001104	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:913be1dc-f5b1-452b-9690-07015124a6a6	Glycosphingolipid Muco series		Glycosphingolipid Muco				3A	G00013MO		GlycoMotif:GGM.001102	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; PUBDICT_MOTIF_GTC		
+GSD:33337b59-fc7c-4716-b832-99e5af01baaf	Glycosphingolipid Neo-lacto series		neolacto-series glycosphingolipids; Glycosphingolipid Neo-lacto				3A	G00070MO		GlycoMotif:GGM.001107	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF; EOG_VARKI_4E; PUBDICT_MOTIF_GTC		
+GSD:aaadcfba-0977-5dd9-965d-40aa49d81920	glycosphingolipids	GSLs					3A				EOG_VARKI_4E	Nearly all glycolipids in vertebrates are GSLs, which, in turn, are part of the larger family of sphingolipids (lipids built on sphingoid bases) that includes the major membrane phospholipid, sphingomyelin, and the second messenger sphingosine 1-phosphate that regulates angiogenesis and immune cell trafficking.	
+GSD:2039886e-7957-5b3b-bceb-1f3c3e3c1252	glycosyldiacylglycerolipid		glycosyldiacylglycerolipids				3A				EOG_VARKI_4E		
+GSD:2ac04667-bdc8-4d44-915d-8935d0ca5437	Hexaosylceramide						3A	G83212YI			SUGARBIND		
+GSD:10a7a223-3fe6-42ae-b4aa-9c3de79a9f67	Lactosylceramides						3A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:cabb56b2-34c2-5250-be10-65af64594104	Lewis antigens		Lewis-type structures; Lewis type glycans; Lewis blood group antigens		Lewis a; Lewis b; Lewis x; Lewis y		3A				EOG_VARKI_4E	Some Lewis blood group antigens have important functions in selectin-dependent leukocyte extravasation and tumor cell metastasis.	
+GSD:5ce320b8-ced2-5597-9134-b409afd7632f	lipoglycan						3A				EOG_VARKI_4E		
+GSD:dea28036-c3f0-562f-9196-0d68504e1445	lipophosphoglycan	LPG					3A				EOG_VARKI_4E	Virtually every known glycoconjugate of Leishmania shows some intersection with the LPG biosynthetic pathway.	
+GSD:f422a3ed-87ae-4f9b-9534-dbdbb335288c	Monosialodihexosylganglioside	GM3				II3NeuAc LacCer; Hematoside	3A	G91237TK			SUGARBIND; PUBDICT_GLYCAN_MOTIF	In this nomenclature, G refers to ganglioside series, the second letter refers to the number of sialic acid residues (mono, di, tri, quattro [or tetra], penta, etc.), and the number (1, 2, 3, etc.) refers to the order of migration of the ganglioside on thin-layer chromatography (TLC) (e.g., GM3 > GM2 > GM1) with respect to the starting point.	
+GSD:07f53917-abb0-5512-9eb2-b97850950eee	mucin-type O-glycans						3A				EOG_VARKI_4E; GSD_GLYGEN_V0		
+GSD:b6aa2621-651c-5dc5-af13-e3dc0b932d37	N-glycans		asparagine–N-linked glycan; N-linked; N-linked oligosaccharide; N-glycan				3A	G78059CC; G90889KG; G28330DZ; G00027MO	GSD000131		EOG_VARKI_4E; GSD_GLYGEN_V0; SUGARBIND; PUBDICT_MOTIF_GTC	N-Glycans are covalently attached to protein at asparagine (Asn) residues by an N-glycosidic bond.	
+GSD:b4f83ac5-e741-4787-93e6-efafd2149d60	Neolactohexosylceramide	NLc6		Glycosphingolipid Neo-lacto series			1A	G84034JH			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e	O-GalNAc core structures		O-GalNAc cores		core 1; core 2; core 3; core 4; core 5; core 6; core 7; core 8		3A				EOG_VARKI_4E		
+GSD:fa47b325-2aab-42f9-9d2d-b2499fab770c	O-GalNAc glycans						3A				EOG_VARKI_4E	Mucins are the class of glycoproteins carrying the greatest number of O-GalNAc glycans (also called mucin-type O-glycans), but this posttranslational modification is common among many glycoproteins.	
+GSD:d0dfe91d-737b-59d2-9fa5-746a0d0ed6ad	O-glycans		O-linked oligosaccharide; O-glycan				3A				EOG_VARKI_4E; GSD_GLYGEN_V0	Mucins are the class of glycoproteins carrying the greatest number of O-GalNAc glycans (also called mucin-type O-glycans), but this posttranslational modification is common among many glycoproteins.	
+GSD:a9cdd507-5984-5398-a41a-79a9dc01deb4	O-xylose-linked glycosaminoglycan		O-xylose-linked GAG chains				3A				EOG_VARKI_4E		
+GSD:24ed65cb-f624-5126-8f05-af4d87063b0f	P blood group antigens						3A				EOG_VARKI_4E		
+GSD:5e85053a-c1b5-4229-ae28-d8d75f7f7fe0	Pentasaccharide N-linked glycan core					6a-mannopentaose; 3a,6a-mannopentaose	3A	G20624LQ			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:b0c2ecca-a5ae-45b0-99ab-fad359da7570	seminolipid						3A	G72548RZ; G95090DW	GSD000147	GlycoMotif:GGM.000062; GlycoMotif:GDV.000050	GSD_GLYGEN_V0; SUGARBIND; CUMMINGS; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; PUBDICT_GLYCAN_MOTIF		
+GSD:7d7d82c3-15e3-546f-a46d-f6187b6cbf2c	sialylated glycosphingolipid						3A				EOG_VARKI_4E		
+GSD:665bc960-7f45-40fc-9b9c-507364b0dadc	SSEA				SSEA-1; SSEA-3; SSEA-4		3A	G85497PI; G99053DY			PUBDICT_GLYCAN_MOTIF		
+GSD:fdd7fa6f-f8e8-4d12-9898-6e021e70bb74	Sulf-gangliotetraosyl ceramide						3A	G96614JE			SUGARBIND		
+GSD:01ff59d2-19d2-4f7a-98f8-5c88a309e1e6	α(2-6)sialylÂ_ lactotetraosylceramide						3A				PUBDICT_GLYCONAVI_NAME		
+GSD:10ae2b99-1d75-5290-a777-47b7b1fcaf32	2'-fucosyllactose						3B				EOG_VARKI_4E		
+GSD:e3cf1a87-a350-4d72-b428-9d202157cbe6	2-Deoxyglucose						3B				PUBDICT_GLYCONAVI_NAME	Early studies with 2-deoxyglucose showed that the analog was converted to UDP-2-deoxyglucose, as well as to GDP-2-deoxyglucose and dolichol-P-2-deoxyglucose.	
+GSD:4b881b46-806a-4789-ae41-5afe9299cc6f	2-Deoxyribose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:5a262e8e-7861-5764-aa44-fdfb05a1e92b	3-O-sulfated galactose		3-O-sulfated Gal				3B				EOG_VARKI_4E		
+GSD:f0e62919-4120-5fd2-af20-33525dfb29a9	3-O-sulfated GlcNS6S						3B				EOG_VARKI_4E		
+GSD:5f243ab7-64a6-5a23-9ce1-529071201a5a	6-O-sulfated glucosamine						3B				EOG_VARKI_4E	A family of plasma membrane endosulfatases (SULFs) can remove sulfate groups from internal 6-O-sulfated glucosamine residues in heparan sulfate and a heparanase can cleave the chains at limited sites.	
+GSD:750c698e-8e07-41b0-9544-0913ce47c510	6-sialyl GalNAc					sialyl Tn antigen; 6-Sialyl LN (type 1); 6-Sialyl LN (type 2)	3B	G08371CD; G73708UL	GSD000009	GlycoMotif:GGM.000035; GlycoMotif:GDV.000119; GlycoMotif:CCRC.000035	GSD_GLYGEN_V0; GLYCOMOTIF_GGM; GLYCOMOTIF_GDV; GLYCOMOTIF_CCRC; PUBDICT_GLYCAN_MOTIF		
+GSD:9447ca95-04fd-5700-9db0-2a3ee02c2a4a	9-O-acetylated sialic acid		9-O-acetylated Sia; 9-O-Ac-Sia; 9-O-acetylated-SA; 9-O-acetyl sialic acid				3B	G47325QT			EOG_VARKI_4E; GSD_GLYGEN_V0; PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	As such, it is the sialytransferase-mediated delivery of 9-O-acetylated sialic to acceptor substrates that leads to the 9-O-acetylated glycoconjugates observed. 9-O-acetylated sialic acid plays a role in CD22 signaling, a process regulated by the opposing action of a sialate 9-O-acetylesterase (SIAE).	
+GSD:9045411f-6f4b-4611-9db9-81be28c8464b	Abequose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:804f1944-7e16-4835-ab60-94e899b44092	Acosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:827a8e35-ac61-4da3-8e3c-9533b26a7192	Allose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:4cf92940-c1b6-4547-a624-d773f130063d	Altrose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d2573639-a163-4b5a-97de-024409149f23	Amicetose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:ad271a4a-1a58-4809-b395-2981b05bf443	Apiose						3B				PUBDICT_GLYCONAVI_NAME	For instance, apiose is a component of the polysaccharide apiogalacturonan of L. minor, and strepose is a component of the antibiotic streptomycin, produced by Streptomyces griseus.	
+GSD:197f2c04-6eb9-450f-ab0a-e8f76e92c4a2	Arabinose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:6890924a-0080-4a7a-a87b-8f0fd114028f	Arcanose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:ad7502cf-e8cf-45b2-b5d4-aa5ed365c918	Ascarylose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:1aeae3c6-2256-4d52-8a19-aa689341df9b	Bacillosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:ed3beb04-a181-4253-853f-e69fa9830692	Beta Galoctose						3B	G65889KE			PUBDICT_GLYCAN_MOTIF		
+GSD:f50f4d92-6973-422f-a900-97e630106f94	Beta-linked galactose						3B	G65889KE			SUGARBIND		
+GSD:a1a1cc4d-4f8d-4a6e-9745-406d21d24b2c	Boivinose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:1631d080-5dbb-5950-a0da-474aeb12d32d	cellobiose						3B	G55560AP			EOG_VARKI_4E; PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:998dcbee-4911-42b2-be98-e12384077827	cellotriose						3B	G50026IZ			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:86e21b58-6304-4d77-b0e9-d5b71bf43400	Chacotriose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f0a9fa70-53f0-4ec5-b6cf-4ca2da4bcc2f	Chalcose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:78cf4467-4e94-41de-b821-1c9eceb2738e	Chitobios						3B	G07982RO			SUGARBIND; PUBDICT_GLYCAN_MOTIF	In many other species, splitting of the chitobiose linkage (GlcNAcβ1-4GlcNAc) uses the β-N-acetylhexosaminidase, mentioned below, as the last step in degradation.	
+GSD:8756b00b-9dcc-514c-a965-d339f8ec93b2	chitobiose						3B				EOG_VARKI_4E	In many other species, splitting of the chitobiose linkage (GlcNAcβ1-4GlcNAc) uses the β-N-acetylhexosaminidase, mentioned below, as the last step in degradation.	
+GSD:7ba01715-f8fa-4655-8606-088c21be8354	Cladinose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:4837ded6-77de-43a0-9026-bce3cf8c1258	Colitose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:84f5d6f4-9732-471e-a8fe-002cdf08f426	Cymarose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:a3e35647-4831-4811-9e3a-ce2dfdded65f	D-Fucitol						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:7c9fd02e-f3d8-4b63-a6a2-a6e1f9818376	D-Galactosaminitol						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:bb556452-d1a5-426b-834f-e9f1871e1692	Daunosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:e366a55a-9b0e-4d92-bdb2-47cd1c4d0ec6	Desosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:6f1bee5a-4792-5ca8-b631-f32c4052b8c5	di-N-acetylbacillosamine	diNAcBac					3B				EOG_VARKI_4E	This alternate pathway has been thoroughly characterized in Neisseria species, in which multiple proteins (including pilin) are glycosylated with an oligosaccharide containing diNAcBac (or variants such as glyceramidoacetamidotrideoxyhexose or diacetamidodideoxyglucopyranose) at the reducing end, the same carbohydrate attached to Asn residues by the C. jejuni N-glycosylation pathway.	
+GSD:477bfb4c-d07c-4bb6-adfd-6acbbb7401f1	Diginose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:03979a5c-83de-4944-9222-1d8a92a92665	Digitalose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d1e9e244-48f6-4a50-b8b0-9c6bd8185f9e	Digitoxose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:0ba75e91-ae2c-4918-ae2c-c263c2aaae16	Disialylactose	DiSai					3B	G97569KL			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:6536eb1b-a001-4bb6-b355-e0ea386177d2	Erythrose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:19e938c8-f830-4fa2-8f0b-e614122028db	Erythrulose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:af4b5c58-d024-43df-9e83-e0bac3a8762f	Evalose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:4deee574-77a2-48fe-a903-d1047c885c21	Evernitrose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:88e67d02-cfe5-40d2-ae6f-b51fb1cc1bf6	Forosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:1edc3d8a-4ae7-4e5b-a98b-cad8f10cfd83	Fructose						3B				PUBDICT_GLYCONAVI_NAME	For example, people who lack fructoaldolase (aldolase B) accumulate fructose-1-phosphate, which ultimately causes ATP depletion and disrupts glycogen metabolism.	
+GSD:41d30109-ac59-4291-acf8-7ce0ca586956	Fucosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:952df30c-5251-4ac1-afbb-b19256ecf82d	Fucose	Fuc	fucosylation		L-Fucose		3B	G82576YO			SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME	GDP-Fuc can also be synthesized directly from fucose.	
+GSD:a2c78d58-1d1e-5488-972e-60788bd92662	galabiose	Ga2		Digalactoside			3B	G62763GO			EOG_VARKI_4E; SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:ee211aa3-87b6-4958-bb7e-06438471d06d	Galactosamine						3B				PUBDICT_GLYCONAVI_NAME	Depressing glucosamine production in this way has a pleiotropic effect on glycan assembly because all of the major families contain N-acetylglucosamine or N-acetylgalactosamine.	
+GSD:a186c9ad-a53a-4f7e-b6d7-5f7b3ef2cd1e	Galactose	Gal	galactosylation				3B	G68158BT; G65889KE; G99053DY			SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME	The most common form of galactosemia is caused by a deficiency of galactose-1-phosphate uridyltransferase (GALT).	
+GSD:40c3f953-e2a9-4b1e-8b9b-327e63483160	galactose 3-O-sulfate						3B	G40843KY			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS		
+GSD:9740cd86-9d72-46da-b1f2-d7688dabe2a3	Galactose beta1	Gal beta1					3B	G68158BT			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:4ec5e94c-7e3a-400c-9a4f-038973e3ea0f	GalNAc						3B	G39738WL			PUBDICT_GLYCOSMOS	An alternative is a chain composed of LacdiNAc glycan units [-3GalNAcβ1-4GlcNAcβ1-]n generated by the action of a β1-4GalNAc-transferase.	
+GSD:dd03e32d-f3c9-49cd-ba95-0fe1ea5097a7	Garosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f07d9cd6-64b3-4e29-ab49-b0a5a1f72e31	gellan						3B	G41181BF			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS		
+GSD:3c6b9081-0a89-4271-b241-30e5e8ef0d5d	Gentianose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:28bc06b4-e652-482d-868d-1b2ed75a3f13	gentiobiose						3B	G47329OU			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:ea500bee-b99b-41de-b445-d0a3bf0160e5	Glucosamine						3B				PUBDICT_GLYCONAVI_NAME	Claims that glucosamine improves osteoarthritis symptoms and restores partially the structure of the eroded cushion in the knees are controversial.	
+GSD:f2c0fcd2-6592-4a89-a39d-7d6c62d776bb	Glucosaminitol						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:397a5b93-23bc-4a7c-9bbf-3e109ef9ab6e	Glucose	Glc	glucosylation		D-Glucose		3B	G15021LG			SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME	Glycogen is synthesized by the addition of single glucose units from UDP-Glc, and it is degraded by glycogen phosphorylase.	
+GSD:a1997812-8d5f-405f-917f-14017c6104c8	Glyceraldehyde						3B				PUBDICT_GLYCONAVI_NAME	Structures of glyceraldehyde and dihydroxyacetone.	
+GSD:9b14aec8-c2c5-47c6-94c1-8a1caac5c208	Glycerone						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:6dde7c33-1a26-40e6-a52b-838a3f363403	GN						3B				PUBDICT_GLYCONAVI_NAME	For example, in the widely used nomenclature of Svennerholm, the ganglioside Galβ1-3GalNAcβ1-4(Neu5Acα2-3)Galβ1-4GlcβCer is designated “GM1” (Figure 11.3).	
+GSD:02232784-a911-461f-bda4-f3872b6df156	Gulose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:e54d20ff-b236-4f21-87c2-9abe7df5b688	Hamamelose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:b9d45f1a-7328-48c3-8142-a8592e8ea11e	Idose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f3acff63-a62f-4967-94a7-b58e66a46032	isomaltose						3B	G36281WI			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:e1e28b8f-2e73-48b2-8743-50e713dc0fc1	isopanose						3B	G37117TJ			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:bb88a097-bdf3-47e0-8e70-0ff1d79cd5b8	Kanosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:37b50cf6-4bb0-4b14-8405-2be880d215bd	Kansosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:3348a526-ad88-47ed-8d59-b877b23e2896	Kojibiose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:7248cb2b-d67d-4cc9-b5ac-d86e533148a8	L-Fucitol						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f03eb04d-6095-48b1-b74d-87c9f9a7c872	Lac						3B	G84224TW			PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	The LacNAc units can sometimes be repeated, giving extended poly-N-acetyllactosamines (sometimes incorrectly called “polylactosamines”) (Chapter 14).	
+GSD:67c366a0-b8ae-409e-9d4b-4b02e82ea141	lactose						3B	G15541SE			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	However, even these diets do not prevent unexplained long-term complications, which include speech and learning disabilities and ovarian failure in females with galactosemia.	
+GSD:1bc0d796-2195-4bb2-9c56-4dcd203988c2	Lactotetraose	LNT	Lacto-N-tetraose				3B	G45827GY			SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV	This disaccharide is a substrate for an N-acetylgalactosaminyltransferase (B3GALNT2) that adds β1-3GalNAc to the GlcNAc.	
+GSD:da56b843-c377-413e-8914-be1407f5539a	Laminarabiose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:a7a00ed8-2bc9-49fb-b180-e28af27185b2	Levoglucosan						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d1dd1a2b-2019-428d-9826-368e97c12370	Lyxose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:6f054150-f668-4f6c-8535-0c7f04a6db4b	maltose						3B	G44653LT			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:442f66ee-7976-4c6d-a43e-1c62a05cc3ae	Mannosamine						3B				PUBDICT_GLYCONAVI_NAME	Mannosamine acts as a metabolic inhibitor that inhibits GPI anchor formation both in Trypanosoma brucei and in mammalian cells by the formation of ManNH2-Man-GlcNH2-PI.	
+GSD:df0149f4-cb5f-47bf-a72d-a5ba117bc023	Mannose	Man	mannosylation		Alpha-linked mannose		3B	G70323CJ			SUGARBIND; PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCONAVI_NAME	W, tryptophan; S, serine; T, threonine; X, (more...) O-Mannose α-linked to protein was first identified in yeast in the 1950s (Chapter 23).	
+GSD:b2d19b21-c741-4f41-9282-beb1aace552f	Mannotriose						3B	G17780OR; G47395XN; G28528AG			SUGARBIND		
+GSD:20de8d28-539e-5869-9718-cf9c103f2fc6	Manα1-3Man disaccharide						3B				EOG_VARKI_4E		
+GSD:f1397bc9-975f-4e5b-989a-57cbce56c9c0	melibiose						3B	G66481II; G86123DJ			PUBDICTIONARIES-GLYCAN-IMAGE; SUGARBIND; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:eeb70c60-8300-4a44-b121-a00225f0c353	Muramic acid						3B				PUBDICT_GLYCONAVI_NAME	It usually consists of N-acetyl-L-talosaminuronic acid linked via a β1-3 linkage to N-acetyl-D-glucosamine, unlike murein, which contains alternating N–acetylmuramic acids linked via β1-4 linkage to GlcNAc.	
+GSD:fdd9b60c-fa0e-4821-b69e-c43ed6ba5466	Mycaminose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:76291622-a6af-4316-a757-6d72de87943d	Mycarose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:a54be935-54ee-4e8a-9301-fe0f00961b71	Mycinose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:6f864822-3ec0-4123-b6e7-7a120d0f6a4a	Mycosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:bcfcb92d-7efe-4eb7-b324-88a3ce4ae60a	N-acetyl-D-galactosamine	GalNAc					3B	G61418DU			SUGARBIND; PUBDICT_GLYCAN_MOTIF	An alternative is a chain composed of LacdiNAc glycan units [-3GalNAcβ1-4GlcNAcβ1-]n generated by the action of a β1-4GalNAc-transferase.	
+GSD:49f72104-7b21-45a7-8769-b9c0366888b4	N-acetylgalactosamine	GalNAc					3B	G27025MB			SUGARBIND; PUBDICT_GLYCAN_MOTIF	An alternative is a chain composed of LacdiNAc glycan units [-3GalNAcβ1-4GlcNAcβ1-]n generated by the action of a β1-4GalNAc-transferase.	
+GSD:f376fe67-f636-4898-939e-23a2139e3e58	N-acetylglucosamine	GlcNAc	GlcNAcylation				3B	G64581RP			SUGARBIND; PUBDICT_GLYCAN_MOTIF	N-acetylglucosamine N-deacetylase/N-sulfotransferases (NDST1-4) act on a subset of N-acetylglucosamine residues to generate N-sulfated glucosamine (GlcNSO3) units, many of which occur in clusters along the chain.	
+GSD:529776fa-63d3-4754-bc9c-feb2b107e99d	N-acetylneuraminic acid	NANA; NeuAc		Sialic Acid			3B	G81533KY; G50850NI			SUGARBIND; PUBDICT_GLYCAN_MOTIF	Although 5-N-acetylneuraminic acid (Neu5Ac, sometimes called “NANA”) is the most common sialic acid (Sia) in humans, the Sia family is comprised of related structures (Figure 15.1) that vary at the C-5 carbon, including 5-N-glycolylneuraminic acid (Neu5Gc) and 3-deoxy-D-glycero-D-galacto-non-2-ulosonic acid (also known as 3-deoxy-nonulosonic acid, 2-keto-3-deoxy-nononic acid, or Kdn) with a hydrox...	
+GSD:141bca9f-bae8-4eb6-a1e8-a3e61748955f	Neu5Ac						3B	G81533KY; G76685HR			PUBDICT_GLYCAN_MOTIF; PUBDICT_GLYCOSMOS	The evolutionary advantage of excluding Neu5Gc from this vital organ is unknown but may relate to selection pressure by unknown pathogens and/or selective roles of Neu5Ac in optimal brain development and function.	
+GSD:22e03cd4-2541-4c82-b29d-f7f869d5b1ce	NeuAc						3B	G76685HR			PUBDICT_GLYCOSMOS		
+GSD:eebc53c2-1a42-47ba-a5d4-97bf40c52583	NeuGca2-3I						3B	G72494BI			SUGARBIND		
+GSD:04f67be4-dc8c-4210-9d56-37b9976627d9	NeuNAc						3B	G76685HR			PUBDICT_GLYCOSMOS		
+GSD:81acd674-e1c0-4ced-a409-319680aecf10	Neuraminic acid						3B				PUBDICT_GLYCONAVI_NAME	Chemical structure of sialic acid (Neu5Ac, 2-deoxy-2,3-dehydro-N-acetyl neuraminic acid), DANA; 4-amino-DANA; 4-guanidino-DANA (Relenza, zanamivir); (3R, 4R, 5S)-4-acetamido-5-amino-3-(1-ethylpropoxyl)-1-cyclohexane-1-carboxylic (more...) A visual inspection of the X-ray structure of influenza neuraminidase with DANA bound showed that two glutamate residues lined a pocket near carbon 4 of the sial...	
+GSD:582076e4-cb5f-41c6-b1d7-caa01f5f174e	Nigerose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:58db99db-8d7c-400d-9254-37d4058c83ec	Nojirimycin						3B				PUBDICT_GLYCONAVI_NAME	N-Butylation of deoxynojirimycin makes this glucosidase inhibitor an inhibitor of glycolipid biosynthesis, which is discussed in more detail further below.	
+GSD:751847ea-e198-4922-9c6a-4b85a85f0d50	Noviose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:929ed22f-b4a5-54aa-9c0d-8000b75e4a33	O-acetylated sialic acids	O-Ac-SA	O-acetylated Sias				3B				EOG_VARKI_4E		
+GSD:3a5c03e8-e8e4-50e5-9148-03bd2d061521	O-linked Glc-Gal disaccharide		O-Linked Glc-Gal				3B				EOG_VARKI_4E	O-Linked Glc-Gal disaccharides are added to hydroxylysine residues and play an important role in collagen fibril formation.	
+GSD:e45f8adc-acb8-496d-a180-1936245d7519	O-Mannose						3B	G23707SD; G70323CJ		GlycoMotif:GGM.001019	GLYCOMOTIF_GGM; PUBDICT_GLYCAN_MOTIF	W, tryptophan; S, serine; T, threonine; X, (more...) O-Mannose α-linked to protein was first identified in yeast in the 1950s (Chapter 23).	
+GSD:2da4fdfa-7041-482c-854c-e16809860245	Oleandrose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:8d7f339e-041d-5fb1-a248-0b53939bc648	oligogalacturonides						3B				EOG_VARKI_4E		
+GSD:4128c067-002f-552f-80b1-b1ba152cce73	oligoglucosides						3B				EOG_VARKI_4E		
+GSD:3e1e0df5-e61b-439c-888e-159f8b15b30c	panose						3B	G44612JM			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:ab661c7c-c32d-4cac-924f-389fb01a795f	Paratose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:04fc54b6-4e7e-4e4b-af84-58ba42cdcaa8	Perosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:397e8bba-855e-4053-8375-ab36e390b65e	Planteose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:b3dc50a8-5251-44a8-be44-9cf72d3a61d3	Pneumosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d1150611-0657-467a-9f8a-a372b238dbd9	primeverose						3B	G82276DL			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:49857596-eee7-4047-be55-36e910223557	Psicose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:c22f3cb6-f319-4441-9117-735b63a41b04	Purpurosamine C						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:7deb4a67-0408-4d42-a7e9-d24f972902f6	Quinovosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:10d9b320-25e8-4945-893f-83ccd078a1ad	Quinovose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:42b2100b-1a04-4e56-9969-95bbd691dde2	Rhamnitol						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:c3115db4-8cce-4a02-8be6-5c55377f8272	Rhamnosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:4eeef486-48bb-49fa-8a2a-a8008c5f8b9b	Rhamnose						3B				PUBDICT_GLYCONAVI_NAME	Bacterial saccharides consist of diverse monosaccharides (Chapter 2) including 6-deoxy-hexoses like L-rhamnose or L-fucose as well as rare sugars that are often found at the terminal position of the oligosaccharide–lipid acceptors.	
+GSD:72457f64-d3e7-45b7-93e5-85dbf7a23b04	Rhodinose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:9d7bb73d-dd5a-45d6-8c87-901922ff03a4	Rhodosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:7e63c329-d407-4f0b-9804-0d98022538f4	Ribose						3B				PUBDICT_GLYCONAVI_NAME	Deoxygenation of ribose within a ribonucleotide to form the 2-deoxyribonucleotide is a critical reaction in DNA biosynthesis.	
+GSD:e5fa46fd-1ab7-4c38-aef1-cce432057c13	Ribulose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:96b18e29-d61a-476c-8eba-cd516f73c7ed	rutinose						3B	G68857PG			PUBDICTIONARIES-GLYCAN-IMAGE; PUBDICT_GLYCOSMOS; PUBDICT_GLYCONAVI_NAME		
+GSD:36c260fd-5dd6-427c-81aa-25aaae52bab1	Sai2-3Gal						3B	G77824XV; G30207PZ			SUGARBIND		
+GSD:8c1da32d-8461-4e05-8550-1e10ab90e081	Sarmentose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:ddd2df0f-408b-4b9b-8697-c764a6428fed	Sedoheptulosan						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:af7f0477-7484-4a93-a6ae-92d1a953d4ff	Sedoheptulose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:4e5b0601-d0df-4a2a-ac36-56e2629494f1	Sialic Acid		sialylation				3B	G81533KY			PUBDICT_GLYCAN_MOTIF	Sialic acids (Sias) and other nonulosonic acids (NulOs).	
+GSD:87c161ab-20ae-4e64-9314-dac32091a62f	Solatriose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f36218ae-3b06-43dd-b7b4-419b9df73d72	Sophorose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d0ec6505-274e-4db9-ac03-78e157bdeba7	Sorbose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:22183771-ddc6-44f4-b6a8-0223dbb7f8e7	Streptose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:f71b9af9-624e-4ab4-ab01-2bf4efb6a378	Sucrose						3B				PUBDICT_GLYCONAVI_NAME	Sucrose is the dominant transport carbohydrate for distributing the energy obtained by photosynthesis throughout the plant, in particular to nonphotosynthetic organs such as roots.	
+GSD:fc967f3f-3e32-4fa6-b059-b05516e4dadf	Tagatose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:5e611276-c9a8-4d5e-8dda-90422d66969d	Talose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:567728f2-b090-4f20-bb25-70278f447965	Threose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:d53603d6-74a6-4386-a824-a4ec8f8e9816	Trehalosamine						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:8f6f52f5-f365-4726-857c-5743b000683b	Turanose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:3dada771-bcb9-4542-bbd9-8309f734acbd	Tyvelose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:236a974e-745d-4805-9ff2-29ee14fd44b6	Xylose						3B				PUBDICT_GLYCONAVI_NAME	Biosynthesis of UDP-xylose and the branched sugar donor UDP-apiose from UDP-GlcA.	
+GSD:b301b0d9-2ac9-589a-9cd1-4539be294d96	xyloside						3B				EOG_VARKI_4E	In general, cells incubated with xylosides secrete large amounts of individual glycosaminoglycan chains and accumulate proteoglycans containing truncated chains.	
+GSD:b5e6a592-ae99-4bba-aef0-d9c50bcbb6ed	Xylulose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:bc380415-df64-4f88-b60b-cd29ecd3b4e3	α,α-Trehalose						3B				PUBDICT_GLYCONAVI_NAME		
+GSD:b1e943e8-3b74-5ca0-b624-b7035cb5867d	β-D-xyloside						3B				EOG_VARKI_4E	The success of β-D-xylosides in altering proteoglycan biosynthesis suggested that other glycosides might function similarly (Figure 55.5).	
+GSD:c17a3f6f-2bab-4362-b68c-42d759b26d7e	β-linked lactose						3B	G84224TW			PUBDICTIONARIES-GLYCAN-IMAGE		
+GSD:abba1fe0-a3ff-43b1-bbb6-9f87436b4f41	As-Fibrinogen						3C				BIOOLIGO		
+GSD:bc2640fd-a8f4-4eb6-a034-d48e26dd8837	asialo-, agalacto-N-glycan from porcine fibrinogen						3C				BIOOLIGO		
+GSD:f2dab9ed-ecb3-569f-ab8a-93c8083d549d	Aspergillus fumigatus GPI oligosaccharide						3C				EOG_VARKI_4E		
+GSD:9740ea72-408d-44f7-b4af-2cbc0b775db1	di-sialylated N-glycan from porcine fibrinogen						3C				BIOOLIGO		
+GSD:e58c8291-01db-4a5f-93e8-e4081c3e4cd5	Galactosyl lactose						3C				BIOOLIGO		
+GSD:3b8f083e-ede4-4292-a642-967f9497cb97	Human milk oligosaccharide core		Milk Sugar Core	Human milk oligosaccharide			3C	G15541SE		GlycoMotif:GGM.001029	GLYCOMOTIF_GGM		
+GSD:48f5dc7c-77b8-5e42-98c5-768334218a4e	keratan sulfate–related glycan antigens		KS–related antigens				3C				EOG_VARKI_4E		
+GSD:898a8243-636a-5c97-90ac-fa638de41d03	Leishmania lipophosphoglycan repeat unit						3C				EOG_VARKI_4E		
+GSD:9f847a5e-628e-4fa6-a150-533df6eb8a6f	Leukocyte common antigen	LCA	CD45				3C	G78436BB; G50850NI			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:3f89e885-ae14-41fb-98a7-559757b10852	Leukosialin	SPN	Sialophorin; CD43				3C	G78436BB; G50850NI			SUGARBIND; PUBDICT_GLYCAN_MOTIF		
+GSD:1a493b43-4ab1-40bd-b8d2-0b512280f944	MECA-79						3C	G22976NF			PUBDICT_GLYCAN_MOTIF	In contrast, the MECA-79 antibody recognizes extended core-1 O-glycans that contain internal GlcNAc-6-O-sulfate residues; it does not require either the fucose or sialic acid for recognition, but it does require the core-1 O-glycan.	
+GSD:ce7c690a-e8e2-4cff-9eea-efde676c1bcd	Mono-sialylated N-glycan from porcine fibrinogen						3C				BIOOLIGO		
+GSD:4bcdab57-7409-55df-98c2-eadb9cd4ed93	multiantennary complex-type N-glycan		multiantennary complex-type				3C				EOG_VARKI_4E		
+GSD:bad3690e-064c-4053-9af5-01ab6d2cc1f4	N-glycan mixture from horseradish peroxidase						3C				BIOOLIGO		
+GSD:365d7f89-b85d-538a-b378-d8b369d75d62	O-GalNAc-linked sialoglycans						3C				EOG_VARKI_4E		
+GSD:2c518afc-df5a-46c0-b686-57266ec10f2b	O-GlcNAc Core EGF Type						3C	G66213AR		GlycoMotif:GGM.001040	GLYCOMOTIF_GGM		
+GSD:bc21abf6-a11d-4d05-9bfd-4cc50d7dd184	O-mannosyl glycan / mammalian						3C	G59126YU; G41959YC			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:5f802fe3-3af2-4336-9166-e1b0b84740a6	O-mannosyl glycan / yeast						3C	G25559RS; G63072CF			PUBDICTIONARIES-GLYCAN-IMAGE; GLYCOEPITOPE; PUBDICT_GLYCAN_MOTIF		
+GSD:7020a983-8509-456b-84b4-7ae743b76012	tri-sialylated N-glycan from porcine fibrinogen						3C				BIOOLIGO		
+GSD:fa5185a6-7473-4c89-b15b-f004b431e838	2'F-A type 2						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:14fa8ef6-2dda-4e2c-a5c2-6ad56e0171b8	2'F-B type 2						1A				PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
+GSD:85d6d0f2-2894-4933-8805-aef2daea4421	cytolipin K						1A	G00061MO	GSD000088	GlycoMotif:GGM.000070	GSD_GLYGEN_V0		
+GSD:83ec4ae7-0110-45f1-8cd0-d6c83d59b811	H3						1A	G66086EX			SUGARBIND; PUBDICT_GLYCONAVI_NAME; PUBDICT_GLYCONAVI_ABBREV		
